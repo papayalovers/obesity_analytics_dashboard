@@ -1,0 +1,4 @@
+# ignore all notebook files
+*.ipynb
+# ignore all files from src
+src/
