@@ -1,0 +1,1611 @@
+sex,age,height,overweight_obese_family,consumption_of_fast_food,frequency_of_consuming_vegetables,number_of_main_meals_daily,food_intake_between_meals,smoking,liquid_intake_daily,calculation_of_calorie_intake,physical_excercise,schedule_dedicated_to_technology,type_of_transportation_used,class
+Female,18,155,No,No,Always,1-2,Usually,No,<1 liter,No,3-4 days a week,>5 hours,Public transportation,Normal
+Female,18,158,No,No,Always,1-2,Rarely,No,<1 liter,No,No Activity,>5 hours,Bicycle,Normal
+Female,18,159,No,No,Sometimes,1-2,Usually,No,>2 liter,No,1-2 days a week,>5 hours,Public transportation,Normal
+Female,18,162,No,No,Sometimes,3,Sometimes,No,1-2 liter,No,No Activity,>5 hours,Public transportation,Normal
+Female,18,165,No,Yes,Sometimes,1-2,Usually,No,<1 liter,No,3-4 days a week,>5 hours,Motorbike,Normal
+Female,18,176,Yes,Yes,Rarely,1-2,Always,No,1-2 liter,No,5-6 days a week,>5 hours,Public transportation,Normal
+Female,19,152,No,No,Always,1-2,Rarely,No,>2 liter,No,1-2 days a week,>5 hours,Motorbike,Normal
+Female,19,158,No,No,Always,3,Always,No,<1 liter,Yes,No Activity,>5 hours,Bicycle,Normal
+Female,19,159,No,No,Sometimes,3,Sometimes,No,<1 liter,No,1-2 days a week,>5 hours,Public transportation,Normal
+Female,19,162,No,No,Sometimes,3,Sometimes,No,1-2 liter,Yes,1-2 days a week,>5 hours,Public transportation,Overweight
+Female,19,163,No,No,Always,1-2,Usually,No,1-2 liter,No,3-4 days a week,>5 hours,Public transportation,Normal
+Female,19,163,No,No,Sometimes,1-2,Rarely,No,1-2 liter,No,No Activity,>5 hours,Public transportation,Normal
+Female,19,165,No,No,Always,1-2,Sometimes,No,<1 liter,No,1-2 days a week,>5 hours,Public transportation,Normal
+Female,19,166,No,Yes,Sometimes,1-2,Rarely,No,>2 liter,No,No Activity,>5 hours,Bicycle,Normal
+Female,19,181,Yes,No,Always,>3,Always,No,<1 liter,No,5-6 days a week,>5 hours,Public transportation,Normal
+Female,20,153,No,No,Always,3,Sometimes,No,1-2 liter,No,No Activity,>5 hours,Public transportation,Normal
+Female,20,155,No,No,Always,3,Always,No,<1 liter,No,1-2 days a week,>5 hours,Public transportation,Overweight
+Female,20,155,No,No,Always,3,Usually,No,1-2 liter,No,1-2 days a week,>5 hours,Bicycle,Normal
+Female,20,156,No,No,Sometimes,3,Sometimes,No,1-2 liter,No,5-6 days a week,>5 hours,Public transportation,Normal
+Female,20,157,No,No,Always,3,Always,Yes,1-2 liter,No,3-4 days a week,>5 hours,Bicycle,Normal
+Female,20,157,No,No,Sometimes,1-2,Sometimes,No,<1 liter,No,3-4 days a week,>5 hours,Public transportation,Normal
+Female,20,158,No,No,Always,3,Sometimes,No,1-2 liter,No,3-4 days a week,>5 hours,Bicycle,Normal
+Female,20,158,No,No,Sometimes,1-2,Usually,No,>2 liter,No,No Activity,>5 hours,Bicycle,Normal
+Female,20,158,No,No,Sometimes,3,Sometimes,No,1-2 liter,No,1-2 days a week,>5 hours,Walking,Normal
+Female,20,158,No,No,Always,3,Sometimes,No,1-2 liter,No,No Activity,>5 hours,Walking,Normal
+Female,20,159,No,No,Always,3,Rarely,No,1-2 liter,No,1-2 days a week,>5 hours,Walking,Normal
+Female,20,160,No,No,Sometimes,3,Always,No,1-2 liter,No,3-4 days a week,>5 hours,Bicycle,Overweight
+Female,20,161,No,Yes,Always,3,Usually,No,1-2 liter,No,5-6 days a week,>5 hours,Bicycle,Normal
+Female,20,161,No,No,Sometimes,>3,Always,No,>2 liter,No,No Activity,>5 hours,Public transportation,Overweight
+Female,20,161,No,Yes,Sometimes,3,Usually,No,1-2 liter,No,No Activity,3-5 hours,Automobile,Obesity
+Female,20,162,No,No,Always,3,Sometimes,No,<1 liter,Yes,No Activity,>5 hours,Public transportation,Normal
+Female,20,162,No,Yes,Sometimes,3,Rarely,No,<1 liter,No,3-4 days a week,>5 hours,Walking,Overweight
+Female,20,163,No,No,Rarely,>3,Rarely,No,1-2 liter,Yes,5-6 days a week,>5 hours,Public transportation,Overweight
+Female,20,163,No,No,Sometimes,3,Sometimes,No,<1 liter,No,1-2 days a week,>5 hours,Bicycle,Normal
+Female,20,163,No,No,Always,1-2,Sometimes,No,1-2 liter,No,5-6 days a week,>5 hours,Walking,Normal
+Female,20,164,No,No,Sometimes,3,Sometimes,No,1-2 liter,No,1-2 days a week,>5 hours,Public transportation,Normal
+Female,20,164,No,No,Sometimes,1-2,Usually,No,1-2 liter,No,3-4 days a week,>5 hours,Motorbike,Normal
+Female,20,165,No,No,Sometimes,3,Rarely,No,1-2 liter,No,1-2 days a week,>5 hours,Public transportation,Normal
+Female,20,165,No,No,Sometimes,3,Sometimes,No,>2 liter,No,No Activity,>5 hours,Public transportation,Normal
+Female,20,168,No,No,Always,3,Sometimes,No,>2 liter,No,No Activity,>5 hours,Public transportation,Normal
+Female,20,169,No,No,Always,3,Always,No,1-2 liter,No,No Activity,>5 hours,Public transportation,Normal
+Female,20,171,No,No,Always,3,Rarely,No,>2 liter,No,No Activity,>5 hours,Public transportation,Normal
+Female,20,175,No,No,Always,3,Usually,No,>2 liter,No,1-2 days a week,>5 hours,Motorbike,Normal
+Female,20,177,No,No,Sometimes,1-2,Sometimes,No,<1 liter,No,3-4 days a week,>5 hours,Public transportation,Normal
+Female,20,178,No,No,Always,1-2,Sometimes,No,1-2 liter,No,5-6 days a week,>5 hours,Public transportation,Normal
+Female,21,153,No,No,Sometimes,1-2,Usually,No,>2 liter,No,3-4 days a week,>5 hours,Public transportation,Normal
+Female,21,155,No,No,Sometimes,1-2,Rarely,No,>2 liter,No,No Activity,>5 hours,Public transportation,Overweight
+Female,21,155,No,No,Sometimes,1-2,Sometimes,No,1-2 liter,No,3-4 days a week,>5 hours,Public transportation,Overweight
+Female,21,156,No,No,Always,3,Always,No,1-2 liter,No,3-4 days a week,>5 hours,Bicycle,Normal
+Female,21,157,No,No,Sometimes,3,Sometimes,No,1-2 liter,No,1-2 days a week,>5 hours,Bicycle,Normal
+Female,21,157,No,Yes,Always,1-2,Usually,No,<1 liter,No,3-4 days a week,>5 hours,Public transportation,Normal
+Female,21,158,No,Yes,Always,3,Rarely,Yes,1-2 liter,No,No Activity,>5 hours,Public transportation,Normal
+Female,21,158,No,No,Sometimes,3,Sometimes,No,<1 liter,No,1-2 days a week,>5 hours,Public transportation,Normal
+Female,21,164,No,No,Sometimes,3,Sometimes,No,1-2 liter,No,1-2 days a week,3-5 hours,Public transportation,Normal
+Female,21,160,No,No,Sometimes,1-2,Sometimes,No,>2 liter,No,3-4 days a week,>5 hours,Bicycle,Normal
+Female,21,160,No,No,Always,1-2,Usually,No,1-2 liter,No,No Activity,>5 hours,Bicycle,Normal
+Female,21,160,No,No,Always,1-2,Always,No,>2 liter,No,3-4 days a week,>5 hours,Public transportation,Normal
+Female,21,163,No,No,Always,1-2,Rarely,No,1-2 liter,No,3-4 days a week,>5 hours,Public transportation,Normal
+Female,21,163,No,Yes,Always,>3,Usually,Yes,<1 liter,No,5-6 days a week,3-5 hours,Motorbike,Normal
+Female,21,163,No,No,Always,3,Usually,No,>2 liter,No,1-2 days a week,>5 hours,Public transportation,Normal
+Female,21,164,No,No,Always,3,Sometimes,No,1-2 liter,No,3-4 days a week,>5 hours,Walking,Overweight
+Female,21,164,No,No,Sometimes,3,Sometimes,No,>2 liter,No,1-2 days a week,>5 hours,Public transportation,Normal
+Female,21,165,No,No,Always,1-2,Always,No,<1 liter,No,3-4 days a week,>5 hours,Bicycle,Normal
+Female,21,166,Yes,No,Sometimes,1-2,Rarely,No,1-2 liter,No,3-4 days a week,>5 hours,Public transportation,Normal
+Female,21,169,No,No,Sometimes,3,Sometimes,No,<1 liter,No,1-2 days a week,>5 hours,Bicycle,Normal
+Female,21,171,No,Yes,Always,3,Usually,No,<1 liter,No,3-4 days a week,>5 hours,Bicycle,Normal
+Female,21,174,No,No,Always,3,Sometimes,No,1-2 liter,No,3-4 days a week,>5 hours,Walking,Normal
+Female,21,177,No,No,Always,3,Rarely,No,1-2 liter,No,No Activity,>5 hours,Bicycle,Normal
+Female,22,156,No,No,Always,1-2,Rarely,No,<1 liter,No,3-4 days a week,>5 hours,Bicycle,Normal
+Female,22,156,No,No,Always,3,Usually,No,1-2 liter,No,No Activity,>5 hours,Public transportation,Normal
+Female,22,156,No,No,Always,3,Usually,No,>2 liter,No,No Activity,>5 hours,Public transportation,Normal
+Female,22,157,No,No,Always,3,Always,No,>2 liter,No,3-4 days a week,>5 hours,Walking,Normal
+Female,22,158,No,No,Always,3,Rarely,No,<1 liter,No,3-4 days a week,>5 hours,Bicycle,Normal
+Female,22,170,No,No,Always,3,Rarely,No,>2 liter,No,3-4 days a week,3-5 hours,Bicycle,Normal
+Female,22,159,No,No,Always,1-2,Usually,No,<1 liter,No,3-4 days a week,3-5 hours,Bicycle,Normal
+Female,22,159,No,No,Sometimes,1-2,Sometimes,No,>2 liter,Yes,1-2 days a week,3-5 hours,Public transportation,Normal
+Female,22,159,No,No,Always,1-2,Usually,No,>2 liter,No,3-4 days a week,3-5 hours,Public transportation,Normal
+Female,22,160,No,No,Sometimes,1-2,Always,Yes,1-2 liter,Yes,1-2 days a week,3-5 hours,Public transportation,Normal
+Female,22,160,No,No,Always,1-2,Rarely,No,<1 liter,No,No Activity,3-5 hours,Public transportation,Normal
+Female,22,161,No,No,Always,3,Sometimes,No,1-2 liter,No,3-4 days a week,3-5 hours,Public transportation,Normal
+Female,22,161,No,No,Always,1-2,Usually,No,1-2 liter,Yes,No Activity,3-5 hours,Public transportation,Normal
+Female,22,163,No,No,Always,3,Usually,No,<1 liter,No,No Activity,3-5 hours,Public transportation,Normal
+Female,22,167,No,No,Sometimes,1-2,Rarely,No,>2 liter,No,No Activity,3-5 hours,Public transportation,Normal
+Female,22,168,No,No,Sometimes,3,Sometimes,No,1-2 liter,No,1-2 days a week,3-5 hours,Bicycle,Normal
+Female,22,171,No,No,Always,1-2,Rarely,Yes,1-2 liter,No,3-4 days a week,3-5 hours,Walking,Normal
+Female,22,172,No,No,Sometimes,3,Sometimes,No,>2 liter,No,1-2 days a week,3-5 hours,Public transportation,Normal
+Female,22,174,Yes,Yes,Always,3,Rarely,Yes,1-2 liter,No,5-6 days a week,3-5 hours,Public transportation,Normal
+Female,23,156,No,No,Always,3,Sometimes,No,>2 liter,No,3-4 days a week,3-5 hours,Public transportation,Normal
+Female,23,156,No,No,Sometimes,1-2,Rarely,No,1-2 liter,No,3-4 days a week,3-5 hours,Bicycle,Normal
+Female,23,156,Yes,No,Sometimes,3,Sometimes,No,1-2 liter,No,1-2 days a week,3-5 hours,Bicycle,Normal
+Female,23,156,No,No,Sometimes,3,Sometimes,No,1-2 liter,No,5-6 days a week,3-5 hours,Bicycle,Overweight
+Female,23,157,No,No,Always,1-2,Usually,No,1-2 liter,No,No Activity,3-5 hours,Public transportation,Normal
+Female,23,157,No,No,Always,1-2,Usually,No,1-2 liter,No,3-4 days a week,3-5 hours,Walking,Normal
+Female,23,159,Yes,Yes,Rarely,>3,Sometimes,Yes,<1 liter,Yes,6 or more days a week,3-5 hours,Automobile,Obesity
+Female,23,170,No,No,Sometimes,1-2,Usually,No,>2 liter,No,3-4 days a week,3-5 hours,Public transportation,Normal
+Female,23,160,No,No,Always,3,Sometimes,No,1-2 liter,No,3-4 days a week,3-5 hours,Motorbike,Normal
+Female,23,160,No,No,Always,3,Usually,No,<1 liter,No,3-4 days a week,3-5 hours,Public transportation,Normal
+Female,23,160,No,No,Always,3,Sometimes,No,>2 liter,No,No Activity,3-5 hours,Public transportation,Normal
+Female,23,161,No,No,Always,3,Always,No,>2 liter,No,1-2 days a week,3-5 hours,Public transportation,Normal
+Female,23,161,No,No,Always,1-2,Usually,No,<1 liter,No,3-4 days a week,3-5 hours,Walking,Normal
+Female,23,161,No,No,Sometimes,1-2,Sometimes,Yes,>2 liter,No,1-2 days a week,3-5 hours,Bicycle,Normal
+Female,23,162,No,No,Always,1-2,Sometimes,No,>2 liter,No,3-4 days a week,3-5 hours,Public transportation,Normal
+Female,23,162,No,No,Sometimes,1-2,Usually,No,<1 liter,No,3-4 days a week,3-5 hours,Public transportation,Normal
+Female,23,162,No,No,Always,3,Rarely,No,1-2 liter,No,1-2 days a week,3-5 hours,Walking,Normal
+Female,23,163,No,No,Sometimes,3,Sometimes,No,>2 liter,No,1-2 days a week,3-5 hours,Walking,Normal
+Female,23,165,Yes,Yes,Sometimes,1-2,Rarely,Yes,>2 liter,No,6 or more days a week,3-5 hours,Walking,Normal
+Female,23,165,No,No,Always,3,Sometimes,No,>2 liter,No,1-2 days a week,3-5 hours,Bicycle,Normal
+Female,23,166,No,No,Always,3,Sometimes,No,<1 liter,No,1-2 days a week,3-5 hours,Public transportation,Normal
+Female,23,167,No,No,Sometimes,3,Sometimes,No,>2 liter,No,1-2 days a week,3-5 hours,Bicycle,Normal
+Female,23,172,No,No,Sometimes,1-2,Rarely,No,>2 liter,No,3-4 days a week,3-5 hours,Bicycle,Normal
+Female,23,172,No,No,Always,3,Rarely,No,>2 liter,No,3-4 days a week,3-5 hours,Public transportation,Normal
+Female,23,173,No,No,Sometimes,1-2,Sometimes,No,1-2 liter,No,No Activity,3-5 hours,Public transportation,Normal
+Female,23,176,No,No,Always,1-2,Usually,No,1-2 liter,Yes,3-4 days a week,3-5 hours,Public transportation,Normal
+Female,24,158,No,No,Always,1-2,Rarely,Yes,1-2 liter,No,No Activity,3-5 hours,Public transportation,Normal
+Female,24,158,No,No,Sometimes,1-2,Rarely,No,1-2 liter,No,1-2 days a week,3-5 hours,Public transportation,Normal
+Female,24,159,No,No,Sometimes,3,Sometimes,No,1-2 liter,No,5-6 days a week,3-5 hours,Walking,Normal
+Female,24,159,No,No,Always,3,Sometimes,No,<1 liter,No,1-2 days a week,3-5 hours,Public transportation,Normal
+Female,24,159,Yes,No,Always,3,Sometimes,No,1-2 liter,No,3-4 days a week,3-5 hours,Public transportation,Normal
+Female,24,160,No,No,Always,3,Sometimes,No,1-2 liter,No,3-4 days a week,3-5 hours,Bicycle,Normal
+Female,24,161,No,No,Always,>3,Rarely,No,>2 liter,No,3-4 days a week,3-5 hours,Public transportation,Normal
+Female,24,161,No,No,Sometimes,3,Sometimes,No,<1 liter,No,1-2 days a week,3-5 hours,Bicycle,Normal
+Female,24,161,No,No,Always,1-2,Sometimes,No,<1 liter,No,3-4 days a week,3-5 hours,Public transportation,Normal
+Female,24,161,No,No,Always,>3,Usually,No,>2 liter,No,5-6 days a week,3-5 hours,Public transportation,Normal
+Female,24,161,No,No,Sometimes,1-2,Rarely,No,1-2 liter,Yes,3-4 days a week,3-5 hours,Bicycle,Normal
+Female,24,163,No,No,Always,3,Usually,No,1-2 liter,No,No Activity,3-5 hours,Public transportation,Normal
+Female,24,164,No,No,Sometimes,1-2,Usually,No,<1 liter,No,3-4 days a week,3-5 hours,Bicycle,Normal
+Female,24,164,No,Yes,Always,1-2,Rarely,Yes,>2 liter,No,6 or more days a week,3-5 hours,Bicycle,Normal
+Female,24,164,No,No,Sometimes,1-2,Sometimes,No,>2 liter,No,5-6 days a week,3-5 hours,Public transportation,Normal
+Female,24,166,No,Yes,Always,3,Rarely,No,>2 liter,No,3-4 days a week,3-5 hours,Public transportation,Normal
+Female,24,168,No,No,Always,3,Sometimes,No,<1 liter,No,3-4 days a week,3-5 hours,Walking,Normal
+Female,24,169,No,No,Always,3,Rarely,No,<1 liter,No,3-4 days a week,3-5 hours,Public transportation,Normal
+Female,24,175,No,No,Always,3,Usually,No,<1 liter,No,3-4 days a week,3-5 hours,Walking,Normal
+Female,24,177,No,No,Always,1-2,Rarely,No,>2 liter,No,No Activity,3-5 hours,Public transportation,Normal
+Female,25,152,No,No,Sometimes,3,Usually,No,>2 liter,No,3-4 days a week,3-5 hours,Public transportation,Normal
+Female,25,153,No,Yes,Rarely,3,Sometimes,Yes,>2 liter,No,5-6 days a week,3-5 hours,Public transportation,Overweight
+Female,25,155,No,No,Always,3,Usually,No,>2 liter,No,1-2 days a week,3-5 hours,Bicycle,Normal
+Female,25,157,No,No,Sometimes,3,Sometimes,No,>2 liter,No,1-2 days a week,3-5 hours,Walking,Normal
+Female,25,158,No,No,Always,3,Sometimes,No,>2 liter,No,6 or more days a week,3-5 hours,Public transportation,Normal
+Female,25,158,No,No,Always,3,Sometimes,No,>2 liter,No,1-2 days a week,0-2 hours,Bicycle,Normal
+Female,25,160,No,No,Sometimes,3,Sometimes,No,>2 liter,No,3-4 days a week,3-5 hours,Walking,Overweight
+Female,25,160,No,No,Always,>3,Usually,Yes,>2 liter,No,6 or more days a week,>5 hours,Public transportation,Normal
+Female,25,162,No,No,Sometimes,1-2,Sometimes,No,>2 liter,No,1-2 days a week,0-2 hours,Public transportation,Normal
+Female,25,162,No,No,Always,3,Sometimes,No,>2 liter,No,5-6 days a week,3-5 hours,Public transportation,Overweight
+Female,25,163,No,No,Sometimes,3,Sometimes,No,>2 liter,No,3-4 days a week,3-5 hours,Bicycle,Normal
+Female,25,165,No,No,Sometimes,3,Usually,No,>2 liter,No,1-2 days a week,3-5 hours,Public transportation,Normal
+Female,25,165,No,No,Sometimes,1-2,Sometimes,No,>2 liter,No,6 or more days a week,3-5 hours,Public transportation,Normal
+Female,25,168,No,Yes,Sometimes,>3,Usually,No,>2 liter,No,5-6 days a week,>5 hours,Public transportation,Normal
+Female,25,168,No,No,Always,1-2,Sometimes,No,1-2 liter,No,3-4 days a week,3-5 hours,Public transportation,Normal
+Female,25,169,No,No,Rarely,3,Sometimes,No,1-2 liter,No,5-6 days a week,3-5 hours,Public transportation,Overweight
+Female,25,170,No,No,Always,3,Rarely,No,>2 liter,No,6 or more days a week,3-5 hours,Motorbike,Normal
+Female,25,172,No,No,Sometimes,1-2,Usually,No,1-2 liter,No,5-6 days a week,3-5 hours,Public transportation,Normal
+Female,25,177,No,No,Always,3,Sometimes,No,1-2 liter,No,1-2 days a week,>5 hours,Public transportation,Normal
+Female,26,159,No,Yes,Sometimes,3,Sometimes,No,1-2 liter,No,No Activity,3-5 hours,Public transportation,Normal
+Female,26,152,No,Yes,Always,3,Rarely,No,>2 liter,No,5-6 days a week,3-5 hours,Public transportation,Normal
+Female,26,153,No,Yes,Rarely,3,Usually,No,>2 liter,No,5-6 days a week,0-2 hours,Bicycle,Normal
+Female,26,153,No,No,Always,3,Rarely,No,1-2 liter,No,1-2 days a week,3-5 hours,Motorbike,Normal
+Female,26,156,No,No,Always,1-2,Sometimes,No,1-2 liter,No,5-6 days a week,0-2 hours,Public transportation,Normal
+Female,26,157,No,No,Always,3,Rarely,No,1-2 liter,No,1-2 days a week,>5 hours,Motorbike,Normal
+Female,26,157,No,No,Sometimes,3,Sometimes,No,>2 liter,No,5-6 days a week,0-2 hours,Public transportation,Normal
+Female,26,158,No,Yes,Rarely,1-2,Rarely,No,>2 liter,No,6 or more days a week,3-5 hours,Public transportation,Normal
+Female,26,160,Yes,No,Rarely,3,Rarely,Yes,>2 liter,No,No Activity,0-2 hours,Public transportation,Normal
+Female,26,160,No,No,Sometimes,3,Rarely,No,>2 liter,No,1-2 days a week,3-5 hours,Motorbike,Normal
+Female,26,162,No,No,Always,3,Sometimes,No,1-2 liter,No,1-2 days a week,3-5 hours,Public transportation,Normal
+Female,26,165,No,No,Sometimes,3,Rarely,No,>2 liter,No,1-2 days a week,3-5 hours,Public transportation,Normal
+Female,26,166,No,No,Sometimes,3,Usually,No,>2 liter,No,6 or more days a week,0-2 hours,Public transportation,Normal
+Female,26,168,No,No,Sometimes,1-2,Usually,No,<1 liter,Yes,3-4 days a week,3-5 hours,Bicycle,Normal
+Female,26,168,No,No,Always,1-2,Rarely,No,<1 liter,No,5-6 days a week,3-5 hours,Public transportation,Normal
+Female,26,170,No,No,Always,3,Sometimes,No,>2 liter,No,3-4 days a week,3-5 hours,Public transportation,Normal
+Female,26,171,No,No,Always,1-2,Sometimes,No,<1 liter,No,5-6 days a week,0-2 hours,Walking,Normal
+Female,26,174,No,No,Sometimes,3,Sometimes,No,<1 liter,No,1-2 days a week,3-5 hours,Walking,Normal
+Female,26,175,Yes,Yes,Rarely,>3,Always,Yes,>2 liter,No,6 or more days a week,>5 hours,Public transportation,Overweight
+Female,26,176,Yes,Yes,Sometimes,1-2,Usually,Yes,<1 liter,Yes,5-6 days a week,3-5 hours,Public transportation,Normal
+Female,27,151,No,No,Always,3,Sometimes,Yes,1-2 liter,No,5-6 days a week,>5 hours,Bicycle,Normal
+Female,27,154,No,Yes,Sometimes,3,Rarely,Yes,>2 liter,No,3-4 days a week,3-5 hours,Public transportation,Normal
+Female,27,156,Yes,No,Sometimes,>3,Usually,No,>2 liter,Yes,5-6 days a week,0-2 hours,Public transportation,Normal
+Female,27,159,No,No,Always,1-2,Always,No,1-2 liter,Yes,6 or more days a week,>5 hours,Public transportation,Normal
+Female,27,159,No,No,Rarely,3,Always,Yes,1-2 liter,No,5-6 days a week,0-2 hours,Public transportation,Overweight
+Female,27,159,No,No,Sometimes,3,Sometimes,No,<1 liter,No,6 or more days a week,>5 hours,Walking,Overweight
+Female,27,160,No,Yes,Always,3,Rarely,Yes,1-2 liter,No,6 or more days a week,0-2 hours,Walking,Overweight
+Female,27,163,No,No,Rarely,>3,Sometimes,No,>2 liter,Yes,5-6 days a week,3-5 hours,Automobile,Obesity
+Female,27,167,No,No,Always,3,Sometimes,No,>2 liter,No,5-6 days a week,0-2 hours,Motorbike,Normal
+Female,27,169,No,No,Always,3,Usually,Yes,>2 liter,No,3-4 days a week,0-2 hours,Walking,Normal
+Female,27,173,No,No,Sometimes,1-2,Sometimes,No,<1 liter,No,3-4 days a week,3-5 hours,Public transportation,Normal
+Female,28,152,No,Yes,Always,3,Rarely,Yes,>2 liter,No,6 or more days a week,3-5 hours,Public transportation,Normal
+Female,28,157,No,No,Always,1-2,Usually,Yes,>2 liter,No,1-2 days a week,0-2 hours,Public transportation,Normal
+Female,28,158,No,No,Sometimes,3,Sometimes,No,>2 liter,No,1-2 days a week,3-5 hours,Public transportation,Overweight
+Female,28,160,No,No,Sometimes,>3,Rarely,No,<1 liter,No,6 or more days a week,>5 hours,Public transportation,Normal
+Female,28,160,No,No,Sometimes,1-2,Rarely,No,>2 liter,No,No Activity,3-5 hours,Walking,Normal
+Female,28,163,No,No,Always,1-2,Usually,No,<1 liter,No,5-6 days a week,>5 hours,Public transportation,Normal
+Female,28,164,No,No,Sometimes,1-2,Sometimes,No,>2 liter,No,3-4 days a week,0-2 hours,Bicycle,Normal
+Female,28,166,No,No,Always,3,Usually,No,1-2 liter,No,5-6 days a week,3-5 hours,Public transportation,Normal
+Female,28,168,No,No,Sometimes,3,Usually,No,>2 liter,No,1-2 days a week,3-5 hours,Bicycle,Normal
+Female,28,170,No,No,Always,1-2,Usually,No,<1 liter,No,5-6 days a week,0-2 hours,Bicycle,Normal
+Female,28,174,No,No,Always,1-2,Usually,No,>2 liter,No,No Activity,>5 hours,Public transportation,Normal
+Female,29,157,No,No,Always,3,Rarely,No,<1 liter,No,6 or more days a week,3-5 hours,Public transportation,Normal
+Female,29,159,No,No,Sometimes,3,Sometimes,No,<1 liter,No,3-4 days a week,0-2 hours,Walking,Normal
+Female,29,161,No,No,Sometimes,3,Always,No,1-2 liter,No,3-4 days a week,3-5 hours,Public transportation,Overweight
+Female,29,162,No,No,Sometimes,3,Sometimes,No,1-2 liter,No,1-2 days a week,3-5 hours,Walking,Overweight
+Female,29,165,No,No,Sometimes,3,Usually,No,>2 liter,No,1-2 days a week,0-2 hours,Public transportation,Normal
+Female,29,168,No,No,Always,1-2,Usually,No,>2 liter,Yes,6 or more days a week,3-5 hours,Public transportation,Normal
+Female,29,170,No,No,Sometimes,3,Sometimes,No,>2 liter,No,1-2 days a week,0-2 hours,Public transportation,Normal
+Female,29,171,No,No,Sometimes,3,Usually,No,<1 liter,No,3-4 days a week,3-5 hours,Public transportation,Normal
+Female,29,171,Yes,No,Sometimes,1-2,Sometimes,Yes,>2 liter,No,6 or more days a week,0-2 hours,Public transportation,Normal
+Female,29,174,No,No,Always,1-2,Usually,No,>2 liter,Yes,5-6 days a week,3-5 hours,Public transportation,Normal
+Female,29,181,No,Yes,Rarely,3,Usually,No,1-2 liter,No,6 or more days a week,0-2 hours,Public transportation,Overweight
+Female,30,157,No,No,Always,3,Rarely,No,>2 liter,No,5-6 days a week,3-5 hours,Bicycle,Normal
+Female,30,160,No,No,Always,3,Rarely,No,>2 liter,No,6 or more days a week,3-5 hours,Public transportation,Normal
+Female,30,160,No,No,Always,3,Rarely,No,>2 liter,No,1-2 days a week,0-2 hours,Public transportation,Normal
+Female,30,162,No,No,Always,3,Rarely,No,>2 liter,No,6 or more days a week,3-5 hours,Public transportation,Normal
+Female,30,162,No,No,Sometimes,1-2,Rarely,No,<1 liter,Yes,5-6 days a week,3-5 hours,Public transportation,Normal
+Female,30,165,No,No,Sometimes,3,Sometimes,No,>2 liter,No,1-2 days a week,3-5 hours,Walking,Normal
+Female,30,168,No,No,Rarely,3,Always,No,>2 liter,No,6 or more days a week,0-2 hours,Public transportation,Overweight
+Female,31,155,No,No,Sometimes,3,Sometimes,No,>2 liter,No,3-4 days a week,0-2 hours,Walking,Overweight
+Female,31,158,No,No,Rarely,3,Usually,No,<1 liter,No,6 or more days a week,3-5 hours,Walking,Overweight
+Female,31,160,Yes,No,Sometimes,>3,Rarely,No,1-2 liter,Yes,5-6 days a week,0-2 hours,Public transportation,Normal
+Female,31,164,No,No,Sometimes,3,Sometimes,No,1-2 liter,No,1-2 days a week,0-2 hours,Walking,Normal
+Female,31,166,No,No,Sometimes,1-2,Usually,No,1-2 liter,No,5-6 days a week,3-5 hours,Bicycle,Normal
+Female,31,167,No,No,Sometimes,3,Sometimes,No,>2 liter,No,1-2 days a week,3-5 hours,Motorbike,Normal
+Female,31,154,No,Yes,Sometimes,3,Usually,No,>2 liter,No,5-6 days a week,0-2 hours,Automobile,Normal
+Female,31,158,No,No,Sometimes,3,Sometimes,No,1-2 liter,Yes,5-6 days a week,3-5 hours,Automobile,Overweight
+Female,31,160,No,No,Sometimes,3,Sometimes,No,>2 liter,No,1-2 days a week,3-5 hours,Automobile,Normal
+Female,32,154,No,Yes,Always,3,Rarely,Yes,>2 liter,No,5-6 days a week,0-2 hours,Bicycle,Normal
+Female,32,156,No,No,Sometimes,3,Sometimes,No,>2 liter,No,3-4 days a week,0-2 hours,Automobile,Normal
+Female,32,159,No,No,Sometimes,3,Sometimes,No,1-2 liter,No,1-2 days a week,3-5 hours,Walking,Overweight
+Female,32,160,No,No,Always,3,Always,No,1-2 liter,No,6 or more days a week,0-2 hours,Automobile,Overweight
+Female,32,160,No,No,Sometimes,3,Sometimes,No,<1 liter,No,1-2 days a week,3-5 hours,Automobile,Normal
+Female,32,162,No,No,Always,1-2,Always,No,1-2 liter,Yes,6 or more days a week,3-5 hours,Automobile,Normal
+Female,32,164,No,No,Always,3,Sometimes,No,>2 liter,No,6 or more days a week,0-2 hours,Automobile,Normal
+Female,32,165,No,No,Always,3,Sometimes,Yes,<1 liter,No,6 or more days a week,3-5 hours,Automobile,Normal
+Female,32,169,No,No,Sometimes,3,Sometimes,Yes,<1 liter,No,3-4 days a week,>5 hours,Automobile,Normal
+Female,32,170,No,No,Always,>3,Always,Yes,>2 liter,Yes,5-6 days a week,3-5 hours,Automobile,Overweight
+Female,33,156,Yes,No,Always,3,Sometimes,Yes,>2 liter,No,6 or more days a week,0-2 hours,Automobile,Overweight
+Female,33,158,No,No,Sometimes,3,Sometimes,No,1-2 liter,No,1-2 days a week,0-2 hours,Automobile,Overweight
+Female,33,158,No,No,Rarely,3,Rarely,No,1-2 liter,No,5-6 days a week,0-2 hours,Automobile,Overweight
+Female,33,160,No,Yes,Sometimes,1-2,Rarely,Yes,>2 liter,No,6 or more days a week,0-2 hours,Automobile,Normal
+Female,33,162,No,No,Sometimes,1-2,Rarely,No,>2 liter,No,3-4 days a week,3-5 hours,Walking,Overweight
+Female,33,162,No,No,Always,3,Always,No,1-2 liter,Yes,3-4 days a week,3-5 hours,Automobile,Overweight
+Female,33,164,No,No,Always,3,Rarely,No,>2 liter,Yes,1-2 days a week,0-2 hours,Walking,Normal
+Female,33,165,No,No,Rarely,3,Usually,Yes,<1 liter,Yes,5-6 days a week,0-2 hours,Automobile,Normal
+Female,33,168,No,No,Always,3,Sometimes,No,>2 liter,No,3-4 days a week,3-5 hours,Automobile,Normal
+Female,33,171,No,No,Always,>3,Rarely,No,>2 liter,No,5-6 days a week,>5 hours,Automobile,Normal
+Female,34,152,No,No,Sometimes,1-2,Sometimes,No,<1 liter,No,3-4 days a week,0-2 hours,Automobile,Normal
+Female,34,155,No,No,Sometimes,1-2,Rarely,No,1-2 liter,No,5-6 days a week,3-5 hours,Automobile,Normal
+Female,34,158,No,No,Sometimes,1-2,Rarely,No,1-2 liter,No,5-6 days a week,3-5 hours,Automobile,Overweight
+Female,34,160,Yes,Yes,Rarely,>3,Rarely,Yes,>2 liter,Yes,6 or more days a week,>5 hours,Automobile,Obesity
+Female,34,165,Yes,No,Always,3,Rarely,No,>2 liter,No,3-4 days a week,0-2 hours,Automobile,Normal
+Female,34,168,No,No,Always,1-2,Usually,No,>2 liter,No,3-4 days a week,3-5 hours,Automobile,Normal
+Female,34,173,No,No,Always,1-2,Rarely,No,>2 liter,No,3-4 days a week,0-2 hours,Automobile,Normal
+Female,34,178,No,No,Always,3,Sometimes,No,1-2 liter,No,1-2 days a week,3-5 hours,Automobile,Normal
+Female,35,169,No,Yes,Rarely,>3,Rarely,No,>2 liter,Yes,5-6 days a week,0-2 hours,Automobile,Overweight
+Female,35,157,No,No,Always,3,Sometimes,No,>2 liter,No,6 or more days a week,3-5 hours,Automobile,Normal
+Female,35,158,No,Yes,Sometimes,1-2,Rarely,No,<1 liter,No,6 or more days a week,0-2 hours,Automobile,Normal
+Female,35,160,No,No,Always,>3,Rarely,No,<1 liter,No,3-4 days a week,3-5 hours,Automobile,Normal
+Female,35,160,No,No,Sometimes,3,Sometimes,No,>2 liter,No,5-6 days a week,0-2 hours,Automobile,Normal
+Female,35,163,No,No,Always,>3,Usually,No,>2 liter,No,6 or more days a week,3-5 hours,Automobile,Normal
+Female,35,167,No,No,Always,3,Usually,No,>2 liter,No,6 or more days a week,0-2 hours,Automobile,Normal
+Female,35,171,No,No,Always,1-2,Always,Yes,>2 liter,Yes,5-6 days a week,0-2 hours,Automobile,Normal
+Female,36,154,No,No,Sometimes,3,Always,No,>2 liter,No,3-4 days a week,3-5 hours,Automobile,Overweight
+Female,36,158,No,Yes,Sometimes,3,Sometimes,No,1-2 liter,No,3-4 days a week,3-5 hours,Automobile,Overweight
+Female,36,160,No,No,Always,1-2,Rarely,No,1-2 liter,No,5-6 days a week,0-2 hours,Automobile,Normal
+Female,36,163,No,No,Always,1-2,Rarely,No,<1 liter,No,6 or more days a week,>5 hours,Automobile,Normal
+Female,36,168,Yes,No,Sometimes,3,Rarely,No,1-2 liter,No,6 or more days a week,3-5 hours,Automobile,Overweight
+Female,36,173,No,No,Sometimes,3,Sometimes,No,>2 liter,No,5-6 days a week,>5 hours,Automobile,Overweight
+Female,37,169,No,No,Always,3,Sometimes,No,1-2 liter,No,6 or more days a week,3-5 hours,Automobile,Normal
+Female,37,166,No,No,Always,>3,Rarely,Yes,1-2 liter,No,No Activity,0-2 hours,Automobile,Normal
+Female,37,159,No,No,Sometimes,3,Sometimes,No,>2 liter,No,5-6 days a week,3-5 hours,Automobile,Normal
+Female,37,160,No,No,Sometimes,1-2,Sometimes,No,1-2 liter,No,No Activity,3-5 hours,Automobile,Normal
+Female,37,163,No,No,Sometimes,>3,Always,No,>2 liter,No,5-6 days a week,0-2 hours,Automobile,Overweight
+Female,37,166,No,Yes,Rarely,1-2,Always,Yes,1-2 liter,No,6 or more days a week,3-5 hours,Automobile,Overweight
+Female,37,173,No,No,Always,3,Sometimes,No,<1 liter,No,3-4 days a week,3-5 hours,Automobile,Normal
+Female,37,177,No,No,Sometimes,1-2,Rarely,No,>2 liter,No,5-6 days a week,3-5 hours,Automobile,Normal
+Female,38,154,No,Yes,Rarely,3,Rarely,No,1-2 liter,No,6 or more days a week,0-2 hours,Automobile,Overweight
+Female,38,172,Yes,Yes,Always,3,Rarely,No,>2 liter,Yes,No Activity,3-5 hours,Automobile,Normal
+Female,38,179,No,No,Sometimes,3,Sometimes,No,>2 liter,No,3-4 days a week,>5 hours,Automobile,Normal
+Female,38,161,No,No,Sometimes,>3,Usually,No,<1 liter,Yes,6 or more days a week,0-2 hours,Automobile,Normal
+Female,38,162,No,No,Sometimes,1-2,Sometimes,No,<1 liter,Yes,5-6 days a week,3-5 hours,Automobile,Normal
+Female,38,169,No,No,Always,3,Sometimes,No,1-2 liter,No,5-6 days a week,3-5 hours,Automobile,Normal
+Female,39,161,No,No,Rarely,1-2,Usually,No,>2 liter,No,3-4 days a week,3-5 hours,Automobile,Overweight
+Female,39,161,No,No,Always,3,Always,No,1-2 liter,No,6 or more days a week,3-5 hours,Automobile,Overweight
+Female,39,163,No,No,Always,3,Sometimes,No,1-2 liter,No,3-4 days a week,0-2 hours,Automobile,Normal
+Female,39,165,No,No,Rarely,3,Usually,Yes,1-2 liter,No,5-6 days a week,3-5 hours,Automobile,Normal
+Female,39,168,No,Yes,Sometimes,>3,Always,No,<1 liter,No,6 or more days a week,0-2 hours,Automobile,Overweight
+Female,39,170,No,Yes,Rarely,>3,Always,Yes,<1 liter,No,5-6 days a week,3-5 hours,Automobile,Overweight
+Female,39,174,No,No,Sometimes,>3,Usually,Yes,1-2 liter,No,3-4 days a week,0-2 hours,Automobile,Overweight
+Female,40,159,No,No,Sometimes,3,Sometimes,No,>2 liter,No,1-2 days a week,3-5 hours,Automobile,Overweight
+Female,40,160,No,No,Sometimes,3,Sometimes,No,<1 liter,No,6 or more days a week,3-5 hours,Automobile,Overweight
+Female,40,163,No,No,Rarely,3,Rarely,Yes,>2 liter,No,5-6 days a week,>5 hours,Automobile,Overweight
+Female,40,165,Yes,Yes,Rarely,>3,Sometimes,Yes,>2 liter,Yes,6 or more days a week,0-2 hours,Automobile,Overweight
+Female,40,165,No,No,Always,>3,Always,No,>2 liter,No,5-6 days a week,3-5 hours,Automobile,Overweight
+Female,40,168,No,No,Rarely,3,Rarely,Yes,1-2 liter,No,3-4 days a week,>5 hours,Automobile,Overweight
+Female,41,169,No,No,Always,3,Sometimes,Yes,<1 liter,No,6 or more days a week,3-5 hours,Automobile,Normal
+Female,41,157,No,Yes,Always,3,Usually,No,1-2 liter,No,5-6 days a week,0-2 hours,Automobile,Overweight
+Female,41,159,No,No,Sometimes,1-2,Rarely,No,>2 liter,No,3-4 days a week,3-5 hours,Automobile,Overweight
+Female,41,163,Yes,Yes,Sometimes,1-2,Sometimes,Yes,1-2 liter,Yes,No Activity,3-5 hours,Automobile,Overweight
+Female,41,164,No,No,Rarely,3,Always,No,1-2 liter,No,5-6 days a week,3-5 hours,Automobile,Overweight
+Female,41,166,No,Yes,Sometimes,>3,Usually,No,<1 liter,No,6 or more days a week,0-2 hours,Automobile,Obesity
+Female,41,168,No,No,Sometimes,>3,Always,No,>2 liter,Yes,5-6 days a week,>5 hours,Automobile,Overweight
+Female,41,181,No,No,Sometimes,1-2,Sometimes,No,<1 liter,No,5-6 days a week,0-2 hours,Automobile,Normal
+Female,42,167,Yes,Yes,Rarely,>3,Usually,No,<1 liter,Yes,5-6 days a week,3-5 hours,Automobile,Overweight
+Female,42,155,Yes,Yes,Rarely,3,Always,Yes,<1 liter,Yes,5-6 days a week,0-2 hours,Automobile,Overweight
+Female,42,159,No,Yes,Sometimes,1-2,Always,No,1-2 liter,No,6 or more days a week,3-5 hours,Automobile,Overweight
+Female,42,162,No,No,Sometimes,1-2,Sometimes,No,1-2 liter,No,3-4 days a week,3-5 hours,Automobile,Overweight
+Female,42,165,No,No,Sometimes,1-2,Always,No,<1 liter,No,3-4 days a week,>5 hours,Automobile,Overweight
+Female,42,166,No,Yes,Rarely,>3,Usually,No,>2 liter,Yes,6 or more days a week,3-5 hours,Automobile,Overweight
+Female,42,169,Yes,Yes,Rarely,>3,Always,No,>2 liter,No,6 or more days a week,0-2 hours,Automobile,Obesity
+Female,43,155,No,Yes,Rarely,3,Always,No,1-2 liter,No,6 or more days a week,3-5 hours,Automobile,Overweight
+Female,43,158,Yes,No,Sometimes,3,Usually,No,1-2 liter,Yes,No Activity,0-2 hours,Automobile,Obesity
+Female,43,160,No,No,Always,3,Sometimes,No,1-2 liter,No,3-4 days a week,>5 hours,Automobile,Overweight
+Female,43,162,No,No,Sometimes,3,Usually,No,1-2 liter,No,1-2 days a week,>5 hours,Automobile,Overweight
+Female,43,165,No,No,Rarely,>3,Usually,No,1-2 liter,Yes,5-6 days a week,0-2 hours,Automobile,Overweight
+Female,43,165,No,No,Sometimes,3,Sometimes,No,<1 liter,Yes,5-6 days a week,3-5 hours,Automobile,Overweight
+Female,43,169,No,No,Sometimes,3,Usually,No,1-2 liter,Yes,5-6 days a week,0-2 hours,Automobile,Overweight
+Female,43,171,Yes,Yes,Rarely,>3,Always,No,1-2 liter,No,6 or more days a week,3-5 hours,Automobile,Obesity
+Female,44,167,Yes,Yes,Rarely,>3,Usually,No,>2 liter,Yes,6 or more days a week,0-2 hours,Automobile,Obesity
+Female,44,156,Yes,Yes,Rarely,>3,Usually,No,>2 liter,No,6 or more days a week,3-5 hours,Automobile,Overweight
+Female,44,158,Yes,No,Always,3,Sometimes,Yes,>2 liter,No,1-2 days a week,0-2 hours,Automobile,Overweight
+Female,44,158,No,No,Sometimes,3,Always,No,>2 liter,No,1-2 days a week,3-5 hours,Automobile,Overweight
+Female,44,161,No,Yes,Rarely,>3,Always,No,<1 liter,No,6 or more days a week,3-5 hours,Automobile,Overweight
+Female,44,162,No,Yes,Rarely,3,Rarely,No,<1 liter,Yes,5-6 days a week,>5 hours,Automobile,Overweight
+Female,44,168,No,No,Always,3,Always,No,>2 liter,Yes,6 or more days a week,3-5 hours,Automobile,Overweight
+Female,45,156,No,Yes,Sometimes,3,Usually,No,<1 liter,No,5-6 days a week,3-5 hours,Automobile,Overweight
+Female,45,159,No,Yes,Rarely,3,Sometimes,No,>2 liter,No,6 or more days a week,0-2 hours,Automobile,Overweight
+Female,45,159,Yes,Yes,Rarely,3,Rarely,Yes,>2 liter,Yes,5-6 days a week,3-5 hours,Automobile,Overweight
+Female,45,160,No,No,Always,3,Rarely,No,<1 liter,No,No Activity,3-5 hours,Automobile,Overweight
+Female,45,160,No,Yes,Sometimes,>3,Always,No,>2 liter,Yes,5-6 days a week,>5 hours,Automobile,Overweight
+Female,45,162,No,No,Sometimes,1-2,Sometimes,No,<1 liter,No,5-6 days a week,0-2 hours,Automobile,Overweight
+Female,45,163,No,No,Sometimes,1-2,Always,No,<1 liter,No,5-6 days a week,3-5 hours,Automobile,Overweight
+Female,45,164,No,Yes,Rarely,3,Usually,No,>2 liter,No,6 or more days a week,3-5 hours,Automobile,Overweight
+Female,46,153,No,Yes,Rarely,>3,Always,No,>2 liter,No,6 or more days a week,>5 hours,Automobile,Overweight
+Female,46,156,Yes,Yes,Rarely,>3,Always,Yes,>2 liter,No,6 or more days a week,0-2 hours,Automobile,Overweight
+Female,46,161,No,Yes,Rarely,>3,Rarely,No,<1 liter,Yes,3-4 days a week,3-5 hours,Automobile,Obesity
+Female,46,165,No,No,Sometimes,>3,Usually,No,>2 liter,No,5-6 days a week,0-2 hours,Automobile,Overweight
+Female,46,157,No,Yes,Sometimes,3,Usually,No,1-2 liter,No,5-6 days a week,3-5 hours,Automobile,Overweight
+Female,46,159,Yes,Yes,Rarely,>3,Rarely,Yes,>2 liter,Yes,6 or more days a week,3-5 hours,Automobile,Obesity
+Female,46,158,No,Yes,Rarely,>3,Rarely,No,<1 liter,Yes,No Activity,0-2 hours,Automobile,Obesity
+Female,47,182,Yes,Yes,Sometimes,>3,Sometimes,No,>2 liter,No,6 or more days a week,0-2 hours,Automobile,Overweight
+Female,47,158,No,No,Sometimes,1-2,Always,No,>2 liter,Yes,6 or more days a week,3-5 hours,Automobile,Overweight
+Female,47,159,Yes,No,Sometimes,>3,Always,No,>2 liter,Yes,5-6 days a week,3-5 hours,Automobile,Overweight
+Female,47,162,No,No,Sometimes,1-2,Rarely,No,<1 liter,Yes,3-4 days a week,3-5 hours,Automobile,Overweight
+Female,47,165,Yes,No,Sometimes,>3,Always,Yes,>2 liter,No,No Activity,3-5 hours,Automobile,Overweight
+Female,48,156,No,Yes,Rarely,3,Sometimes,No,>2 liter,No,5-6 days a week,3-5 hours,Automobile,Overweight
+Female,48,157,Yes,Yes,Rarely,>3,Usually,Yes,<1 liter,No,6 or more days a week,0-2 hours,Automobile,Obesity
+Female,48,160,Yes,Yes,Rarely,>3,Sometimes,No,1-2 liter,Yes,3-4 days a week,3-5 hours,Automobile,Overweight
+Female,48,162,No,No,Sometimes,1-2,Rarely,No,>2 liter,No,6 or more days a week,3-5 hours,Automobile,Overweight
+Female,48,162,Yes,No,Sometimes,>3,Rarely,No,1-2 liter,No,6 or more days a week,0-2 hours,Automobile,Obesity
+Female,48,165,Yes,Yes,Rarely,3,Rarely,Yes,>2 liter,Yes,6 or more days a week,3-5 hours,Automobile,Overweight
+Female,49,156,No,No,Always,3,Always,No,<1 liter,No,5-6 days a week,3-5 hours,Automobile,Overweight
+Female,49,158,No,No,Sometimes,3,Sometimes,No,1-2 liter,Yes,1-2 days a week,3-5 hours,Automobile,Overweight
+Female,49,160,No,No,Sometimes,3,Always,No,1-2 liter,No,5-6 days a week,0-2 hours,Automobile,Overweight
+Female,49,169,Yes,Yes,Rarely,>3,Rarely,No,>2 liter,Yes,6 or more days a week,3-5 hours,Automobile,Obesity
+Female,49,157,No,No,Sometimes,3,Sometimes,No,<1 liter,No,No Activity,3-5 hours,Automobile,Overweight
+Female,50,154,No,Yes,Sometimes,>3,Always,Yes,>2 liter,No,3-4 days a week,3-5 hours,Automobile,Overweight
+Female,50,156,No,No,Sometimes,3,Sometimes,No,>2 liter,No,5-6 days a week,0-2 hours,Automobile,Normal
+Female,50,159,No,Yes,Rarely,3,Usually,No,<1 liter,No,3-4 days a week,3-5 hours,Automobile,Obesity
+Female,50,160,No,Yes,Sometimes,1-2,Always,No,>2 liter,Yes,6 or more days a week,3-5 hours,Automobile,Overweight
+Female,50,162,No,No,Sometimes,3,Sometimes,No,1-2 liter,Yes,5-6 days a week,0-2 hours,Automobile,Overweight
+Female,51,158,Yes,Yes,Sometimes,>3,Always,No,>2 liter,No,3-4 days a week,3-5 hours,Automobile,Overweight
+Female,51,160,No,No,Sometimes,3,Sometimes,No,1-2 liter,No,3-4 days a week,3-5 hours,Automobile,Overweight
+Female,51,163,No,Yes,Rarely,>3,Usually,No,>2 liter,No,6 or more days a week,0-2 hours,Automobile,Overweight
+Female,51,165,No,Yes,Sometimes,3,Rarely,No,<1 liter,No,6 or more days a week,3-5 hours,Automobile,Overweight
+Female,52,159,No,Yes,Rarely,3,Sometimes,No,>2 liter,No,3-4 days a week,3-5 hours,Automobile,Overweight
+Female,52,165,No,Yes,Rarely,>3,Rarely,No,>2 liter,Yes,6 or more days a week,3-5 hours,Automobile,Overweight
+Female,52,167,No,No,Sometimes,3,Usually,No,>2 liter,Yes,No Activity,0-2 hours,Automobile,Overweight
+Female,52,169,No,No,Sometimes,1-2,Rarely,No,1-2 liter,No,6 or more days a week,3-5 hours,Automobile,Overweight
+Female,53,159,No,Yes,Rarely,3,Rarely,No,<1 liter,Yes,5-6 days a week,0-2 hours,Automobile,Overweight
+Female,53,160,No,Yes,Sometimes,3,Sometimes,Yes,<1 liter,No,3-4 days a week,3-5 hours,Automobile,Overweight
+Female,53,162,No,No,Sometimes,1-2,Rarely,No,>2 liter,Yes,6 or more days a week,0-2 hours,Automobile,Overweight
+Female,54,161,Yes,Yes,Rarely,>3,Usually,Yes,1-2 liter,Yes,6 or more days a week,0-2 hours,Automobile,Obesity
+Female,54,165,No,No,Sometimes,1-2,Sometimes,No,1-2 liter,No,6 or more days a week,3-5 hours,Automobile,Overweight
+Female,54,169,No,No,Sometimes,1-2,Sometimes,No,1-2 liter,Yes,5-6 days a week,0-2 hours,Automobile,Overweight
+Female,54,174,No,Yes,Rarely,>3,Usually,No,1-2 liter,Yes,5-6 days a week,0-2 hours,Automobile,Overweight
+Male,18,174,No,No,Rarely,3,Usually,No,1-2 liter,No,No Activity,0-2 hours,Public transportation,Normal
+Male,19,172,No,No,Always,1-2,Usually,No,>2 liter,No,3-4 days a week,3-5 hours,Public transportation,Normal
+Male,19,178,Yes,No,Always,1-2,Rarely,Yes,<1 liter,No,3-4 days a week,3-5 hours,Public transportation,Normal
+Male,20,165,No,No,Always,1-2,Always,Yes,>2 liter,No,1-2 days a week,3-5 hours,Bicycle,Normal
+Male,20,169,No,No,Always,1-2,Always,Yes,>2 liter,No,1-2 days a week,>5 hours,Public transportation,Normal
+Male,20,173,No,No,Always,1-2,Usually,No,>2 liter,No,5-6 days a week,>5 hours,Public transportation,Normal
+Male,20,177,No,No,Sometimes,1-2,Rarely,Yes,<1 liter,Yes,1-2 days a week,0-2 hours,Public transportation,Normal
+Male,21,168,No,No,Sometimes,3,Sometimes,Yes,1-2 liter,No,5-6 days a week,3-5 hours,Public transportation,Overweight
+Male,21,171,No,Yes,Always,1-2,Rarely,Yes,1-2 liter,No,3-4 days a week,>5 hours,Public transportation,Normal
+Male,21,186,No,No,Sometimes,3,Always,No,1-2 liter,No,3-4 days a week,3-5 hours,Public transportation,Normal
+Male,21,174,No,No,Always,3,Always,Yes,1-2 liter,No,1-2 days a week,>5 hours,Motorbike,Normal
+Male,21,159,No,Yes,Rarely,3,Sometimes,Yes,1-2 liter,No,5-6 days a week,3-5 hours,Motorbike,Overweight
+Male,21,167,No,No,Sometimes,1-2,Usually,No,1-2 liter,No,3-4 days a week,3-5 hours,Bicycle,Normal
+Male,21,179,No,No,Always,1-2,Usually,No,1-2 liter,No,No Activity,>5 hours,Public transportation,Normal
+Male,21,178,No,No,Always,1-2,Usually,No,>2 liter,No,3-4 days a week,0-2 hours,Public transportation,Normal
+Male,21,181,Yes,No,Always,1-2,Usually,No,1-2 liter,No,6 or more days a week,>5 hours,Public transportation,Normal
+Male,22,166,No,No,Rarely,3,Always,Yes,>2 liter,No,6 or more days a week,3-5 hours,Motorbike,Normal
+Male,22,168,No,No,Sometimes,3,Usually,No,1-2 liter,No,5-6 days a week,>5 hours,Public transportation,Overweight
+Male,22,170,No,No,Always,1-2,Rarely,Yes,>2 liter,No,3-4 days a week,3-5 hours,Public transportation,Normal
+Male,22,170,No,No,Sometimes,1-2,Usually,No,1-2 liter,No,No Activity,3-5 hours,Public transportation,Normal
+Male,22,171,No,No,Always,1-2,Always,Yes,<1 liter,No,No Activity,>5 hours,Public transportation,Normal
+Male,22,172,No,No,Always,1-2,Usually,Yes,1-2 liter,No,1-2 days a week,3-5 hours,Public transportation,Normal
+Male,22,175,No,No,Always,1-2,Usually,No,1-2 liter,No,1-2 days a week,>5 hours,Public transportation,Normal
+Male,22,176,No,No,Always,3,Always,No,1-2 liter,No,6 or more days a week,>5 hours,Public transportation,Normal
+Male,22,179,No,No,Always,1-2,Usually,No,1-2 liter,No,3-4 days a week,3-5 hours,Public transportation,Normal
+Male,23,171,No,No,Always,1-2,Rarely,No,>2 liter,No,No Activity,3-5 hours,Motorbike,Normal
+Male,23,173,No,No,Always,1-2,Usually,No,<1 liter,No,No Activity,>5 hours,Public transportation,Normal
+Male,23,173,No,Yes,Always,3,Rarely,Yes,>2 liter,Yes,6 or more days a week,3-5 hours,Bicycle,Normal
+Male,23,174,No,No,Always,1-2,Always,No,<1 liter,Yes,3-4 days a week,3-5 hours,Public transportation,Normal
+Male,23,177,Yes,No,Always,3,Rarely,Yes,1-2 liter,No,6 or more days a week,>5 hours,Motorbike,Normal
+Male,23,180,No,No,Always,1-2,Rarely,Yes,1-2 liter,No,1-2 days a week,3-5 hours,Public transportation,Normal
+Male,23,184,No,No,Always,1-2,Rarely,Yes,>2 liter,No,3-4 days a week,0-2 hours,Bicycle,Normal
+Male,23,178,Yes,No,Always,1-2,Rarely,No,>2 liter,No,6 or more days a week,>5 hours,Public transportation,Normal
+Male,24,179,No,No,Always,1-2,Usually,No,1-2 liter,No,3-4 days a week,>5 hours,Public transportation,Normal
+Male,24,175,Yes,No,Rarely,3,Usually,No,<1 liter,No,No Activity,3-5 hours,Public transportation,Normal
+Male,24,169,No,No,Always,1-2,Always,Yes,>2 liter,No,1-2 days a week,3-5 hours,Public transportation,Normal
+Male,24,183,No,No,Always,1-2,Usually,Yes,>2 liter,No,5-6 days a week,3-5 hours,Public transportation,Normal
+Male,25,163,No,No,Sometimes,3,Always,Yes,<1 liter,No,5-6 days a week,>5 hours,Bicycle,Overweight
+Male,25,166,No,No,Sometimes,3,Usually,No,1-2 liter,No,3-4 days a week,3-5 hours,Public transportation,Normal
+Male,25,167,No,No,Sometimes,1-2,Rarely,No,<1 liter,No,No Activity,>5 hours,Bicycle,Normal
+Male,25,167,No,No,Sometimes,3,Sometimes,Yes,>2 liter,No,1-2 days a week,3-5 hours,Public transportation,Overweight
+Male,25,169,Yes,Yes,Always,3,Rarely,Yes,1-2 liter,No,6 or more days a week,3-5 hours,Public transportation,Normal
+Male,25,171,Yes,No,Rarely,3,Rarely,Yes,>2 liter,Yes,6 or more days a week,>5 hours,Motorbike,Normal
+Male,25,173,No,No,Sometimes,1-2,Rarely,Yes,1-2 liter,No,3-4 days a week,0-2 hours,Public transportation,Normal
+Male,25,173,No,No,Sometimes,3,Sometimes,No,>2 liter,No,1-2 days a week,3-5 hours,Walking,Overweight
+Male,25,175,No,No,Always,1-2,Usually,No,<1 liter,No,No Activity,3-5 hours,Public transportation,Normal
+Male,25,175,No,No,Sometimes,1-2,Rarely,No,1-2 liter,No,6 or more days a week,3-5 hours,Bicycle,Overweight
+Male,25,177,No,No,Sometimes,3,Usually,No,1-2 liter,No,5-6 days a week,>5 hours,Walking,Overweight
+Male,25,177,No,Yes,Rarely,3,Rarely,Yes,<1 liter,Yes,6 or more days a week,>5 hours,Motorbike,Obesity
+Male,25,179,Yes,No,Rarely,1-2,Sometimes,No,<1 liter,Yes,1-2 days a week,3-5 hours,Public transportation,Overweight
+Male,25,181,No,No,Sometimes,1-2,Rarely,Yes,1-2 liter,No,3-4 days a week,3-5 hours,Public transportation,Normal
+Male,25,183,No,Yes,Rarely,3,Rarely,Yes,1-2 liter,No,6 or more days a week,3-5 hours,Public transportation,Overweight
+Male,25,187,Yes,No,Always,1-2,Always,Yes,1-2 liter,Yes,3-4 days a week,3-5 hours,Public transportation,Overweight
+Male,25,191,No,Yes,Sometimes,3,Rarely,Yes,<1 liter,Yes,1-2 days a week,>5 hours,Public transportation,Overweight
+Male,26,161,No,Yes,Always,3,Rarely,Yes,>2 liter,Yes,6 or more days a week,0-2 hours,Public transportation,Overweight
+Male,26,164,No,Yes,Sometimes,1-2,Rarely,Yes,1-2 liter,No,6 or more days a week,>5 hours,Public transportation,Normal
+Male,26,168,No,No,Always,1-2,Usually,Yes,1-2 liter,No,No Activity,3-5 hours,Public transportation,Normal
+Male,26,169,No,Yes,Always,3,Sometimes,Yes,>2 liter,Yes,6 or more days a week,3-5 hours,Public transportation,Normal
+Male,26,169,No,No,Sometimes,1-2,Sometimes,No,1-2 liter,No,1-2 days a week,3-5 hours,Public transportation,Normal
+Male,26,171,No,No,Always,1-2,Always,No,<1 liter,No,No Activity,3-5 hours,Public transportation,Normal
+Male,26,173,No,No,Rarely,3,Sometimes,No,1-2 liter,No,5-6 days a week,3-5 hours,Public transportation,Overweight
+Male,26,173,No,No,Sometimes,3,Sometimes,No,<1 liter,No,5-6 days a week,>5 hours,Public transportation,Overweight
+Male,26,173,No,No,Sometimes,3,Rarely,No,>2 liter,No,5-6 days a week,>5 hours,Motorbike,Normal
+Male,26,175,Yes,No,Always,1-2,Usually,Yes,<1 liter,No,3-4 days a week,>5 hours,Public transportation,Normal
+Male,26,180,No,No,Sometimes,3,Rarely,Yes,>2 liter,No,No Activity,3-5 hours,Public transportation,Normal
+Male,26,183,Yes,No,Rarely,1-2,Sometimes,Yes,1-2 liter,Yes,1-2 days a week,3-5 hours,Public transportation,Overweight
+Male,26,184,No,No,Sometimes,3,Sometimes,No,>2 liter,No,No Activity,3-5 hours,Walking,Overweight
+Male,27,168,No,Yes,Always,1-2,Rarely,Yes,>2 liter,No,5-6 days a week,3-5 hours,Public transportation,Normal
+Male,27,170,No,No,Sometimes,3,Rarely,Yes,>2 liter,No,6 or more days a week,3-5 hours,Public transportation,Normal
+Male,27,171,No,No,Sometimes,1-2,Usually,No,<1 liter,No,3-4 days a week,3-5 hours,Public transportation,Normal
+Male,27,171,No,No,Sometimes,3,Always,No,>2 liter,No,1-2 days a week,3-5 hours,Public transportation,Normal
+Male,27,173,No,No,Sometimes,3,Sometimes,No,>2 liter,No,3-4 days a week,>5 hours,Public transportation,Overweight
+Male,27,173,No,No,Sometimes,1-2,Usually,No,>2 liter,No,5-6 days a week,3-5 hours,Public transportation,Overweight
+Male,27,175,No,No,Sometimes,1-2,Rarely,No,1-2 liter,No,6 or more days a week,>5 hours,Public transportation,Normal
+Male,27,177,No,No,Rarely,3,Rarely,Yes,<1 liter,No,6 or more days a week,3-5 hours,Motorbike,Overweight
+Male,27,179,No,No,Sometimes,1-2,Usually,No,>2 liter,No,No Activity,3-5 hours,Public transportation,Overweight
+Male,27,179,No,No,Rarely,3,Sometimes,No,>2 liter,No,6 or more days a week,>5 hours,Public transportation,Overweight
+Male,27,181,Yes,No,Rarely,1-2,Sometimes,No,>2 liter,No,No Activity,3-5 hours,Public transportation,Normal
+Male,27,186,Yes,Yes,Always,1-2,Usually,No,>2 liter,No,6 or more days a week,3-5 hours,Public transportation,Overweight
+Male,28,171,No,No,Sometimes,3,Rarely,Yes,>2 liter,No,5-6 days a week,>5 hours,Public transportation,Normal
+Male,28,173,No,No,Always,1-2,Usually,No,>2 liter,No,6 or more days a week,0-2 hours,Motorbike,Normal
+Male,28,173,No,No,Always,1-2,Rarely,Yes,<1 liter,No,6 or more days a week,>5 hours,Public transportation,Normal
+Male,28,173,No,No,Rarely,3,Rarely,Yes,<1 liter,No,6 or more days a week,>5 hours,Walking,Overweight
+Male,28,174,No,No,Always,1-2,Usually,No,>2 liter,No,1-2 days a week,>5 hours,Public transportation,Normal
+Male,28,175,No,No,Rarely,3,Usually,No,>2 liter,No,3-4 days a week,3-5 hours,Public transportation,Normal
+Male,28,175,No,No,Always,1-2,Always,No,>2 liter,No,6 or more days a week,3-5 hours,Walking,Normal
+Male,28,179,No,No,Sometimes,1-2,Usually,No,<1 liter,No,5-6 days a week,3-5 hours,Public transportation,Overweight
+Male,28,181,No,No,Rarely,3,Sometimes,No,>2 liter,No,6 or more days a week,3-5 hours,Public transportation,Overweight
+Male,29,165,No,No,Rarely,3,Always,Yes,<1 liter,No,3-4 days a week,3-5 hours,Walking,Overweight
+Male,29,169,Yes,No,Rarely,3,Sometimes,No,<1 liter,No,No Activity,3-5 hours,Public transportation,Normal
+Male,29,172,No,No,Always,1-2,Rarely,No,1-2 liter,Yes,1-2 days a week,>5 hours,Walking,Overweight
+Male,29,172,No,No,Sometimes,3,Sometimes,Yes,1-2 liter,No,6 or more days a week,3-5 hours,Public transportation,Normal
+Male,29,173,No,No,Always,3,Rarely,Yes,>2 liter,No,6 or more days a week,3-5 hours,Public transportation,Normal
+Male,29,178,No,No,Sometimes,3,Rarely,Yes,<1 liter,No,3-4 days a week,3-5 hours,Public transportation,Overweight
+Male,29,179,No,No,Sometimes,1-2,Usually,Yes,1-2 liter,No,5-6 days a week,0-2 hours,Public transportation,Normal
+Male,29,179,Yes,No,Always,3,Always,Yes,>2 liter,No,1-2 days a week,3-5 hours,Public transportation,Overweight
+Male,29,180,No,No,Rarely,3,Rarely,No,1-2 liter,No,No Activity,>5 hours,Walking,Normal
+Male,29,182,No,No,Always,1-2,Rarely,No,<1 liter,No,6 or more days a week,3-5 hours,Public transportation,Normal
+Male,29,183,No,No,Sometimes,1-2,Rarely,Yes,<1 liter,No,3-4 days a week,3-5 hours,Public transportation,Overweight
+Male,30,165,No,Yes,Always,3,Always,No,>2 liter,No,No Activity,3-5 hours,Public transportation,Overweight
+Male,30,168,No,No,Sometimes,1-2,Sometimes,No,1-2 liter,Yes,1-2 days a week,0-2 hours,Public transportation,Overweight
+Male,30,168,No,No,Sometimes,3,Sometimes,No,>2 liter,No,5-6 days a week,3-5 hours,Public transportation,Overweight
+Male,30,169,No,No,Sometimes,3,Sometimes,No,>2 liter,No,5-6 days a week,3-5 hours,Public transportation,Overweight
+Male,30,171,No,No,Sometimes,1-2,Sometimes,No,<1 liter,No,5-6 days a week,3-5 hours,Public transportation,Normal
+Male,30,172,No,No,Sometimes,1-2,Sometimes,No,>2 liter,No,3-4 days a week,3-5 hours,Motorbike,Overweight
+Male,30,174,No,No,Sometimes,1-2,Sometimes,No,<1 liter,No,1-2 days a week,3-5 hours,Public transportation,Normal
+Male,30,174,No,No,Rarely,3,Rarely,Yes,<1 liter,No,6 or more days a week,>5 hours,Walking,Overweight
+Male,30,173,No,No,Sometimes,3,Sometimes,No,>2 liter,No,3-4 days a week,3-5 hours,Public transportation,Overweight
+Male,30,177,No,No,Sometimes,1-2,Usually,No,1-2 liter,No,1-2 days a week,3-5 hours,Public transportation,Overweight
+Male,30,180,No,No,Always,3,Usually,No,1-2 liter,No,3-4 days a week,3-5 hours,Automobile,Normal
+Male,30,181,No,No,Always,1-2,Usually,No,>2 liter,No,5-6 days a week,>5 hours,Public transportation,Normal
+Male,30,182,Yes,No,Rarely,3,Rarely,Yes,1-2 liter,Yes,6 or more days a week,3-5 hours,Automobile,Normal
+Male,30,185,No,No,Rarely,3,Rarely,No,>2 liter,No,3-4 days a week,0-2 hours,Automobile,Normal
+Male,31,171,Yes,No,Sometimes,3,Sometimes,No,<1 liter,Yes,3-4 days a week,3-5 hours,Motorbike,Obesity
+Male,31,171,No,No,Sometimes,3,Always,No,>2 liter,No,No Activity,3-5 hours,Automobile,Normal
+Male,31,172,No,No,Always,3,Always,No,<1 liter,No,1-2 days a week,3-5 hours,Public transportation,Overweight
+Male,31,173,No,No,Sometimes,3,Sometimes,No,>2 liter,No,3-4 days a week,3-5 hours,Automobile,Overweight
+Male,31,173,No,No,Sometimes,3,Always,No,>2 liter,No,5-6 days a week,3-5 hours,Public transportation,Overweight
+Male,31,175,No,No,Always,1-2,Usually,No,1-2 liter,No,No Activity,3-5 hours,Automobile,Normal
+Male,31,175,No,No,Always,1-2,Usually,Yes,1-2 liter,No,3-4 days a week,0-2 hours,Walking,Normal
+Male,31,175,No,No,Always,1-2,Usually,No,1-2 liter,No,5-6 days a week,0-2 hours,Automobile,Normal
+Male,31,176,No,No,Rarely,3,Usually,Yes,>2 liter,No,5-6 days a week,3-5 hours,Public transportation,Normal
+Male,32,173,No,No,Sometimes,1-2,Usually,No,<1 liter,No,3-4 days a week,3-5 hours,Public transportation,Normal
+Male,32,175,No,No,Sometimes,1-2,Usually,Yes,>2 liter,No,No Activity,3-5 hours,Automobile,Normal
+Male,32,175,No,No,Rarely,3,Rarely,No,>2 liter,No,5-6 days a week,>5 hours,Walking,Normal
+Male,32,179,No,No,Sometimes,3,Rarely,No,>2 liter,Yes,3-4 days a week,3-5 hours,Automobile,Overweight
+Male,32,179,No,No,Always,1-2,Usually,No,<1 liter,No,1-2 days a week,>5 hours,Automobile,Overweight
+Male,32,181,Yes,No,Sometimes,1-2,Always,No,1-2 liter,No,1-2 days a week,3-5 hours,Public transportation,Overweight
+Male,32,181,No,No,Sometimes,3,Sometimes,No,>2 liter,No,3-4 days a week,3-5 hours,Public transportation,Overweight
+Male,32,183,Yes,No,Always,3,Usually,No,<1 liter,No,6 or more days a week,>5 hours,Automobile,Overweight
+Male,32,185,No,No,Sometimes,3,Sometimes,No,>2 liter,Yes,5-6 days a week,3-5 hours,Motorbike,Overweight
+Male,32,188,No,Yes,Always,3,Sometimes,Yes,<1 liter,No,No Activity,3-5 hours,Public transportation,Overweight
+Male,33,169,No,No,Sometimes,3,Sometimes,No,1-2 liter,No,3-4 days a week,3-5 hours,Automobile,Overweight
+Male,33,174,No,No,Sometimes,3,Sometimes,No,>2 liter,No,6 or more days a week,3-5 hours,Public transportation,Overweight
+Male,33,174,No,No,Sometimes,1-2,Usually,No,>2 liter,No,1-2 days a week,0-2 hours,Automobile,Overweight
+Male,33,175,No,No,Always,3,Always,No,<1 liter,No,3-4 days a week,3-5 hours,Automobile,Overweight
+Male,33,177,No,No,Sometimes,3,Sometimes,No,<1 liter,No,6 or more days a week,3-5 hours,Public transportation,Overweight
+Male,33,178,No,No,Sometimes,3,Always,No,>2 liter,No,1-2 days a week,3-5 hours,Automobile,Normal
+Male,33,178,No,Yes,Rarely,1-2,Rarely,Yes,1-2 liter,No,6 or more days a week,3-5 hours,Motorbike,Normal
+Male,33,180,No,No,Sometimes,3,Usually,No,<1 liter,No,5-6 days a week,3-5 hours,Automobile,Overweight
+Male,33,165,No,No,Sometimes,3,Sometimes,No,>2 liter,No,3-4 days a week,3-5 hours,Automobile,Overweight
+Male,33,169,No,No,Sometimes,3,Sometimes,Yes,>2 liter,No,6 or more days a week,3-5 hours,Walking,Overweight
+Male,33,168,No,Yes,Sometimes,3,Usually,No,<1 liter,Yes,5-6 days a week,>5 hours,Automobile,Overweight
+Male,34,165,No,No,Rarely,3,Sometimes,No,<1 liter,No,1-2 days a week,3-5 hours,Motorbike,Overweight
+Male,34,168,No,No,Sometimes,3,Sometimes,No,>2 liter,No,1-2 days a week,3-5 hours,Automobile,Overweight
+Male,34,169,No,No,Sometimes,3,Sometimes,No,1-2 liter,No,No Activity,3-5 hours,Public transportation,Overweight
+Male,34,172,No,No,Sometimes,3,Always,No,1-2 liter,No,5-6 days a week,3-5 hours,Public transportation,Overweight
+Male,34,175,No,No,Sometimes,3,Sometimes,No,1-2 liter,No,No Activity,3-5 hours,Automobile,Normal
+Male,34,175,No,No,Sometimes,3,Usually,No,>2 liter,No,1-2 days a week,3-5 hours,Walking,Normal
+Male,34,177,No,No,Always,1-2,Always,Yes,>2 liter,No,1-2 days a week,>5 hours,Automobile,Overweight
+Male,34,179,No,No,Sometimes,1-2,Always,No,>2 liter,No,5-6 days a week,3-5 hours,Motorbike,Overweight
+Male,35,168,No,No,Sometimes,3,Sometimes,No,<1 liter,No,1-2 days a week,3-5 hours,Automobile,Overweight
+Male,35,172,No,No,Sometimes,3,Always,No,>2 liter,No,No Activity,0-2 hours,Public transportation,Overweight
+Male,35,174,No,No,Always,3,Rarely,No,>2 liter,No,1-2 days a week,>5 hours,Automobile,Overweight
+Male,35,174,No,Yes,Sometimes,3,Rarely,Yes,1-2 liter,No,1-2 days a week,3-5 hours,Public transportation,Overweight
+Male,35,177,No,No,Sometimes,3,Sometimes,No,>2 liter,No,3-4 days a week,3-5 hours,Automobile,Overweight
+Male,35,179,No,No,Sometimes,3,Sometimes,No,>2 liter,No,1-2 days a week,3-5 hours,Public transportation,Overweight
+Male,35,179,No,No,Sometimes,3,Usually,No,>2 liter,No,5-6 days a week,3-5 hours,Automobile,Overweight
+Male,35,161,No,No,Rarely,3,Sometimes,No,<1 liter,No,3-4 days a week,3-5 hours,Automobile,Overweight
+Male,35,184,No,No,Sometimes,3,Sometimes,No,>2 liter,No,3-4 days a week,3-5 hours,Public transportation,Overweight
+Male,36,165,No,Yes,Rarely,3,Rarely,Yes,<1 liter,Yes,6 or more days a week,>5 hours,Public transportation,Overweight
+Male,36,166,No,No,Sometimes,3,Usually,No,<1 liter,No,5-6 days a week,3-5 hours,Automobile,Overweight
+Male,36,169,No,No,Sometimes,3,Sometimes,No,>2 liter,No,3-4 days a week,3-5 hours,Public transportation,Overweight
+Male,36,172,No,No,Sometimes,3,Sometimes,No,>2 liter,No,3-4 days a week,3-5 hours,Public transportation,Overweight
+Male,36,175,No,No,Rarely,3,Sometimes,No,>2 liter,No,1-2 days a week,3-5 hours,Automobile,Overweight
+Male,36,177,Yes,Yes,Rarely,3,Rarely,Yes,1-2 liter,Yes,6 or more days a week,>5 hours,Public transportation,Obesity
+Male,36,180,Yes,Yes,Always,3,Always,No,>2 liter,No,3-4 days a week,3-5 hours,Public transportation,Overweight
+Male,36,184,Yes,No,Sometimes,3,Sometimes,No,>2 liter,No,1-2 days a week,3-5 hours,Automobile,Overweight
+Male,37,169,No,No,Rarely,3,Sometimes,No,>2 liter,No,No Activity,0-2 hours,Walking,Normal
+Male,37,171,No,No,Sometimes,1-2,Rarely,No,>2 liter,No,3-4 days a week,>5 hours,Automobile,Normal
+Male,37,171,No,Yes,Always,3,Always,No,1-2 liter,No,6 or more days a week,3-5 hours,Automobile,Overweight
+Male,37,173,No,Yes,Rarely,3,Rarely,No,<1 liter,No,5-6 days a week,>5 hours,Public transportation,Overweight
+Male,37,175,No,No,Sometimes,3,Sometimes,No,<1 liter,No,No Activity,3-5 hours,Automobile,Overweight
+Male,37,177,No,Yes,Rarely,3,Sometimes,Yes,<1 liter,Yes,5-6 days a week,3-5 hours,Public transportation,Overweight
+Male,37,179,No,Yes,Rarely,3,Rarely,Yes,>2 liter,Yes,1-2 days a week,3-5 hours,Automobile,Overweight
+Male,37,181,No,No,Always,3,Always,No,1-2 liter,No,3-4 days a week,>5 hours,Public transportation,Overweight
+Male,37,183,No,Yes,Always,3,Rarely,Yes,>2 liter,No,6 or more days a week,3-5 hours,Public transportation,Overweight
+Male,37,167,No,Yes,Sometimes,3,Sometimes,No,>2 liter,No,6 or more days a week,>5 hours,Automobile,Overweight
+Male,37,172,No,No,Always,3,Usually,No,>2 liter,No,3-4 days a week,3-5 hours,Automobile,Overweight
+Male,38,165,No,Yes,Sometimes,3,Sometimes,No,<1 liter,No,6 or more days a week,3-5 hours,Automobile,Overweight
+Male,38,169,No,Yes,Sometimes,3,Usually,No,>2 liter,No,6 or more days a week,3-5 hours,Public transportation,Overweight
+Male,38,174,No,Yes,Sometimes,3,Sometimes,No,1-2 liter,No,3-4 days a week,3-5 hours,Automobile,Overweight
+Male,38,177,No,No,Sometimes,3,Sometimes,No,>2 liter,No,6 or more days a week,3-5 hours,Motorbike,Overweight
+Male,38,171,Yes,Yes,Sometimes,3,Sometimes,No,1-2 liter,Yes,5-6 days a week,3-5 hours,Automobile,Overweight
+Male,38,161,No,Yes,Sometimes,3,Sometimes,Yes,<1 liter,No,6 or more days a week,0-2 hours,Automobile,Overweight
+Male,38,168,Yes,Yes,Always,3,Rarely,No,>2 liter,Yes,6 or more days a week,>5 hours,Public transportation,Overweight
+Male,38,176,No,No,Rarely,3,Usually,No,<1 liter,No,6 or more days a week,3-5 hours,Public transportation,Normal
+Male,39,164,No,No,Rarely,3,Usually,No,>2 liter,No,1-2 days a week,3-5 hours,Automobile,Normal
+Male,39,169,No,No,Always,3,Always,Yes,<1 liter,No,6 or more days a week,3-5 hours,Public transportation,Overweight
+Male,39,172,No,Yes,Sometimes,3,Usually,No,1-2 liter,No,6 or more days a week,0-2 hours,Public transportation,Overweight
+Male,39,174,No,Yes,Rarely,3,Sometimes,No,>2 liter,No,6 or more days a week,0-2 hours,Motorbike,Overweight
+Male,39,175,No,Yes,Always,3,Usually,No,1-2 liter,No,6 or more days a week,3-5 hours,Automobile,Overweight
+Male,39,177,No,No,Sometimes,3,Sometimes,No,>2 liter,No,5-6 days a week,0-2 hours,Public transportation,Overweight
+Male,39,179,No,Yes,Sometimes,3,Sometimes,No,1-2 liter,No,1-2 days a week,0-2 hours,Public transportation,Overweight
+Male,39,181,Yes,No,Rarely,3,Sometimes,No,>2 liter,No,5-6 days a week,3-5 hours,Automobile,Overweight
+Male,39,188,No,Yes,Rarely,3,Sometimes,No,>2 liter,No,5-6 days a week,3-5 hours,Public transportation,Overweight
+Male,39,176,No,No,Rarely,3,Rarely,No,>2 liter,No,3-4 days a week,>5 hours,Automobile,Overweight
+Male,40,171,No,Yes,Sometimes,3,Sometimes,No,1-2 liter,No,1-2 days a week,3-5 hours,Motorbike,Overweight
+Male,40,174,Yes,Yes,Rarely,1-2,Always,No,<1 liter,No,6 or more days a week,0-2 hours,Automobile,Overweight
+Male,40,174,No,No,Sometimes,3,Sometimes,No,>2 liter,No,3-4 days a week,3-5 hours,Public transportation,Overweight
+Male,40,176,No,No,Sometimes,3,Sometimes,No,>2 liter,No,5-6 days a week,0-2 hours,Automobile,Overweight
+Male,40,177,Yes,No,Rarely,1-2,Usually,Yes,<1 liter,No,6 or more days a week,0-2 hours,Walking,Overweight
+Male,40,178,No,No,Rarely,3,Always,Yes,<1 liter,No,5-6 days a week,3-5 hours,Automobile,Overweight
+Male,40,179,Yes,No,Always,1-2,Always,Yes,1-2 liter,No,1-2 days a week,3-5 hours,Public transportation,Overweight
+Male,41,166,No,Yes,Sometimes,3,Sometimes,No,>2 liter,No,5-6 days a week,>5 hours,Automobile,Overweight
+Male,41,168,No,No,Always,3,Always,No,1-2 liter,No,No Activity,3-5 hours,Automobile,Normal
+Male,41,169,No,No,Sometimes,3,Always,Yes,1-2 liter,No,3-4 days a week,3-5 hours,Automobile,Overweight
+Male,41,171,No,Yes,Always,3,Usually,Yes,1-2 liter,Yes,6 or more days a week,3-5 hours,Motorbike,Overweight
+Male,41,173,No,No,Sometimes,3,Sometimes,No,>2 liter,No,5-6 days a week,0-2 hours,Automobile,Overweight
+Male,41,174,No,Yes,Sometimes,3,Rarely,Yes,<1 liter,No,6 or more days a week,>5 hours,Public transportation,Overweight
+Male,41,174,No,No,Sometimes,3,Sometimes,No,>2 liter,No,3-4 days a week,3-5 hours,Automobile,Overweight
+Male,41,178,No,No,Sometimes,3,Sometimes,No,>2 liter,No,1-2 days a week,0-2 hours,Public transportation,Overweight
+Male,42,162,No,Yes,Rarely,3,Sometimes,No,<1 liter,Yes,3-4 days a week,3-5 hours,Automobile,Overweight
+Male,42,165,No,No,Sometimes,3,Sometimes,No,>2 liter,No,3-4 days a week,0-2 hours,Public transportation,Overweight
+Male,42,167,No,No,Always,1-2,Rarely,Yes,<1 liter,No,1-2 days a week,3-5 hours,Automobile,Normal
+Male,42,168,No,No,Sometimes,1-2,Sometimes,No,1-2 liter,No,3-4 days a week,3-5 hours,Walking,Normal
+Male,42,172,Yes,No,Rarely,3,Sometimes,No,<1 liter,No,5-6 days a week,0-2 hours,Automobile,Normal
+Male,42,172,Yes,No,Always,1-2,Usually,Yes,>2 liter,No,No Activity,3-5 hours,Motorbike,Normal
+Male,42,174,No,No,Rarely,3,Rarely,No,>2 liter,No,6 or more days a week,>5 hours,Motorbike,Overweight
+Male,42,174,No,No,Always,3,Usually,No,1-2 liter,No,6 or more days a week,0-2 hours,Walking,Overweight
+Male,42,176,No,No,Rarely,3,Sometimes,No,<1 liter,No,3-4 days a week,3-5 hours,Public transportation,Overweight
+Male,43,165,No,No,Sometimes,3,Sometimes,No,1-2 liter,No,1-2 days a week,3-5 hours,Public transportation,Overweight
+Male,43,177,No,No,Always,3,Usually,No,<1 liter,Yes,1-2 days a week,0-2 hours,Motorbike,Overweight
+Male,43,179,No,Yes,Sometimes,3,Rarely,No,<1 liter,No,5-6 days a week,0-2 hours,Automobile,Overweight
+Male,43,180,No,Yes,Sometimes,3,Sometimes,No,>2 liter,Yes,6 or more days a week,3-5 hours,Automobile,Overweight
+Male,43,182,Yes,Yes,Rarely,3,Rarely,Yes,1-2 liter,Yes,3-4 days a week,>5 hours,Automobile,Overweight
+Male,43,185,Yes,Yes,Rarely,3,Sometimes,No,>2 liter,Yes,5-6 days a week,0-2 hours,Automobile,Overweight
+Male,43,184,No,Yes,Sometimes,3,Usually,No,1-2 liter,No,6 or more days a week,3-5 hours,Automobile,Overweight
+Male,43,180,No,Yes,Rarely,3,Rarely,Yes,>2 liter,Yes,5-6 days a week,0-2 hours,Automobile,Overweight
+Male,44,172,No,No,Rarely,3,Sometimes,No,>2 liter,No,1-2 days a week,3-5 hours,Automobile,Overweight
+Male,44,175,No,No,Sometimes,3,Sometimes,Yes,1-2 liter,No,No Activity,0-2 hours,Automobile,Overweight
+Male,44,175,Yes,No,Rarely,1-2,Sometimes,No,>2 liter,No,6 or more days a week,3-5 hours,Automobile,Overweight
+Male,44,177,No,No,Always,3,Rarely,Yes,>2 liter,No,6 or more days a week,>5 hours,Automobile,Overweight
+Male,45,168,No,No,Rarely,3,Sometimes,No,>2 liter,No,3-4 days a week,0-2 hours,Automobile,Overweight
+Male,45,169,No,Yes,Always,3,Rarely,No,<1 liter,No,6 or more days a week,0-2 hours,Automobile,Overweight
+Male,45,169,No,Yes,Rarely,3,Sometimes,Yes,1-2 liter,No,6 or more days a week,0-2 hours,Automobile,Overweight
+Male,45,172,Yes,Yes,Rarely,3,Sometimes,No,1-2 liter,No,5-6 days a week,0-2 hours,Automobile,Overweight
+Male,45,174,No,No,Sometimes,3,Sometimes,No,>2 liter,No,1-2 days a week,3-5 hours,Motorbike,Overweight
+Male,45,177,No,Yes,Sometimes,3,Sometimes,Yes,<1 liter,No,3-4 days a week,3-5 hours,Automobile,Overweight
+Male,46,169,No,Yes,Always,3,Usually,No,1-2 liter,No,5-6 days a week,0-2 hours,Automobile,Overweight
+Male,46,172,No,No,Sometimes,3,Always,Yes,>2 liter,No,3-4 days a week,0-2 hours,Automobile,Overweight
+Male,46,172,Yes,No,Always,1-2,Usually,No,1-2 liter,No,6 or more days a week,0-2 hours,Automobile,Overweight
+Male,46,175,No,No,Sometimes,3,Sometimes,No,>2 liter,No,1-2 days a week,0-2 hours,Automobile,Overweight
+Male,46,177,Yes,No,Rarely,3,Sometimes,No,1-2 liter,No,6 or more days a week,3-5 hours,Automobile,Overweight
+Male,46,180,No,Yes,Rarely,3,Sometimes,Yes,>2 liter,No,1-2 days a week,>5 hours,Automobile,Overweight
+Male,47,166,No,No,Sometimes,3,Sometimes,No,1-2 liter,No,3-4 days a week,3-5 hours,Automobile,Overweight
+Male,47,169,No,Yes,Rarely,3,Sometimes,No,<1 liter,No,6 or more days a week,0-2 hours,Automobile,Overweight
+Male,47,173,No,Yes,Sometimes,3,Usually,Yes,>2 liter,No,6 or more days a week,3-5 hours,Automobile,Overweight
+Male,47,175,No,No,Rarely,3,Sometimes,Yes,>2 liter,No,5-6 days a week,3-5 hours,Automobile,Overweight
+Male,47,180,No,Yes,Sometimes,1-2,Usually,Yes,1-2 liter,No,6 or more days a week,3-5 hours,Automobile,Overweight
+Male,48,170,No,No,Sometimes,3,Sometimes,No,>2 liter,No,3-4 days a week,3-5 hours,Automobile,Overweight
+Male,48,174,No,No,Sometimes,1-2,Sometimes,No,1-2 liter,No,6 or more days a week,3-5 hours,Automobile,Overweight
+Male,48,177,No,No,Sometimes,3,Sometimes,No,>2 liter,No,3-4 days a week,0-2 hours,Automobile,Overweight
+Male,48,177,No,Yes,Always,3,Rarely,Yes,<1 liter,Yes,6 or more days a week,>5 hours,Automobile,Overweight
+Male,48,165,No,No,Always,3,Always,No,1-2 liter,No,1-2 days a week,3-5 hours,Automobile,Overweight
+Male,49,169,Yes,Yes,Rarely,3,Rarely,No,<1 liter,No,5-6 days a week,0-2 hours,Automobile,Overweight
+Male,49,170,No,No,Sometimes,3,Sometimes,No,>2 liter,No,3-4 days a week,0-2 hours,Automobile,Overweight
+Male,49,175,No,No,Sometimes,3,Always,No,>2 liter,No,5-6 days a week,0-2 hours,Automobile,Overweight
+Male,49,178,Yes,Yes,Rarely,3,Sometimes,Yes,<1 liter,Yes,3-4 days a week,3-5 hours,Automobile,Overweight
+Male,50,168,No,Yes,Always,3,Always,No,>2 liter,No,5-6 days a week,3-5 hours,Automobile,Overweight
+Male,50,170,Yes,Yes,Sometimes,3,Sometimes,Yes,1-2 liter,Yes,1-2 days a week,3-5 hours,Automobile,Overweight
+Male,50,171,No,Yes,Always,3,Rarely,No,>2 liter,Yes,5-6 days a week,>5 hours,Automobile,Overweight
+Male,51,169,No,No,Sometimes,1-2,Usually,No,>2 liter,No,6 or more days a week,0-2 hours,Automobile,Overweight
+Male,51,170,Yes,No,Rarely,3,Sometimes,Yes,1-2 liter,No,5-6 days a week,3-5 hours,Automobile,Overweight
+Male,51,170,No,No,Rarely,3,Sometimes,Yes,<1 liter,No,5-6 days a week,3-5 hours,Automobile,Overweight
+Male,51,172,No,No,Sometimes,3,Sometimes,No,>2 liter,No,5-6 days a week,3-5 hours,Automobile,Overweight
+Male,51,172,No,Yes,Always,3,Always,No,>2 liter,No,1-2 days a week,0-2 hours,Automobile,Overweight
+Male,52,175,No,No,Sometimes,3,Sometimes,No,>2 liter,No,5-6 days a week,3-5 hours,Automobile,Overweight
+Male,52,176,Yes,Yes,Sometimes,3,Sometimes,Yes,1-2 liter,No,6 or more days a week,0-2 hours,Automobile,Overweight
+Male,52,166,No,No,Sometimes,3,Always,No,>2 liter,No,5-6 days a week,0-2 hours,Automobile,Overweight
+Male,52,169,No,No,Sometimes,3,Sometimes,No,1-2 liter,No,5-6 days a week,3-5 hours,Automobile,Overweight
+Male,53,170,No,No,Sometimes,3,Sometimes,Yes,<1 liter,No,6 or more days a week,0-2 hours,Automobile,Overweight
+Male,53,172,No,No,Sometimes,3,Sometimes,No,<1 liter,No,3-4 days a week,0-2 hours,Automobile,Overweight
+Male,54,168,No,No,Sometimes,3,Sometimes,No,>2 liter,No,5-6 days a week,>5 hours,Automobile,Overweight
+Male,54,173,No,No,Always,1-2,Always,No,>2 liter,No,3-4 days a week,0-2 hours,Automobile,Overweight
+Male,54,175,No,No,Sometimes,3,Sometimes,Yes,<1 liter,No,5-6 days a week,>5 hours,Automobile,Overweight
+Male,19,165,No,Yes,Sometimes,3,Always,Yes,1-2 liter,No,3-4 days a week,3-5 hours,Public transportation,Obesity
+Male,21,173,Yes,Yes,Rarely,>3,Always,Yes,<1 liter,No,5-6 days a week,3-5 hours,Motorbike,Obesity
+Male,21,172,Yes,No,Sometimes,3,Usually,Yes,1-2 liter,No,1-2 days a week,0-2 hours,Public transportation,Obesity
+Male,24,166,No,Yes,Sometimes,>3,Sometimes,Yes,<1 liter,No,5-6 days a week,3-5 hours,Motorbike,Obesity
+Male,25,173,Yes,Yes,Rarely,>3,Always,Yes,1-2 liter,Yes,No Activity,3-5 hours,Public transportation,Obesity
+Male,26,177,No,No,Sometimes,>3,Sometimes,No,1-2 liter,No,5-6 days a week,0-2 hours,Motorbike,Obesity
+Male,26,172,Yes,Yes,Rarely,>3,Always,Yes,<1 liter,Yes,3-4 days a week,3-5 hours,Public transportation,Obesity
+Male,28,176,Yes,Yes,Sometimes,3,Sometimes,No,1-2 liter,Yes,6 or more days a week,0-2 hours,Public transportation,Obesity
+Male,29,175,Yes,Yes,Rarely,3,Usually,Yes,<1 liter,No,5-6 days a week,3-5 hours,Public transportation,Obesity
+Male,30,174,No,No,Sometimes,>3,Always,Yes,1-2 liter,Yes,6 or more days a week,0-2 hours,Public transportation,Obesity
+Male,30,181,No,Yes,Rarely,>3,Always,Yes,<1 liter,No,5-6 days a week,3-5 hours,Public transportation,Obesity
+Male,32,168,No,Yes,Rarely,3,Sometimes,Yes,1-2 liter,No,6 or more days a week,3-5 hours,Public transportation,Obesity
+Male,32,177,No,No,Sometimes,3,Usually,Yes,1-2 liter,No,3-4 days a week,3-5 hours,Public transportation,Obesity
+Male,32,183,Yes,Yes,Rarely,>3,Always,No,<1 liter,Yes,6 or more days a week,0-2 hours,Walking,Obesity
+Male,33,171,Yes,Yes,Rarely,>3,Usually,Yes,>2 liter,Yes,6 or more days a week,3-5 hours,Walking,Obesity
+Male,33,163,Yes,No,Sometimes,3,Rarely,Yes,>2 liter,Yes,1-2 days a week,0-2 hours,Walking,Obesity
+Male,33,169,No,Yes,Rarely,>3,Always,No,<1 liter,No,3-4 days a week,3-5 hours,Public transportation,Obesity
+Male,33,173,No,Yes,Rarely,3,Sometimes,Yes,<1 liter,No,3-4 days a week,0-2 hours,Public transportation,Obesity
+Male,34,172,Yes,Yes,Rarely,>3,Always,Yes,1-2 liter,Yes,No Activity,3-5 hours,Public transportation,Obesity
+Male,34,178,No,Yes,Sometimes,3,Sometimes,Yes,>2 liter,No,5-6 days a week,3-5 hours,Public transportation,Obesity
+Male,35,165,No,Yes,Rarely,>3,Sometimes,Yes,<1 liter,No,5-6 days a week,3-5 hours,Public transportation,Obesity
+Male,35,168,No,Yes,Rarely,3,Sometimes,No,1-2 liter,No,3-4 days a week,0-2 hours,Public transportation,Obesity
+Male,35,173,Yes,No,Rarely,3,Sometimes,No,<1 liter,No,3-4 days a week,3-5 hours,Public transportation,Obesity
+Male,35,179,No,Yes,Rarely,>3,Always,No,<1 liter,Yes,6 or more days a week,>5 hours,Public transportation,Obesity
+Male,36,176,No,Yes,Sometimes,3,Usually,Yes,1-2 liter,Yes,6 or more days a week,>5 hours,Public transportation,Obesity
+Male,36,182,Yes,Yes,Sometimes,3,Usually,Yes,<1 liter,Yes,6 or more days a week,3-5 hours,Public transportation,Obesity
+Male,37,161,No,No,Rarely,>3,Always,Yes,1-2 liter,Yes,6 or more days a week,3-5 hours,Public transportation,Obesity
+Male,37,182,Yes,Yes,Rarely,3,Usually,Yes,1-2 liter,Yes,5-6 days a week,>5 hours,Automobile,Obesity
+Male,38,164,No,No,Sometimes,3,Sometimes,Yes,<1 liter,No,6 or more days a week,0-2 hours,Automobile,Obesity
+Male,38,177,No,No,Rarely,>3,Always,No,<1 liter,No,1-2 days a week,>5 hours,Automobile,Obesity
+Male,38,178,Yes,Yes,Rarely,3,Always,Yes,1-2 liter,No,6 or more days a week,0-2 hours,Automobile,Obesity
+Male,39,173,Yes,Yes,Sometimes,3,Usually,No,<1 liter,Yes,6 or more days a week,3-5 hours,Automobile,Obesity
+Male,39,177,No,No,Sometimes,>3,Sometimes,Yes,>2 liter,No,3-4 days a week,>5 hours,Automobile,Obesity
+Male,39,191,Yes,Yes,Rarely,>3,Always,Yes,<1 liter,No,3-4 days a week,0-2 hours,Automobile,Obesity
+Male,39,162,No,Yes,Sometimes,3,Rarely,Yes,1-2 liter,No,6 or more days a week,>5 hours,Automobile,Obesity
+Male,40,168,No,No,Rarely,>3,Sometimes,No,<1 liter,No,6 or more days a week,3-5 hours,Automobile,Obesity
+Male,40,172,No,No,Rarely,>3,Sometimes,Yes,1-2 liter,No,3-4 days a week,3-5 hours,Automobile,Obesity
+Male,41,173,No,No,Rarely,>3,Usually,No,>2 liter,No,6 or more days a week,>5 hours,Automobile,Obesity
+Male,41,177,Yes,Yes,Sometimes,>3,Usually,Yes,<1 liter,No,6 or more days a week,3-5 hours,Automobile,Obesity
+Male,41,179,Yes,Yes,Rarely,>3,Usually,Yes,<1 liter,Yes,3-4 days a week,0-2 hours,Automobile,Obesity
+Male,42,168,No,Yes,Rarely,>3,Always,Yes,1-2 liter,Yes,6 or more days a week,3-5 hours,Automobile,Obesity
+Male,42,174,No,No,Sometimes,3,Usually,Yes,1-2 liter,No,5-6 days a week,>5 hours,Automobile,Obesity
+Male,42,177,No,Yes,Rarely,>3,Usually,No,<1 liter,No,5-6 days a week,3-5 hours,Automobile,Obesity
+Male,43,168,No,Yes,Rarely,3,Sometimes,No,<1 liter,No,5-6 days a week,0-2 hours,Automobile,Obesity
+Male,43,182,Yes,No,Sometimes,3,Usually,Yes,<1 liter,No,1-2 days a week,>5 hours,Automobile,Obesity
+Male,43,185,Yes,Yes,Rarely,3,Usually,No,1-2 liter,No,6 or more days a week,3-5 hours,Automobile,Obesity
+Male,44,169,No,No,Rarely,>3,Sometimes,Yes,>2 liter,No,5-6 days a week,3-5 hours,Automobile,Obesity
+Male,44,172,Yes,No,Sometimes,3,Usually,Yes,>2 liter,Yes,6 or more days a week,0-2 hours,Automobile,Obesity
+Male,45,165,No,No,Sometimes,3,Usually,No,<1 liter,No,3-4 days a week,>5 hours,Automobile,Obesity
+Male,45,168,No,Yes,Rarely,>3,Usually,Yes,<1 liter,No,6 or more days a week,3-5 hours,Automobile,Obesity
+Male,45,172,No,Yes,Sometimes,3,Usually,No,1-2 liter,No,5-6 days a week,0-2 hours,Automobile,Obesity
+Male,45,177,Yes,No,Sometimes,3,Usually,Yes,1-2 liter,No,5-6 days a week,3-5 hours,Automobile,Obesity
+Male,45,179,No,Yes,Rarely,>3,Usually,Yes,>2 liter,No,3-4 days a week,>5 hours,Automobile,Obesity
+Male,46,163,No,Yes,Sometimes,3,Rarely,No,<1 liter,No,6 or more days a week,3-5 hours,Automobile,Obesity
+Male,46,169,No,No,Rarely,3,Rarely,Yes,1-2 liter,No,5-6 days a week,0-2 hours,Automobile,Obesity
+Male,46,174,No,No,Sometimes,3,Sometimes,No,1-2 liter,No,1-2 days a week,>5 hours,Automobile,Obesity
+Male,47,178,Yes,Yes,Rarely,>3,Usually,No,1-2 liter,Yes,6 or more days a week,3-5 hours,Automobile,Obesity
+Male,47,182,Yes,No,Sometimes,3,Usually,Yes,<1 liter,Yes,6 or more days a week,3-5 hours,Automobile,Obesity
+Male,48,167,No,No,Rarely,>3,Sometimes,Yes,1-2 liter,No,6 or more days a week,>5 hours,Automobile,Obesity
+Male,48,183,Yes,No,Sometimes,3,Usually,Yes,<1 liter,Yes,3-4 days a week,0-2 hours,Automobile,Obesity
+Male,49,177,No,No,Sometimes,3,Always,Yes,1-2 liter,Yes,5-6 days a week,>5 hours,Automobile,Obesity
+Male,50,175,No,No,Rarely,3,Always,Yes,<1 liter,No,3-4 days a week,0-2 hours,Automobile,Obesity
+Male,50,178,No,Yes,Rarely,>3,Always,No,>2 liter,Yes,6 or more days a week,0-2 hours,Automobile,Obesity
+Male,51,168,No,No,Sometimes,3,Rarely,No,<1 liter,No,1-2 days a week,>5 hours,Automobile,Obesity
+Male,51,171,No,No,Rarely,3,Sometimes,No,<1 liter,No,1-2 days a week,0-2 hours,Automobile,Obesity
+Male,52,173,No,No,Rarely,3,Sometimes,Yes,>2 liter,No,5-6 days a week,>5 hours,Automobile,Obesity
+Male,52,177,No,No,Rarely,3,Sometimes,Yes,1-2 liter,Yes,6 or more days a week,3-5 hours,Automobile,Obesity
+Male,52,179,Yes,Yes,Rarely,>3,Usually,Yes,<1 liter,No,6 or more days a week,3-5 hours,Automobile,Obesity
+Male,53,170,No,No,Rarely,3,Rarely,No,1-2 liter,No,3-4 days a week,>5 hours,Automobile,Obesity
+Male,53,174,Yes,Yes,Sometimes,3,Sometimes,Yes,<1 liter,Yes,6 or more days a week,3-5 hours,Automobile,Obesity
+Male,54,171,No,No,Rarely,>3,Sometimes,Yes,1-2 liter,No,1-2 days a week,>5 hours,Public transportation,Obesity
+Male,54,173,No,Yes,Rarely,3,Sometimes,No,>2 liter,No,5-6 days a week,3-5 hours,Motorbike,Obesity
+Male,54,176,No,No,Sometimes,3,Usually,Yes,1-2 liter,No,3-4 days a week,>5 hours,Public transportation,Obesity
+Male,19,168,No,No,Rarely,1-2,Sometimes,No,<1 liter,No,5-6 days a week,3-5 hours,Walking,Underweight
+Male,21,172,No,Yes,Rarely,>3,Sometimes,Yes,1-2 liter,No,1-2 days a week,3-5 hours,Motorbike,Underweight
+Male,23,175,No,No,Always,1-2,Usually,Yes,<1 liter,No,No Activity,3-5 hours,Walking,Underweight
+Male,24,170,No,No,Always,1-2,Usually,Yes,<1 liter,No,No Activity,3-5 hours,Motorbike,Underweight
+Male,25,175,No,No,Always,1-2,Sometimes,Yes,>2 liter,No,No Activity,0-2 hours,Walking,Underweight
+Male,29,173,Yes,No,Sometimes,1-2,Usually,No,<1 liter,No,No Activity,3-5 hours,Bicycle,Underweight
+Male,36,169,No,No,Always,3,Usually,No,1-2 liter,No,No Activity,3-5 hours,Public transportation,Underweight
+Female,18,158,No,No,Always,1-2,Usually,Yes,>2 liter,No,No Activity,3-5 hours,Motorbike,Underweight
+Female,18,160,Yes,No,Always,1-2,Usually,No,<1 liter,No,No Activity,3-5 hours,Public transportation,Underweight
+Female,18,162,No,No,Sometimes,1-2,Sometimes,Yes,<1 liter,No,1-2 days a week,3-5 hours,Motorbike,Underweight
+Female,19,168,No,No,Always,1-2,Sometimes,Yes,<1 liter,No,No Activity,3-5 hours,Public transportation,Underweight
+Female,20,158,Yes,No,Always,1-2,Usually,Yes,1-2 liter,No,No Activity,3-5 hours,Public transportation,Underweight
+Female,21,160,No,No,Sometimes,3,Usually,No,<1 liter,No,1-2 days a week,3-5 hours,Public transportation,Underweight
+Female,21,160,No,No,Always,1-2,Sometimes,Yes,<1 liter,No,No Activity,>5 hours,Public transportation,Underweight
+Female,21,162,No,No,Always,1-2,Sometimes,No,1-2 liter,No,No Activity,3-5 hours,Motorbike,Underweight
+Female,22,163,No,Yes,Sometimes,3,Sometimes,Yes,<1 liter,No,No Activity,3-5 hours,Bicycle,Underweight
+Female,22,164,No,No,Always,1-2,Usually,Yes,1-2 liter,No,No Activity,3-5 hours,Public transportation,Underweight
+Female,23,165,No,No,Always,3,Usually,Yes,<1 liter,No,No Activity,>5 hours,Public transportation,Underweight
+Female,23,160,No,No,Sometimes,1-2,Usually,Yes,1-2 liter,No,3-4 days a week,3-5 hours,Public transportation,Underweight
+Female,23,167,No,No,Always,3,Usually,No,<1 liter,No,No Activity,>5 hours,Walking,Underweight
+Female,23,169,No,No,Sometimes,3,Sometimes,Yes,>2 liter,No,1-2 days a week,3-5 hours,Walking,Underweight
+Female,24,162,No,Yes,Always,1-2,Sometimes,Yes,<1 liter,No,No Activity,3-5 hours,Walking,Underweight
+Female,24,165,No,No,Sometimes,3,Usually,No,1-2 liter,No,3-4 days a week,3-5 hours,Public transportation,Underweight
+Female,25,169,No,No,Always,1-2,Sometimes,No,<1 liter,No,No Activity,3-5 hours,Public transportation,Underweight
+Female,27,158,No,Yes,Sometimes,3,Sometimes,Yes,>2 liter,No,No Activity,3-5 hours,Public transportation,Underweight
+Female,27,163,No,No,Always,1-2,Sometimes,No,<1 liter,No,No Activity,>5 hours,Walking,Underweight
+Female,28,165,No,No,Sometimes,3,Sometimes,Yes,1-2 liter,No,No Activity,3-5 hours,Public transportation,Underweight
+Female,29,159,No,No,Always,3,Sometimes,Yes,1-2 liter,No,1-2 days a week,3-5 hours,Bicycle,Underweight
+Female,31,163,No,No,Sometimes,1-2,Usually,No,<1 liter,No,1-2 days a week,>5 hours,Public transportation,Underweight
+Female,32,165,No,No,Always,3,Usually,No,1-2 liter,No,No Activity,>5 hours,Public transportation,Underweight
+Female,32,167,No,No,Sometimes,1-2,Usually,No,1-2 liter,No,No Activity,3-5 hours,Public transportation,Underweight
+Female,34,152,No,No,Always,3,Usually,Yes,1-2 liter,No,No Activity,3-5 hours,Public transportation,Underweight
+Female,36,166,No,No,Sometimes,3,Usually,Yes,<1 liter,No,No Activity,0-2 hours,Public transportation,Underweight
+Female,39,160,No,No,Sometimes,1-2,Usually,Yes,1-2 liter,No,No Activity,>5 hours,Automobile,Underweight
+Female,41,159,No,No,Always,1-2,Usually,Yes,>2 liter,No,No Activity,0-2 hours,Automobile,Underweight
+Female,44,157,No,No,Rarely,1-2,Usually,No,<1 liter,No,1-2 days a week,3-5 hours,Automobile,Underweight
+Female,19,158,No,Yes,Rarely,>3,Always,Yes,1-2 liter,No,6 or more days a week,3-5 hours,Walking,Obesity
+Female,22,162,Yes,Yes,Rarely,>3,Usually,No,<1 liter,Yes,1-2 days a week,3-5 hours,Walking,Obesity
+Female,22,164,No,No,Rarely,>3,Always,Yes,1-2 liter,No,3-4 days a week,3-5 hours,Motorbike,Obesity
+Female,23,165,No,No,Rarely,3,Usually,No,1-2 liter,No,6 or more days a week,3-5 hours,Public transportation,Obesity
+Female,26,159,Yes,Yes,Rarely,3,Always,Yes,<1 liter,No,6 or more days a week,3-5 hours,Walking,Obesity
+Female,26,163,No,Yes,Rarely,>3,Always,Yes,1-2 liter,No,3-4 days a week,>5 hours,Bicycle,Obesity
+Female,27,165,No,Yes,Sometimes,3,Usually,Yes,<1 liter,Yes,1-2 days a week,>5 hours,Walking,Obesity
+Female,29,156,Yes,Yes,Rarely,>3,Sometimes,No,1-2 liter,No,6 or more days a week,>5 hours,Public transportation,Obesity
+Female,30,160,No,Yes,Sometimes,>3,Always,No,1-2 liter,Yes,6 or more days a week,3-5 hours,Public transportation,Obesity
+Female,30,161,No,No,Rarely,>3,Always,No,1-2 liter,No,5-6 days a week,>5 hours,Walking,Obesity
+Female,31,167,Yes,No,Sometimes,1-2,Usually,Yes,<1 liter,No,6 or more days a week,3-5 hours,Walking,Obesity
+Female,34,171,No,Yes,Rarely,3,Sometimes,Yes,1-2 liter,Yes,6 or more days a week,3-5 hours,Walking,Obesity
+Female,35,153,No,Yes,Rarely,>3,Always,No,1-2 liter,Yes,5-6 days a week,>5 hours,Public transportation,Obesity
+Female,35,158,Yes,No,Rarely,>3,Usually,No,>2 liter,No,6 or more days a week,3-5 hours,Walking,Obesity
+Female,35,172,Yes,Yes,Sometimes,1-2,Usually,Yes,<1 liter,No,1-2 days a week,3-5 hours,Public transportation,Obesity
+Female,36,162,Yes,No,Rarely,>3,Sometimes,No,1-2 liter,Yes,5-6 days a week,>5 hours,Public transportation,Obesity
+Female,37,160,No,Yes,Sometimes,>3,Usually,Yes,>2 liter,No,5-6 days a week,3-5 hours,Motorbike,Obesity
+Female,37,165,No,Yes,Sometimes,>3,Always,Yes,<1 liter,Yes,1-2 days a week,>5 hours,Public transportation,Obesity
+Female,38,152,Yes,Yes,Rarely,>3,Sometimes,No,1-2 liter,Yes,6 or more days a week,0-2 hours,Public transportation,Obesity
+Female,38,168,Yes,No,Rarely,3,Usually,No,>2 liter,No,6 or more days a week,0-2 hours,Public transportation,Obesity
+Female,39,153,No,No,Sometimes,3,Usually,No,1-2 liter,Yes,5-6 days a week,3-5 hours,Public transportation,Obesity
+Female,39,155,No,Yes,Rarely,>3,Usually,Yes,1-2 liter,Yes,1-2 days a week,>5 hours,Public transportation,Obesity
+Female,39,159,No,No,Rarely,>3,Usually,Yes,1-2 liter,No,5-6 days a week,3-5 hours,Public transportation,Obesity
+Female,39,165,Yes,No,Sometimes,3,Usually,Yes,1-2 liter,No,6 or more days a week,0-2 hours,Automobile,Obesity
+Female,40,154,No,No,Sometimes,1-2,Usually,Yes,<1 liter,Yes,6 or more days a week,0-2 hours,Automobile,Obesity
+Female,40,160,No,No,Sometimes,3,Usually,No,1-2 liter,Yes,1-2 days a week,3-5 hours,Automobile,Obesity
+Female,40,163,Yes,Yes,Rarely,3,Sometimes,No,>2 liter,Yes,6 or more days a week,>5 hours,Automobile,Obesity
+Female,41,155,No,No,Sometimes,3,Sometimes,Yes,>2 liter,No,6 or more days a week,3-5 hours,Automobile,Obesity
+Female,41,158,No,No,Sometimes,>3,Usually,Yes,1-2 liter,No,3-4 days a week,>5 hours,Automobile,Obesity
+Female,41,174,No,No,Rarely,>3,Usually,No,1-2 liter,No,5-6 days a week,3-5 hours,Automobile,Obesity
+Female,42,156,Yes,Yes,Rarely,>3,Sometimes,No,<1 liter,No,6 or more days a week,>5 hours,Automobile,Obesity
+Female,42,163,No,No,Rarely,1-2,Sometimes,Yes,1-2 liter,No,1-2 days a week,3-5 hours,Automobile,Obesity
+Female,42,168,Yes,No,Sometimes,3,Sometimes,Yes,1-2 liter,No,1-2 days a week,0-2 hours,Automobile,Obesity
+Female,43,157,Yes,Yes,Rarely,>3,Always,No,1-2 liter,No,5-6 days a week,0-2 hours,Automobile,Obesity
+Female,44,158,No,No,Rarely,>3,Sometimes,Yes,<1 liter,No,5-6 days a week,0-2 hours,Automobile,Obesity
+Female,44,163,No,No,Rarely,>3,Sometimes,Yes,1-2 liter,No,1-2 days a week,0-2 hours,Automobile,Obesity
+Female,45,167,No,No,Rarely,3,Sometimes,No,1-2 liter,No,5-6 days a week,>5 hours,Automobile,Obesity
+Female,46,165,No,No,Sometimes,3,Sometimes,Yes,<1 liter,No,5-6 days a week,0-2 hours,Automobile,Obesity
+Female,47,159,Yes,No,Rarely,>3,Always,Yes,1-2 liter,Yes,6 or more days a week,0-2 hours,Automobile,Obesity
+Female,47,161,No,Yes,Rarely,3,Usually,No,>2 liter,Yes,6 or more days a week,3-5 hours,Automobile,Obesity
+Female,47,165,No,Yes,Rarely,>3,Always,Yes,1-2 liter,Yes,3-4 days a week,0-2 hours,Automobile,Obesity
+Female,48,167,Yes,No,Sometimes,3,Sometimes,No,<1 liter,Yes,5-6 days a week,3-5 hours,Automobile,Obesity
+Female,49,172,Yes,Yes,Rarely,>3,Usually,Yes,1-2 liter,No,1-2 days a week,3-5 hours,Automobile,Obesity
+Female,50,177,Yes,Yes,Rarely,3,Sometimes,Yes,1-2 liter,No,6 or more days a week,0-2 hours,Automobile,Obesity
+Female,51,164,No,Yes,Rarely,>3,Always,Yes,1-2 liter,Yes,3-4 days a week,0-2 hours,Automobile,Obesity
+Female,51,162,No,Yes,Sometimes,3,Sometimes,No,>2 liter,No,6 or more days a week,0-2 hours,Automobile,Obesity
+Female,52,160,Yes,No,Rarely,>3,Sometimes,Yes,>2 liter,Yes,5-6 days a week,0-2 hours,Automobile,Obesity
+Female,53,166,No,Yes,Rarely,>3,Always,Yes,1-2 liter,No,1-2 days a week,>5 hours,Automobile,Obesity
+Female,54,169,Yes,Yes,Rarely,>3,Always,Yes,>2 liter,No,5-6 days a week,0-2 hours,Automobile,Obesity
+Female,18,156,No,No,Always,1-2,Rarely,No,<1 liter,No,3-4 days a week,>5 hours,Public transportation,Normal
+Female,18,161,No,No,Always,1-2,Rarely,No,1-2 liter,No,No Activity,3-5 hours,Bicycle,Underweight
+Female,18,160,No,No,Sometimes,1-2,Rarely,No,>2 liter,No,1-2 days a week,>5 hours,Public transportation,Normal
+Female,18,161,No,No,Sometimes,3,Sometimes,No,>2 liter,No,No Activity,>5 hours,Public transportation,Normal
+Female,18,167,No,Yes,Sometimes,1-2,Rarely,No,1-2 liter,No,3-4 days a week,>5 hours,Motorbike,Normal
+Female,18,175,Yes,Yes,Rarely,1-2,Always,No,1-2 liter,No,5-6 days a week,3-5 hours,Public transportation,Normal
+Female,19,155,No,No,Always,1-2,Rarely,No,<1 liter,No,1-2 days a week,>5 hours,Motorbike,Normal
+Female,19,165,No,No,Always,3,Usually,No,<1 liter,Yes,No Activity,>5 hours,Bicycle,Normal
+Female,19,161,No,No,Sometimes,3,Sometimes,No,>2 liter,No,1-2 days a week,>5 hours,Public transportation,Normal
+Female,19,161,No,No,Sometimes,3,Sometimes,No,1-2 liter,Yes,1-2 days a week,3-5 hours,Public transportation,Overweight
+Female,19,165,No,No,Always,1-2,Sometimes,No,1-2 liter,No,3-4 days a week,>5 hours,Public transportation,Normal
+Female,19,166,No,No,Sometimes,1-2,Sometimes,No,1-2 liter,No,No Activity,>5 hours,Public transportation,Normal
+Female,19,164,No,No,Always,1-2,Rarely,No,<1 liter,No,1-2 days a week,>5 hours,Public transportation,Normal
+Female,19,165,No,Yes,Sometimes,1-2,Sometimes,No,>2 liter,No,No Activity,>5 hours,Bicycle,Normal
+Female,19,180,Yes,No,Always,>3,Usually,No,<1 liter,No,5-6 days a week,>5 hours,Public transportation,Normal
+Female,20,154,No,No,Always,3,Usually,No,1-2 liter,No,No Activity,>5 hours,Public transportation,Normal
+Female,20,156,No,No,Always,3,Always,No,<1 liter,No,1-2 days a week,3-5 hours,Public transportation,Overweight
+Female,20,157,No,No,Always,3,Usually,No,>2 liter,No,1-2 days a week,>5 hours,Bicycle,Normal
+Female,20,158,No,No,Sometimes,3,Sometimes,No,>2 liter,No,5-6 days a week,>5 hours,Public transportation,Normal
+Female,20,160,No,No,Always,3,Sometimes,Yes,1-2 liter,No,3-4 days a week,>5 hours,Bicycle,Normal
+Female,20,159,No,No,Sometimes,1-2,Sometimes,No,>2 liter,No,3-4 days a week,>5 hours,Public transportation,Normal
+Female,20,156,No,No,Always,3,Sometimes,No,1-2 liter,No,3-4 days a week,0-2 hours,Bicycle,Normal
+Female,20,157,No,No,Sometimes,1-2,Rarely,No,>2 liter,No,No Activity,>5 hours,Bicycle,Normal
+Female,20,157,No,No,Sometimes,3,Sometimes,No,>2 liter,No,1-2 days a week,>5 hours,Walking,Normal
+Female,20,159,No,No,Always,3,Always,No,1-2 liter,No,No Activity,>5 hours,Walking,Normal
+Female,20,160,No,No,Always,3,Rarely,No,1-2 liter,No,1-2 days a week,0-2 hours,Walking,Normal
+Female,20,161,No,No,Sometimes,3,Sometimes,No,1-2 liter,No,3-4 days a week,>5 hours,Bicycle,Overweight
+Female,20,162,No,Yes,Always,3,Always,No,1-2 liter,No,5-6 days a week,>5 hours,Bicycle,Normal
+Female,20,162,No,No,Sometimes,>3,Always,No,>2 liter,No,No Activity,0-2 hours,Public transportation,Overweight
+Female,20,163,No,Yes,Sometimes,3,Always,No,>2 liter,No,No Activity,>5 hours,Automobile,Overweight
+Female,20,164,No,No,Always,3,Sometimes,No,<1 liter,Yes,No Activity,3-5 hours,Public transportation,Normal
+Female,20,165,No,Yes,Sometimes,3,Rarely,No,>2 liter,No,3-4 days a week,>5 hours,Walking,Normal
+Female,20,166,No,No,Rarely,>3,Rarely,No,>2 liter,Yes,5-6 days a week,>5 hours,Public transportation,Normal
+Female,20,160,No,No,Sometimes,3,Sometimes,No,1-2 liter,No,1-2 days a week,>5 hours,Bicycle,Normal
+Female,20,161,No,No,Always,1-2,Sometimes,No,1-2 liter,No,5-6 days a week,0-2 hours,Walking,Normal
+Female,20,162,No,No,Sometimes,3,Usually,No,1-2 liter,No,1-2 days a week,>5 hours,Public transportation,Normal
+Female,20,161,No,No,Sometimes,1-2,Sometimes,No,1-2 liter,No,3-4 days a week,>5 hours,Motorbike,Normal
+Female,20,164,No,No,Sometimes,3,Usually,No,1-2 liter,No,1-2 days a week,>5 hours,Public transportation,Normal
+Female,20,163,No,No,Sometimes,3,Usually,No,>2 liter,No,No Activity,0-2 hours,Public transportation,Normal
+Female,20,169,No,No,Always,3,Sometimes,No,<1 liter,No,No Activity,>5 hours,Public transportation,Normal
+Female,20,170,No,No,Always,3,Always,No,<1 liter,No,No Activity,>5 hours,Public transportation,Normal
+Female,20,172,No,No,Always,3,Sometimes,No,>2 liter,No,No Activity,>5 hours,Public transportation,Normal
+Female,20,176,No,No,Always,3,Rarely,No,>2 liter,No,1-2 days a week,>5 hours,Motorbike,Normal
+Female,20,179,No,No,Sometimes,1-2,Sometimes,No,<1 liter,No,3-4 days a week,0-2 hours,Public transportation,Normal
+Female,20,177,No,No,Always,1-2,Sometimes,No,<1 liter,No,5-6 days a week,>5 hours,Public transportation,Normal
+Female,21,154,No,No,Sometimes,1-2,Rarely,No,>2 liter,No,3-4 days a week,>5 hours,Public transportation,Normal
+Female,21,156,No,No,Sometimes,1-2,Always,No,>2 liter,No,No Activity,>5 hours,Public transportation,Overweight
+Female,21,157,No,No,Sometimes,1-2,Rarely,No,1-2 liter,No,3-4 days a week,>5 hours,Public transportation,Overweight
+Female,21,155,No,No,Always,3,Always,No,1-2 liter,No,3-4 days a week,3-5 hours,Bicycle,Normal
+Female,21,154,No,No,Sometimes,3,Rarely,No,1-2 liter,No,1-2 days a week,>5 hours,Bicycle,Normal
+Female,21,155,No,Yes,Always,1-2,Usually,No,<1 liter,No,3-4 days a week,0-2 hours,Public transportation,Normal
+Female,21,157,No,Yes,Always,3,Rarely,Yes,>2 liter,No,No Activity,>5 hours,Public transportation,Normal
+Female,21,156,No,No,Sometimes,3,Always,No,<1 liter,No,1-2 days a week,>5 hours,Public transportation,Normal
+Female,21,163,No,No,Sometimes,3,Sometimes,No,<1 liter,No,1-2 days a week,3-5 hours,Public transportation,Normal
+Female,21,161,No,No,Sometimes,1-2,Sometimes,No,<1 liter,No,3-4 days a week,>5 hours,Bicycle,Normal
+Female,21,162,No,No,Always,1-2,Rarely,No,1-2 liter,No,No Activity,>5 hours,Bicycle,Normal
+Female,21,162,No,No,Always,1-2,Rarely,No,>2 liter,No,3-4 days a week,>5 hours,Public transportation,Normal
+Female,21,161,No,No,Always,1-2,Usually,No,1-2 liter,No,3-4 days a week,>5 hours,Public transportation,Normal
+Female,21,162,No,Yes,Always,>3,Usually,Yes,1-2 liter,No,5-6 days a week,3-5 hours,Motorbike,Normal
+Female,21,164,No,No,Always,3,Usually,No,>2 liter,No,1-2 days a week,0-2 hours,Public transportation,Normal
+Female,21,165,No,No,Always,3,Sometimes,No,1-2 liter,No,3-4 days a week,0-2 hours,Walking,Normal
+Female,21,166,No,No,Sometimes,3,Usually,No,>2 liter,No,1-2 days a week,>5 hours,Public transportation,Normal
+Female,21,164,No,No,Always,1-2,Rarely,No,<1 liter,No,3-4 days a week,>5 hours,Bicycle,Normal
+Female,21,165,Yes,No,Sometimes,1-2,Usually,No,1-2 liter,No,3-4 days a week,>5 hours,Public transportation,Normal
+Female,21,168,No,No,Sometimes,3,Always,No,<1 liter,No,1-2 days a week,>5 hours,Bicycle,Normal
+Female,21,170,No,Yes,Always,3,Sometimes,No,<1 liter,No,3-4 days a week,>5 hours,Bicycle,Normal
+Female,21,173,No,No,Always,3,Usually,No,1-2 liter,No,3-4 days a week,>5 hours,Walking,Normal
+Female,21,175,No,No,Always,3,Sometimes,No,1-2 liter,No,No Activity,>5 hours,Bicycle,Normal
+Female,22,155,No,No,Always,1-2,Rarely,No,>2 liter,No,3-4 days a week,>5 hours,Bicycle,Normal
+Female,22,154,No,No,Always,3,Usually,No,1-2 liter,No,No Activity,3-5 hours,Public transportation,Normal
+Female,22,157,No,No,Always,3,Usually,No,1-2 liter,No,No Activity,>5 hours,Public transportation,Normal
+Female,22,156,No,No,Always,3,Sometimes,No,>2 liter,No,3-4 days a week,>5 hours,Walking,Normal
+Female,22,157,No,No,Always,3,Sometimes,No,<1 liter,No,3-4 days a week,>5 hours,Bicycle,Normal
+Female,22,169,No,No,Always,3,Sometimes,No,>2 liter,No,3-4 days a week,3-5 hours,Bicycle,Normal
+Female,22,160,No,No,Always,1-2,Usually,No,<1 liter,No,3-4 days a week,0-2 hours,Bicycle,Normal
+Female,22,164,No,No,Sometimes,1-2,Rarely,No,>2 liter,Yes,1-2 days a week,3-5 hours,Public transportation,Normal
+Female,22,160,No,No,Always,1-2,Sometimes,No,>2 liter,No,3-4 days a week,3-5 hours,Public transportation,Normal
+Female,22,162,No,No,Sometimes,1-2,Rarely,Yes,>2 liter,Yes,1-2 days a week,3-5 hours,Public transportation,Normal
+Female,22,163,No,No,Always,1-2,Always,No,1-2 liter,No,No Activity,3-5 hours,Public transportation,Normal
+Female,22,160,No,No,Always,3,Sometimes,No,1-2 liter,No,3-4 days a week,0-2 hours,Public transportation,Normal
+Female,22,159,No,No,Always,1-2,Usually,No,<1 liter,Yes,No Activity,3-5 hours,Public transportation,Normal
+Female,22,162,No,No,Always,3,Rarely,No,<1 liter,No,No Activity,3-5 hours,Public transportation,Normal
+Female,22,166,No,No,Sometimes,1-2,Always,No,>2 liter,No,No Activity,3-5 hours,Public transportation,Normal
+Female,22,167,No,No,Sometimes,3,Sometimes,No,1-2 liter,No,1-2 days a week,3-5 hours,Bicycle,Normal
+Female,22,170,No,No,Always,1-2,Always,Yes,1-2 liter,No,3-4 days a week,3-5 hours,Walking,Normal
+Female,22,171,No,No,Sometimes,3,Usually,No,>2 liter,No,1-2 days a week,3-5 hours,Public transportation,Normal
+Female,22,173,Yes,Yes,Always,3,Rarely,Yes,<1 liter,No,5-6 days a week,3-5 hours,Public transportation,Normal
+Female,23,155,No,No,Always,3,Always,No,>2 liter,No,3-4 days a week,3-5 hours,Public transportation,Normal
+Female,23,154,No,No,Sometimes,1-2,Rarely,No,>2 liter,No,3-4 days a week,3-5 hours,Bicycle,Normal
+Female,23,155,Yes,No,Sometimes,3,Sometimes,No,1-2 liter,No,1-2 days a week,0-2 hours,Bicycle,Normal
+Female,23,157,No,No,Sometimes,3,Usually,No,1-2 liter,No,5-6 days a week,3-5 hours,Bicycle,Overweight
+Female,23,156,No,No,Always,1-2,Rarely,No,1-2 liter,No,No Activity,3-5 hours,Public transportation,Normal
+Female,23,156,No,No,Always,1-2,Sometimes,No,1-2 liter,No,3-4 days a week,3-5 hours,Walking,Normal
+Female,23,158,Yes,Yes,Rarely,>3,Sometimes,Yes,<1 liter,Yes,6 or more days a week,>5 hours,Automobile,Obesity
+Female,23,171,No,No,Sometimes,1-2,Usually,No,>2 liter,No,3-4 days a week,>5 hours,Public transportation,Normal
+Female,23,159,No,No,Always,3,Rarely,No,1-2 liter,No,3-4 days a week,3-5 hours,Motorbike,Normal
+Female,23,158,No,No,Always,3,Usually,No,1-2 liter,No,3-4 days a week,3-5 hours,Public transportation,Normal
+Female,23,161,No,No,Always,3,Rarely,No,>2 liter,No,No Activity,3-5 hours,Public transportation,Normal
+Female,23,162,No,No,Always,3,Usually,No,>2 liter,No,1-2 days a week,>5 hours,Public transportation,Normal
+Female,23,163,No,No,Always,1-2,Usually,No,<1 liter,No,3-4 days a week,0-2 hours,Walking,Normal
+Female,23,164,No,No,Sometimes,1-2,Sometimes,Yes,>2 liter,No,1-2 days a week,0-2 hours,Bicycle,Normal
+Female,23,163,No,No,Always,1-2,Usually,No,>2 liter,No,3-4 days a week,3-5 hours,Public transportation,Normal
+Female,23,164,No,No,Sometimes,1-2,Usually,No,>2 liter,No,3-4 days a week,3-5 hours,Public transportation,Normal
+Female,23,163,No,No,Always,3,Rarely,No,>2 liter,No,1-2 days a week,3-5 hours,Walking,Normal
+Female,23,162,No,No,Sometimes,3,Sometimes,No,1-2 liter,No,1-2 days a week,3-5 hours,Walking,Normal
+Female,23,164,Yes,Yes,Sometimes,1-2,Usually,Yes,>2 liter,No,6 or more days a week,3-5 hours,Walking,Normal
+Female,23,163,No,No,Always,3,Sometimes,No,<1 liter,No,1-2 days a week,3-5 hours,Bicycle,Normal
+Female,23,164,No,No,Always,3,Sometimes,No,<1 liter,No,1-2 days a week,0-2 hours,Public transportation,Normal
+Female,23,168,No,No,Sometimes,3,Always,No,>2 liter,No,1-2 days a week,3-5 hours,Bicycle,Normal
+Female,23,171,No,No,Sometimes,1-2,Usually,No,>2 liter,No,3-4 days a week,3-5 hours,Bicycle,Normal
+Female,23,174,No,No,Always,3,Rarely,No,>2 liter,No,3-4 days a week,0-2 hours,Public transportation,Normal
+Female,23,175,No,No,Sometimes,1-2,Always,No,1-2 liter,No,No Activity,3-5 hours,Public transportation,Normal
+Female,23,177,No,No,Always,1-2,Usually,No,>2 liter,Yes,3-4 days a week,3-5 hours,Public transportation,Normal
+Female,24,160,No,No,Always,1-2,Sometimes,Yes,1-2 liter,No,No Activity,3-5 hours,Public transportation,Normal
+Female,24,159,No,No,Sometimes,1-2,Rarely,No,1-2 liter,No,1-2 days a week,>5 hours,Public transportation,Normal
+Female,24,158,No,No,Sometimes,3,Sometimes,No,1-2 liter,No,5-6 days a week,>5 hours,Walking,Normal
+Female,24,157,No,No,Always,3,Usually,No,<1 liter,No,1-2 days a week,3-5 hours,Public transportation,Normal
+Female,24,158,Yes,No,Always,3,Sometimes,No,<1 liter,No,3-4 days a week,3-5 hours,Public transportation,Normal
+Female,24,159,No,No,Always,3,Rarely,No,1-2 liter,No,3-4 days a week,3-5 hours,Bicycle,Normal
+Female,24,160,No,No,Always,>3,Usually,No,>2 liter,No,3-4 days a week,3-5 hours,Public transportation,Normal
+Female,24,162,No,No,Sometimes,3,Rarely,No,<1 liter,No,1-2 days a week,3-5 hours,Bicycle,Normal
+Female,24,160,No,No,Always,1-2,Usually,No,<1 liter,No,3-4 days a week,3-5 hours,Public transportation,Normal
+Female,24,162,No,No,Always,>3,Usually,No,<1 liter,No,5-6 days a week,3-5 hours,Public transportation,Normal
+Female,24,162,No,No,Sometimes,1-2,Rarely,No,<1 liter,Yes,3-4 days a week,3-5 hours,Bicycle,Normal
+Female,24,164,No,No,Always,3,Usually,No,>2 liter,No,No Activity,3-5 hours,Public transportation,Normal
+Female,24,165,No,No,Sometimes,1-2,Sometimes,No,<1 liter,No,3-4 days a week,3-5 hours,Bicycle,Normal
+Female,24,166,No,Yes,Always,1-2,Usually,Yes,>2 liter,No,6 or more days a week,3-5 hours,Bicycle,Normal
+Female,24,165,No,No,Sometimes,1-2,Usually,No,>2 liter,No,5-6 days a week,3-5 hours,Public transportation,Normal
+Female,24,164,No,Yes,Always,3,Always,No,>2 liter,No,3-4 days a week,3-5 hours,Public transportation,Normal
+Female,24,166,No,No,Always,3,Sometimes,No,1-2 liter,No,3-4 days a week,3-5 hours,Walking,Normal
+Female,24,170,No,No,Always,3,Always,No,<1 liter,No,3-4 days a week,3-5 hours,Public transportation,Normal
+Female,24,173,No,No,Always,3,Sometimes,No,<1 liter,No,3-4 days a week,3-5 hours,Walking,Normal
+Female,24,175,No,No,Always,1-2,Rarely,No,>2 liter,No,No Activity,>5 hours,Public transportation,Normal
+Female,25,154,No,No,Sometimes,3,Sometimes,No,>2 liter,No,3-4 days a week,3-5 hours,Public transportation,Normal
+Female,25,155,No,Yes,Rarely,3,Always,Yes,>2 liter,No,5-6 days a week,3-5 hours,Public transportation,Normal
+Female,25,154,No,No,Always,3,Usually,No,>2 liter,No,1-2 days a week,>5 hours,Bicycle,Normal
+Female,25,156,No,No,Sometimes,3,Sometimes,No,>2 liter,No,1-2 days a week,>5 hours,Walking,Normal
+Female,25,159,No,No,Always,3,Always,No,>2 liter,No,6 or more days a week,3-5 hours,Public transportation,Normal
+Female,25,157,No,No,Always,3,Sometimes,No,1-2 liter,No,1-2 days a week,0-2 hours,Bicycle,Normal
+Female,25,161,No,No,Sometimes,3,Usually,No,>2 liter,No,3-4 days a week,3-5 hours,Walking,Overweight
+Female,25,159,No,No,Always,>3,Usually,Yes,>2 liter,No,6 or more days a week,0-2 hours,Public transportation,Normal
+Female,25,164,No,No,Sometimes,1-2,Usually,No,>2 liter,No,1-2 days a week,0-2 hours,Public transportation,Normal
+Female,25,163,No,No,Always,3,Rarely,No,>2 liter,No,5-6 days a week,3-5 hours,Public transportation,Normal
+Female,25,164,No,No,Sometimes,3,Always,No,>2 liter,No,3-4 days a week,3-5 hours,Bicycle,Normal
+Female,25,166,No,No,Sometimes,3,Rarely,No,>2 liter,No,1-2 days a week,3-5 hours,Public transportation,Normal
+Female,25,167,No,No,Sometimes,1-2,Rarely,No,>2 liter,No,6 or more days a week,3-5 hours,Public transportation,Normal
+Female,25,169,No,Yes,Sometimes,>3,Usually,No,>2 liter,No,5-6 days a week,3-5 hours,Public transportation,Normal
+Female,25,169,No,No,Always,1-2,Rarely,No,1-2 liter,No,3-4 days a week,3-5 hours,Public transportation,Normal
+Female,25,168,No,No,Rarely,3,Always,No,1-2 liter,No,5-6 days a week,3-5 hours,Public transportation,Overweight
+Female,25,169,No,No,Always,3,Rarely,No,1-2 liter,No,6 or more days a week,3-5 hours,Motorbike,Normal
+Female,25,173,No,No,Sometimes,1-2,Sometimes,No,1-2 liter,No,5-6 days a week,3-5 hours,Public transportation,Normal
+Female,25,176,No,No,Always,3,Sometimes,No,>2 liter,No,1-2 days a week,>5 hours,Public transportation,Normal
+Female,26,160,No,Yes,Sometimes,3,Usually,No,1-2 liter,No,No Activity,3-5 hours,Public transportation,Normal
+Female,26,154,No,Yes,Always,3,Rarely,No,>2 liter,No,5-6 days a week,0-2 hours,Public transportation,Normal
+Female,26,155,No,Yes,Rarely,3,Sometimes,No,>2 liter,No,5-6 days a week,0-2 hours,Bicycle,Normal
+Female,26,154,No,No,Always,3,Usually,No,1-2 liter,No,1-2 days a week,3-5 hours,Motorbike,Normal
+Female,26,155,No,No,Always,1-2,Rarely,No,1-2 liter,No,5-6 days a week,>5 hours,Public transportation,Normal
+Female,26,155,No,No,Always,3,Usually,No,1-2 liter,No,1-2 days a week,>5 hours,Motorbike,Normal
+Female,26,156,No,No,Sometimes,3,Usually,No,>2 liter,No,5-6 days a week,0-2 hours,Public transportation,Normal
+Female,26,157,No,Yes,Rarely,1-2,Always,No,>2 liter,No,6 or more days a week,0-2 hours,Public transportation,Normal
+Female,26,159,Yes,No,Rarely,3,Usually,Yes,>2 liter,No,No Activity,0-2 hours,Public transportation,Normal
+Female,26,161,No,No,Sometimes,3,Sometimes,No,>2 liter,No,1-2 days a week,3-5 hours,Motorbike,Normal
+Female,26,163,No,No,Always,3,Rarely,No,1-2 liter,No,1-2 days a week,3-5 hours,Public transportation,Normal
+Female,26,166,No,No,Sometimes,3,Sometimes,No,>2 liter,No,1-2 days a week,3-5 hours,Public transportation,Normal
+Female,26,165,No,No,Sometimes,3,Always,No,<1 liter,No,6 or more days a week,0-2 hours,Public transportation,Normal
+Female,26,166,No,No,Sometimes,1-2,Sometimes,No,<1 liter,Yes,3-4 days a week,3-5 hours,Bicycle,Normal
+Female,26,167,No,No,Always,1-2,Rarely,No,<1 liter,No,5-6 days a week,0-2 hours,Public transportation,Normal
+Female,26,171,No,No,Always,3,Sometimes,No,<1 liter,No,3-4 days a week,0-2 hours,Public transportation,Normal
+Female,26,169,No,No,Always,1-2,Sometimes,No,<1 liter,No,5-6 days a week,3-5 hours,Walking,Normal
+Female,26,172,No,No,Sometimes,3,Rarely,No,<1 liter,No,1-2 days a week,3-5 hours,Walking,Normal
+Female,26,174,Yes,Yes,Rarely,>3,Usually,Yes,>2 liter,No,6 or more days a week,>5 hours,Public transportation,Overweight
+Female,26,176,Yes,Yes,Sometimes,1-2,Sometimes,Yes,<1 liter,Yes,5-6 days a week,3-5 hours,Public transportation,Normal
+Female,27,150,No,No,Always,3,Sometimes,Yes,>2 liter,No,5-6 days a week,>5 hours,Bicycle,Normal
+Female,27,153,No,Yes,Sometimes,3,Sometimes,Yes,>2 liter,No,3-4 days a week,3-5 hours,Public transportation,Normal
+Female,27,157,Yes,No,Sometimes,>3,Rarely,No,>2 liter,Yes,5-6 days a week,0-2 hours,Public transportation,Normal
+Female,27,160,No,No,Always,1-2,Sometimes,No,1-2 liter,Yes,6 or more days a week,>5 hours,Public transportation,Normal
+Female,27,161,No,No,Rarely,3,Sometimes,Yes,1-2 liter,No,5-6 days a week,0-2 hours,Public transportation,Overweight
+Female,27,162,No,No,Sometimes,3,Sometimes,No,<1 liter,No,6 or more days a week,0-2 hours,Walking,Overweight
+Female,27,158,No,Yes,Always,3,Rarely,Yes,>2 liter,No,6 or more days a week,0-2 hours,Walking,Overweight
+Female,27,162,No,No,Rarely,>3,Sometimes,No,1-2 liter,Yes,5-6 days a week,3-5 hours,Automobile,Obesity
+Female,27,169,No,No,Always,3,Rarely,No,>2 liter,No,5-6 days a week,0-2 hours,Motorbike,Normal
+Female,27,171,No,No,Always,3,Usually,Yes,>2 liter,No,3-4 days a week,3-5 hours,Walking,Normal
+Female,27,175,No,No,Sometimes,1-2,Usually,No,<1 liter,No,3-4 days a week,3-5 hours,Public transportation,Normal
+Female,28,154,No,Yes,Always,3,Sometimes,Yes,1-2 liter,No,6 or more days a week,0-2 hours,Public transportation,Normal
+Female,28,159,No,No,Always,1-2,Rarely,Yes,>2 liter,No,1-2 days a week,0-2 hours,Public transportation,Normal
+Female,28,156,No,No,Sometimes,3,Sometimes,No,1-2 liter,No,1-2 days a week,3-5 hours,Public transportation,Overweight
+Female,28,159,No,No,Sometimes,>3,Sometimes,No,<1 liter,No,6 or more days a week,>5 hours,Public transportation,Normal
+Female,28,158,No,No,Sometimes,1-2,Usually,No,>2 liter,No,No Activity,3-5 hours,Walking,Normal
+Female,28,164,No,No,Always,1-2,Always,No,<1 liter,No,5-6 days a week,>5 hours,Public transportation,Normal
+Female,28,166,No,No,Sometimes,1-2,Sometimes,No,1-2 liter,No,3-4 days a week,0-2 hours,Bicycle,Normal
+Female,28,168,No,No,Always,3,Always,No,1-2 liter,No,5-6 days a week,3-5 hours,Public transportation,Normal
+Female,28,167,No,No,Sometimes,3,Always,No,>2 liter,No,1-2 days a week,3-5 hours,Bicycle,Overweight
+Female,28,169,No,No,Always,1-2,Always,No,<1 liter,No,5-6 days a week,0-2 hours,Bicycle,Normal
+Female,28,171,No,No,Always,1-2,Always,No,>2 liter,No,No Activity,>5 hours,Public transportation,Normal
+Female,29,155,No,No,Always,3,Rarely,No,1-2 liter,No,6 or more days a week,3-5 hours,Public transportation,Overweight
+Female,29,161,No,No,Sometimes,3,Sometimes,No,<1 liter,No,3-4 days a week,0-2 hours,Walking,Normal
+Female,29,159,No,No,Sometimes,3,Always,No,1-2 liter,No,3-4 days a week,0-2 hours,Public transportation,Overweight
+Female,29,161,No,No,Sometimes,3,Sometimes,No,1-2 liter,No,1-2 days a week,0-2 hours,Walking,Overweight
+Female,29,168,No,No,Sometimes,3,Sometimes,No,1-2 liter,No,1-2 days a week,0-2 hours,Public transportation,Normal
+Female,29,166,No,No,Always,1-2,Sometimes,No,>2 liter,Yes,6 or more days a week,3-5 hours,Public transportation,Normal
+Female,29,173,No,No,Sometimes,3,Always,No,>2 liter,No,1-2 days a week,0-2 hours,Public transportation,Normal
+Female,29,174,No,No,Sometimes,3,Rarely,No,<1 liter,No,3-4 days a week,3-5 hours,Public transportation,Normal
+Female,29,172,Yes,No,Sometimes,1-2,Sometimes,Yes,<1 liter,No,6 or more days a week,0-2 hours,Public transportation,Normal
+Female,29,173,No,No,Always,1-2,Rarely,No,>2 liter,Yes,5-6 days a week,3-5 hours,Public transportation,Normal
+Female,29,181,No,Yes,Rarely,3,Usually,No,1-2 liter,No,6 or more days a week,>5 hours,Public transportation,Overweight
+Female,30,158,No,No,Always,3,Rarely,No,<1 liter,No,5-6 days a week,3-5 hours,Bicycle,Normal
+Female,30,162,No,No,Always,3,Usually,No,>2 liter,No,6 or more days a week,>5 hours,Public transportation,Normal
+Female,30,163,No,No,Always,3,Rarely,No,1-2 liter,No,1-2 days a week,0-2 hours,Public transportation,Normal
+Female,30,163,No,No,Always,3,Always,No,>2 liter,No,6 or more days a week,3-5 hours,Public transportation,Normal
+Female,30,164,No,No,Sometimes,1-2,Rarely,No,1-2 liter,Yes,5-6 days a week,3-5 hours,Public transportation,Normal
+Female,30,164,No,No,Sometimes,3,Sometimes,No,<1 liter,No,1-2 days a week,>5 hours,Walking,Normal
+Female,30,170,No,No,Rarely,3,Always,No,1-2 liter,No,6 or more days a week,0-2 hours,Public transportation,Normal
+Female,31,154,No,No,Sometimes,3,Always,No,>2 liter,No,3-4 days a week,0-2 hours,Walking,Overweight
+Female,31,160,No,No,Rarely,3,Always,No,<1 liter,No,6 or more days a week,3-5 hours,Walking,Overweight
+Female,31,162,Yes,No,Sometimes,>3,Rarely,No,1-2 liter,Yes,5-6 days a week,>5 hours,Public transportation,Normal
+Female,31,166,No,No,Sometimes,3,Sometimes,No,<1 liter,No,1-2 days a week,0-2 hours,Walking,Normal
+Female,31,164,No,No,Sometimes,1-2,Sometimes,No,1-2 liter,No,5-6 days a week,3-5 hours,Bicycle,Normal
+Female,31,168,No,No,Sometimes,3,Rarely,No,>2 liter,No,1-2 days a week,3-5 hours,Motorbike,Normal
+Female,31,155,No,Yes,Sometimes,3,Always,No,>2 liter,No,5-6 days a week,0-2 hours,Automobile,Normal
+Female,31,154,No,No,Sometimes,3,Sometimes,No,1-2 liter,Yes,5-6 days a week,>5 hours,Automobile,Overweight
+Female,31,158,No,No,Sometimes,3,Sometimes,No,>2 liter,No,1-2 days a week,>5 hours,Automobile,Overweight
+Female,32,154,No,Yes,Always,3,Rarely,Yes,1-2 liter,No,5-6 days a week,0-2 hours,Bicycle,Normal
+Female,32,158,No,No,Sometimes,3,Usually,No,>2 liter,No,3-4 days a week,0-2 hours,Automobile,Normal
+Female,32,158,No,No,Sometimes,3,Usually,No,1-2 liter,No,1-2 days a week,3-5 hours,Walking,Overweight
+Female,32,161,No,No,Always,3,Always,No,<1 liter,No,6 or more days a week,0-2 hours,Automobile,Overweight
+Female,32,159,No,No,Sometimes,3,Usually,No,<1 liter,No,1-2 days a week,3-5 hours,Automobile,Normal
+Female,32,163,No,No,Always,1-2,Sometimes,No,1-2 liter,Yes,6 or more days a week,3-5 hours,Automobile,Normal
+Female,32,165,No,No,Always,3,Sometimes,No,>2 liter,No,6 or more days a week,>5 hours,Automobile,Normal
+Female,32,166,No,No,Always,3,Sometimes,Yes,1-2 liter,No,6 or more days a week,3-5 hours,Automobile,Normal
+Female,32,171,No,No,Sometimes,3,Rarely,Yes,<1 liter,No,3-4 days a week,>5 hours,Automobile,Normal
+Female,32,172,No,No,Always,>3,Always,Yes,1-2 liter,Yes,5-6 days a week,3-5 hours,Automobile,Overweight
+Female,33,158,Yes,No,Always,3,Always,Yes,>2 liter,No,6 or more days a week,3-5 hours,Automobile,Overweight
+Female,33,159,No,No,Sometimes,3,Always,No,1-2 liter,No,1-2 days a week,0-2 hours,Automobile,Overweight
+Female,33,157,No,No,Rarely,3,Always,No,1-2 liter,No,5-6 days a week,0-2 hours,Automobile,Overweight
+Female,33,162,No,Yes,Sometimes,1-2,Always,Yes,>2 liter,No,6 or more days a week,0-2 hours,Automobile,Normal
+Female,33,163,No,No,Sometimes,1-2,Rarely,No,1-2 liter,No,3-4 days a week,3-5 hours,Walking,Overweight
+Female,33,161,No,No,Always,3,Always,No,>2 liter,Yes,3-4 days a week,3-5 hours,Automobile,Overweight
+Female,33,162,No,No,Always,3,Rarely,No,>2 liter,Yes,1-2 days a week,0-2 hours,Walking,Normal
+Female,33,164,No,No,Rarely,3,Always,Yes,<1 liter,Yes,5-6 days a week,0-2 hours,Automobile,Overweight
+Female,33,170,No,No,Always,3,Sometimes,No,<1 liter,No,3-4 days a week,3-5 hours,Automobile,Normal
+Female,33,173,No,No,Always,>3,Rarely,No,>2 liter,No,5-6 days a week,0-2 hours,Automobile,Normal
+Female,34,155,No,No,Sometimes,1-2,Rarely,No,<1 liter,No,3-4 days a week,0-2 hours,Automobile,Normal
+Female,34,157,No,No,Sometimes,1-2,Always,No,1-2 liter,No,5-6 days a week,3-5 hours,Automobile,Normal
+Female,34,157,No,No,Sometimes,1-2,Usually,No,1-2 liter,No,5-6 days a week,3-5 hours,Automobile,Overweight
+Female,34,158,Yes,Yes,Rarely,>3,Usually,Yes,<1 liter,Yes,6 or more days a week,>5 hours,Automobile,Obesity
+Female,34,163,Yes,No,Always,3,Sometimes,No,>2 liter,No,3-4 days a week,0-2 hours,Automobile,Overweight
+Female,34,170,No,No,Always,1-2,Sometimes,No,>2 liter,No,3-4 days a week,3-5 hours,Automobile,Normal
+Female,34,171,No,No,Always,1-2,Rarely,No,<1 liter,No,3-4 days a week,0-2 hours,Automobile,Normal
+Female,34,176,No,No,Always,3,Rarely,No,1-2 liter,No,1-2 days a week,3-5 hours,Automobile,Normal
+Female,35,170,No,Yes,Rarely,>3,Sometimes,No,>2 liter,Yes,5-6 days a week,0-2 hours,Automobile,Overweight
+Female,35,158,No,No,Always,3,Always,No,>2 liter,No,6 or more days a week,3-5 hours,Automobile,Normal
+Female,35,159,No,Yes,Sometimes,1-2,Rarely,No,<1 liter,No,6 or more days a week,3-5 hours,Automobile,Normal
+Female,35,159,No,No,Always,>3,Usually,No,<1 liter,No,3-4 days a week,3-5 hours,Automobile,Normal
+Female,35,161,No,No,Sometimes,3,Usually,No,>2 liter,No,5-6 days a week,0-2 hours,Automobile,Normal
+Female,35,165,No,No,Always,>3,Sometimes,No,>2 liter,No,6 or more days a week,3-5 hours,Automobile,Normal
+Female,35,168,No,No,Always,3,Usually,No,1-2 liter,No,6 or more days a week,0-2 hours,Automobile,Normal
+Female,35,170,No,No,Always,1-2,Sometimes,Yes,>2 liter,Yes,5-6 days a week,0-2 hours,Automobile,Normal
+Female,36,153,No,No,Sometimes,3,Rarely,No,>2 liter,No,3-4 days a week,3-5 hours,Automobile,Overweight
+Female,36,159,No,Yes,Sometimes,3,Usually,No,1-2 liter,No,3-4 days a week,3-5 hours,Automobile,Overweight
+Female,36,162,No,No,Always,1-2,Usually,No,1-2 liter,No,5-6 days a week,0-2 hours,Automobile,Normal
+Female,36,161,No,No,Always,1-2,Sometimes,No,<1 liter,No,6 or more days a week,>5 hours,Automobile,Normal
+Female,36,167,Yes,No,Sometimes,3,Usually,No,1-2 liter,No,6 or more days a week,3-5 hours,Automobile,Overweight
+Female,36,171,No,No,Sometimes,3,Sometimes,No,<1 liter,No,5-6 days a week,>5 hours,Automobile,Overweight
+Female,37,170,No,No,Always,3,Sometimes,No,>2 liter,No,6 or more days a week,3-5 hours,Automobile,Normal
+Female,37,168,No,No,Always,>3,Sometimes,Yes,1-2 liter,No,No Activity,0-2 hours,Automobile,Normal
+Female,37,160,No,No,Sometimes,3,Sometimes,No,<1 liter,No,5-6 days a week,3-5 hours,Automobile,Normal
+Female,37,161,No,No,Sometimes,1-2,Usually,No,1-2 liter,No,No Activity,3-5 hours,Automobile,Normal
+Female,37,162,No,No,Sometimes,>3,Always,No,>2 liter,No,5-6 days a week,3-5 hours,Automobile,Overweight
+Female,37,165,No,Yes,Rarely,1-2,Usually,Yes,1-2 liter,No,6 or more days a week,3-5 hours,Automobile,Overweight
+Female,37,173,No,No,Always,3,Sometimes,No,>2 liter,No,3-4 days a week,3-5 hours,Automobile,Normal
+Female,37,178,No,No,Sometimes,1-2,Rarely,No,>2 liter,No,5-6 days a week,0-2 hours,Automobile,Normal
+Female,38,153,No,Yes,Rarely,3,Always,No,1-2 liter,No,6 or more days a week,0-2 hours,Automobile,Overweight
+Female,38,171,Yes,Yes,Always,3,Rarely,No,<1 liter,Yes,No Activity,3-5 hours,Automobile,Normal
+Female,38,177,No,No,Sometimes,3,Sometimes,No,1-2 liter,No,3-4 days a week,3-5 hours,Automobile,Normal
+Female,38,162,No,No,Sometimes,>3,Always,No,<1 liter,Yes,6 or more days a week,0-2 hours,Automobile,Normal
+Female,38,163,No,No,Sometimes,1-2,Rarely,No,<1 liter,Yes,5-6 days a week,3-5 hours,Automobile,Normal
+Female,38,169,No,No,Always,3,Sometimes,No,>2 liter,No,5-6 days a week,3-5 hours,Automobile,Normal
+Female,39,160,No,No,Rarely,1-2,Always,No,>2 liter,No,3-4 days a week,3-5 hours,Automobile,Overweight
+Female,39,159,No,No,Always,3,Always,No,1-2 liter,No,6 or more days a week,0-2 hours,Automobile,Overweight
+Female,39,165,No,No,Always,3,Rarely,No,1-2 liter,No,3-4 days a week,0-2 hours,Automobile,Normal
+Female,39,166,No,No,Rarely,3,Sometimes,Yes,1-2 liter,No,5-6 days a week,3-5 hours,Automobile,Normal
+Female,39,169,No,Yes,Sometimes,>3,Always,No,<1 liter,No,6 or more days a week,>5 hours,Automobile,Overweight
+Female,39,171,No,Yes,Rarely,>3,Always,Yes,<1 liter,No,5-6 days a week,0-2 hours,Automobile,Overweight
+Female,39,175,No,No,Sometimes,>3,Always,Yes,1-2 liter,No,3-4 days a week,0-2 hours,Automobile,Overweight
+Female,40,161,No,No,Sometimes,3,Always,No,>2 liter,No,1-2 days a week,3-5 hours,Automobile,Overweight
+Female,40,158,No,No,Sometimes,3,Rarely,No,<1 liter,No,6 or more days a week,3-5 hours,Automobile,Overweight
+Female,40,165,No,No,Rarely,3,Usually,Yes,>2 liter,No,5-6 days a week,>5 hours,Automobile,Overweight
+Female,40,166,Yes,Yes,Rarely,>3,Rarely,Yes,>2 liter,Yes,6 or more days a week,0-2 hours,Automobile,Overweight
+Female,40,167,No,No,Always,>3,Always,No,<1 liter,No,5-6 days a week,3-5 hours,Automobile,Overweight
+Female,40,169,No,No,Rarely,3,Always,Yes,1-2 liter,No,3-4 days a week,>5 hours,Automobile,Overweight
+Female,41,168,No,No,Always,3,Sometimes,Yes,<1 liter,No,6 or more days a week,0-2 hours,Automobile,Normal
+Female,41,158,No,Yes,Always,3,Usually,No,<1 liter,No,5-6 days a week,0-2 hours,Automobile,Overweight
+Female,41,161,No,No,Sometimes,1-2,Rarely,No,>2 liter,No,3-4 days a week,>5 hours,Automobile,Overweight
+Female,41,165,Yes,Yes,Sometimes,1-2,Always,Yes,1-2 liter,Yes,No Activity,3-5 hours,Automobile,Overweight
+Female,41,166,No,No,Rarely,3,Sometimes,No,1-2 liter,No,5-6 days a week,3-5 hours,Automobile,Overweight
+Female,41,165,No,Yes,Sometimes,>3,Sometimes,No,<1 liter,No,6 or more days a week,0-2 hours,Automobile,Obesity
+Female,41,166,No,No,Sometimes,>3,Always,No,1-2 liter,Yes,5-6 days a week,>5 hours,Automobile,Obesity
+Female,41,179,No,No,Sometimes,1-2,Sometimes,No,>2 liter,No,5-6 days a week,0-2 hours,Automobile,Normal
+Female,42,168,Yes,Yes,Rarely,>3,Rarely,No,<1 liter,Yes,5-6 days a week,3-5 hours,Automobile,Overweight
+Female,42,158,Yes,Yes,Rarely,3,Rarely,Yes,<1 liter,Yes,5-6 days a week,0-2 hours,Automobile,Overweight
+Female,42,161,No,Yes,Sometimes,1-2,Always,No,<1 liter,No,6 or more days a week,3-5 hours,Automobile,Overweight
+Female,42,163,No,No,Sometimes,1-2,Always,No,1-2 liter,No,3-4 days a week,3-5 hours,Automobile,Overweight
+Female,42,167,No,No,Sometimes,1-2,Rarely,No,<1 liter,No,3-4 days a week,>5 hours,Automobile,Overweight
+Female,42,168,No,Yes,Rarely,>3,Sometimes,No,>2 liter,Yes,6 or more days a week,3-5 hours,Automobile,Overweight
+Female,42,168,Yes,Yes,Rarely,>3,Always,No,<1 liter,No,6 or more days a week,>5 hours,Automobile,Obesity
+Female,43,153,No,Yes,Rarely,3,Always,No,1-2 liter,No,6 or more days a week,0-2 hours,Automobile,Overweight
+Female,43,157,Yes,No,Sometimes,3,Sometimes,No,1-2 liter,Yes,No Activity,0-2 hours,Automobile,Obesity
+Female,43,159,No,No,Always,3,Sometimes,No,1-2 liter,No,3-4 days a week,0-2 hours,Automobile,Overweight
+Female,43,161,No,No,Sometimes,3,Usually,No,1-2 liter,No,1-2 days a week,0-2 hours,Automobile,Overweight
+Female,43,166,No,No,Rarely,>3,Usually,No,>2 liter,Yes,5-6 days a week,0-2 hours,Automobile,Overweight
+Female,43,167,No,No,Sometimes,3,Sometimes,No,>2 liter,Yes,5-6 days a week,3-5 hours,Automobile,Overweight
+Female,43,171,No,No,Sometimes,3,Sometimes,No,1-2 liter,Yes,5-6 days a week,0-2 hours,Automobile,Overweight
+Female,43,170,Yes,Yes,Rarely,>3,Sometimes,No,1-2 liter,No,6 or more days a week,3-5 hours,Automobile,Obesity
+Female,44,165,Yes,Yes,Rarely,>3,Usually,No,1-2 liter,Yes,6 or more days a week,0-2 hours,Automobile,Obesity
+Female,44,157,Yes,Yes,Rarely,>3,Always,No,>2 liter,No,6 or more days a week,3-5 hours,Automobile,Overweight
+Female,44,160,Yes,No,Always,3,Usually,Yes,>2 liter,No,1-2 days a week,0-2 hours,Automobile,Overweight
+Female,44,157,No,No,Sometimes,3,Usually,No,>2 liter,No,1-2 days a week,3-5 hours,Automobile,Overweight
+Female,44,159,No,Yes,Rarely,>3,Sometimes,No,<1 liter,No,6 or more days a week,3-5 hours,Automobile,Overweight
+Female,44,161,No,Yes,Rarely,3,Sometimes,No,<1 liter,Yes,5-6 days a week,>5 hours,Automobile,Overweight
+Female,44,167,No,No,Always,3,Sometimes,No,1-2 liter,Yes,6 or more days a week,3-5 hours,Automobile,Overweight
+Female,45,157,No,Yes,Sometimes,3,Sometimes,No,<1 liter,No,5-6 days a week,3-5 hours,Automobile,Overweight
+Female,45,160,No,Yes,Rarely,3,Sometimes,No,>2 liter,No,6 or more days a week,>5 hours,Automobile,Overweight
+Female,45,161,Yes,Yes,Rarely,3,Rarely,Yes,1-2 liter,Yes,5-6 days a week,3-5 hours,Automobile,Overweight
+Female,45,162,No,No,Always,3,Rarely,No,>2 liter,No,No Activity,3-5 hours,Automobile,Overweight
+Female,45,159,No,Yes,Sometimes,>3,Usually,No,>2 liter,Yes,5-6 days a week,>5 hours,Automobile,Obesity
+Female,45,160,No,No,Sometimes,1-2,Sometimes,No,>2 liter,No,5-6 days a week,0-2 hours,Automobile,Overweight
+Female,45,162,No,No,Sometimes,1-2,Rarely,No,<1 liter,No,5-6 days a week,3-5 hours,Automobile,Overweight
+Female,45,162,No,Yes,Rarely,3,Sometimes,No,>2 liter,No,6 or more days a week,3-5 hours,Automobile,Overweight
+Female,46,156,No,Yes,Rarely,>3,Sometimes,No,>2 liter,No,6 or more days a week,>5 hours,Automobile,Overweight
+Female,46,155,Yes,Yes,Rarely,>3,Rarely,Yes,>2 liter,No,6 or more days a week,0-2 hours,Automobile,Overweight
+Female,46,159,No,Yes,Rarely,>3,Usually,No,<1 liter,Yes,3-4 days a week,3-5 hours,Automobile,Obesity
+Female,46,163,No,No,Sometimes,>3,Always,No,1-2 liter,No,5-6 days a week,0-2 hours,Automobile,Overweight
+Female,46,155,No,Yes,Sometimes,3,Rarely,No,1-2 liter,No,5-6 days a week,3-5 hours,Automobile,Overweight
+Female,46,158,Yes,Yes,Rarely,>3,Rarely,Yes,1-2 liter,Yes,6 or more days a week,3-5 hours,Automobile,Obesity
+Female,46,157,No,Yes,Rarely,>3,Rarely,No,1-2 liter,Yes,No Activity,0-2 hours,Automobile,Obesity
+Female,47,180,Yes,Yes,Sometimes,>3,Usually,No,>2 liter,No,6 or more days a week,0-2 hours,Automobile,Overweight
+Female,47,157,No,No,Sometimes,1-2,Sometimes,No,>2 liter,Yes,6 or more days a week,3-5 hours,Automobile,Overweight
+Female,47,160,Yes,No,Sometimes,>3,Sometimes,No,<1 liter,Yes,5-6 days a week,3-5 hours,Automobile,Overweight
+Female,47,163,No,No,Sometimes,1-2,Always,No,<1 liter,Yes,3-4 days a week,3-5 hours,Automobile,Overweight
+Female,47,164,Yes,No,Sometimes,>3,Always,Yes,>2 liter,No,No Activity,>5 hours,Automobile,Overweight
+Female,48,155,No,Yes,Rarely,3,Usually,No,>2 liter,No,5-6 days a week,3-5 hours,Automobile,Overweight
+Female,48,156,Yes,Yes,Rarely,>3,Usually,Yes,>2 liter,No,6 or more days a week,0-2 hours,Automobile,Obesity
+Female,48,159,Yes,Yes,Rarely,>3,Sometimes,No,1-2 liter,Yes,3-4 days a week,>5 hours,Automobile,Obesity
+Female,48,162,No,No,Sometimes,1-2,Always,No,>2 liter,No,6 or more days a week,3-5 hours,Automobile,Overweight
+Female,48,161,Yes,No,Sometimes,>3,Usually,No,>2 liter,No,6 or more days a week,0-2 hours,Automobile,Obesity
+Female,48,163,Yes,Yes,Rarely,3,Usually,Yes,>2 liter,Yes,6 or more days a week,3-5 hours,Automobile,Overweight
+Female,49,158,No,No,Always,3,Rarely,No,<1 liter,No,5-6 days a week,3-5 hours,Automobile,Overweight
+Female,49,161,No,No,Sometimes,3,Sometimes,No,1-2 liter,Yes,1-2 days a week,>5 hours,Automobile,Normal
+Female,49,157,No,No,Sometimes,3,Rarely,No,1-2 liter,No,5-6 days a week,0-2 hours,Automobile,Obesity
+Female,49,167,Yes,Yes,Rarely,>3,Usually,No,>2 liter,Yes,6 or more days a week,3-5 hours,Automobile,Obesity
+Female,49,158,No,No,Sometimes,3,Always,No,<1 liter,No,No Activity,3-5 hours,Automobile,Overweight
+Female,50,157,No,Yes,Sometimes,>3,Always,Yes,>2 liter,No,3-4 days a week,0-2 hours,Automobile,Overweight
+Female,50,153,No,No,Sometimes,3,Usually,No,>2 liter,No,5-6 days a week,0-2 hours,Automobile,Overweight
+Female,50,159,No,Yes,Rarely,3,Sometimes,No,<1 liter,No,3-4 days a week,3-5 hours,Automobile,Obesity
+Female,50,159,No,Yes,Sometimes,1-2,Sometimes,No,>2 liter,Yes,6 or more days a week,3-5 hours,Automobile,Overweight
+Female,50,164,No,No,Sometimes,3,Sometimes,No,>2 liter,Yes,5-6 days a week,0-2 hours,Automobile,Overweight
+Female,51,159,Yes,Yes,Sometimes,>3,Sometimes,No,>2 liter,No,3-4 days a week,3-5 hours,Automobile,Overweight
+Female,51,161,No,No,Sometimes,3,Sometimes,No,>2 liter,No,3-4 days a week,>5 hours,Automobile,Overweight
+Female,51,161,No,Yes,Rarely,>3,Sometimes,No,>2 liter,No,6 or more days a week,0-2 hours,Automobile,Overweight
+Female,51,164,No,Yes,Sometimes,3,Sometimes,No,<1 liter,No,6 or more days a week,3-5 hours,Automobile,Overweight
+Female,52,160,No,Yes,Rarely,3,Usually,No,>2 liter,No,3-4 days a week,3-5 hours,Automobile,Overweight
+Female,52,165,No,Yes,Rarely,>3,Sometimes,No,>2 liter,Yes,6 or more days a week,3-5 hours,Automobile,Overweight
+Female,52,166,No,No,Sometimes,3,Rarely,No,>2 liter,Yes,No Activity,0-2 hours,Automobile,Overweight
+Female,52,170,No,No,Sometimes,1-2,Usually,No,1-2 liter,No,6 or more days a week,3-5 hours,Automobile,Overweight
+Female,53,160,No,Yes,Rarely,3,Always,No,<1 liter,Yes,5-6 days a week,0-2 hours,Automobile,Overweight
+Female,53,159,No,Yes,Sometimes,3,Sometimes,Yes,1-2 liter,No,3-4 days a week,3-5 hours,Automobile,Overweight
+Female,53,160,No,No,Sometimes,1-2,Rarely,No,<1 liter,Yes,6 or more days a week,0-2 hours,Automobile,Overweight
+Female,54,160,Yes,Yes,Rarely,>3,Usually,Yes,>2 liter,Yes,6 or more days a week,0-2 hours,Automobile,Obesity
+Female,54,164,No,No,Sometimes,1-2,Sometimes,No,1-2 liter,No,6 or more days a week,0-2 hours,Automobile,Overweight
+Female,54,168,No,No,Sometimes,1-2,Usually,No,1-2 liter,Yes,5-6 days a week,0-2 hours,Automobile,Overweight
+Female,54,175,No,Yes,Rarely,>3,Usually,No,>2 liter,Yes,5-6 days a week,0-2 hours,Automobile,Overweight
+Male,18,173,No,No,Rarely,3,Usually,No,<1 liter,No,No Activity,0-2 hours,Public transportation,Normal
+Male,19,170,No,No,Always,1-2,Sometimes,No,>2 liter,No,3-4 days a week,3-5 hours,Public transportation,Normal
+Male,19,179,Yes,No,Always,1-2,Sometimes,Yes,<1 liter,No,3-4 days a week,3-5 hours,Public transportation,Normal
+Male,20,164,No,No,Always,1-2,Usually,Yes,>2 liter,No,1-2 days a week,3-5 hours,Bicycle,Normal
+Male,20,170,No,No,Always,1-2,Always,Yes,<1 liter,No,1-2 days a week,>5 hours,Public transportation,Normal
+Male,20,172,No,No,Always,1-2,Rarely,No,>2 liter,No,5-6 days a week,>5 hours,Public transportation,Normal
+Male,20,176,No,No,Sometimes,1-2,Rarely,Yes,1-2 liter,Yes,1-2 days a week,0-2 hours,Public transportation,Normal
+Male,21,167,No,No,Sometimes,3,Rarely,Yes,1-2 liter,No,5-6 days a week,3-5 hours,Public transportation,Overweight
+Male,21,170,No,Yes,Always,1-2,Sometimes,Yes,1-2 liter,No,3-4 days a week,>5 hours,Public transportation,Normal
+Male,21,185,No,No,Sometimes,3,Sometimes,No,1-2 liter,No,3-4 days a week,3-5 hours,Public transportation,Normal
+Male,21,173,No,No,Always,3,Always,Yes,1-2 liter,No,1-2 days a week,0-2 hours,Motorbike,Normal
+Male,21,160,No,Yes,Rarely,3,Sometimes,Yes,<1 liter,No,5-6 days a week,3-5 hours,Motorbike,Overweight
+Male,21,168,No,No,Sometimes,1-2,Usually,No,1-2 liter,No,3-4 days a week,>5 hours,Bicycle,Normal
+Male,21,178,No,No,Always,1-2,Usually,No,>2 liter,No,No Activity,>5 hours,Public transportation,Normal
+Male,21,177,No,No,Always,1-2,Always,No,>2 liter,No,3-4 days a week,0-2 hours,Public transportation,Normal
+Male,21,180,Yes,No,Always,1-2,Rarely,No,1-2 liter,No,6 or more days a week,>5 hours,Public transportation,Normal
+Male,22,167,No,No,Rarely,3,Always,Yes,>2 liter,No,6 or more days a week,3-5 hours,Motorbike,Normal
+Male,22,167,No,No,Sometimes,3,Sometimes,No,1-2 liter,No,5-6 days a week,>5 hours,Public transportation,Overweight
+Male,22,169,No,No,Always,1-2,Usually,Yes,>2 liter,No,3-4 days a week,3-5 hours,Public transportation,Normal
+Male,22,169,No,No,Sometimes,1-2,Usually,No,>2 liter,No,No Activity,3-5 hours,Public transportation,Normal
+Male,22,170,No,No,Always,1-2,Always,Yes,1-2 liter,No,No Activity,>5 hours,Public transportation,Normal
+Male,22,171,No,No,Always,1-2,Sometimes,Yes,1-2 liter,No,1-2 days a week,3-5 hours,Public transportation,Normal
+Male,22,174,No,No,Always,1-2,Usually,No,1-2 liter,No,1-2 days a week,3-5 hours,Public transportation,Normal
+Male,22,175,No,No,Always,3,Always,No,>2 liter,No,6 or more days a week,>5 hours,Public transportation,Normal
+Male,22,178,No,No,Always,1-2,Usually,No,1-2 liter,No,3-4 days a week,>5 hours,Public transportation,Normal
+Male,23,173,No,No,Always,1-2,Rarely,No,1-2 liter,No,No Activity,3-5 hours,Motorbike,Normal
+Male,23,174,No,No,Always,1-2,Rarely,No,<1 liter,No,No Activity,>5 hours,Public transportation,Normal
+Male,23,175,No,Yes,Always,3,Usually,Yes,>2 liter,Yes,6 or more days a week,3-5 hours,Bicycle,Normal
+Male,23,172,No,No,Always,1-2,Usually,No,<1 liter,Yes,3-4 days a week,3-5 hours,Public transportation,Normal
+Male,23,176,Yes,No,Always,3,Usually,Yes,1-2 liter,No,6 or more days a week,>5 hours,Motorbike,Normal
+Male,23,179,No,No,Always,1-2,Always,Yes,1-2 liter,No,1-2 days a week,3-5 hours,Public transportation,Normal
+Male,23,183,No,No,Always,1-2,Always,Yes,>2 liter,No,3-4 days a week,0-2 hours,Bicycle,Normal
+Male,23,177,Yes,No,Always,1-2,Usually,No,>2 liter,No,6 or more days a week,>5 hours,Public transportation,Normal
+Male,24,177,No,No,Always,1-2,Usually,No,>2 liter,No,3-4 days a week,>5 hours,Public transportation,Normal
+Male,24,174,Yes,No,Rarely,3,Rarely,No,<1 liter,No,No Activity,3-5 hours,Public transportation,Normal
+Male,24,170,No,No,Always,1-2,Always,Yes,1-2 liter,No,1-2 days a week,3-5 hours,Public transportation,Normal
+Male,24,181,No,No,Always,1-2,Rarely,Yes,>2 liter,No,5-6 days a week,3-5 hours,Public transportation,Normal
+Male,25,162,No,No,Sometimes,3,Always,Yes,<1 liter,No,5-6 days a week,3-5 hours,Bicycle,Overweight
+Male,25,165,No,No,Sometimes,3,Usually,No,1-2 liter,No,3-4 days a week,0-2 hours,Public transportation,Normal
+Male,25,166,No,No,Sometimes,1-2,Usually,No,<1 liter,No,No Activity,>5 hours,Bicycle,Normal
+Male,25,166,No,No,Sometimes,3,Always,Yes,>2 liter,No,1-2 days a week,3-5 hours,Public transportation,Overweight
+Male,25,167,Yes,Yes,Always,3,Rarely,Yes,>2 liter,No,6 or more days a week,3-5 hours,Public transportation,Normal
+Male,25,170,Yes,No,Rarely,3,Rarely,Yes,<1 liter,Yes,6 or more days a week,>5 hours,Motorbike,Normal
+Male,25,171,No,No,Sometimes,1-2,Always,Yes,1-2 liter,No,3-4 days a week,0-2 hours,Public transportation,Normal
+Male,25,174,No,No,Sometimes,3,Always,No,>2 liter,No,1-2 days a week,3-5 hours,Walking,Overweight
+Male,25,174,No,No,Always,1-2,Usually,No,1-2 liter,No,No Activity,3-5 hours,Public transportation,Normal
+Male,25,176,No,No,Sometimes,1-2,Sometimes,No,1-2 liter,No,6 or more days a week,3-5 hours,Bicycle,Overweight
+Male,25,178,No,No,Sometimes,3,Usually,No,<1 liter,No,5-6 days a week,>5 hours,Walking,Overweight
+Male,25,176,No,Yes,Rarely,3,Rarely,Yes,<1 liter,Yes,6 or more days a week,0-2 hours,Motorbike,Obesity
+Male,25,177,Yes,No,Rarely,1-2,Sometimes,No,<1 liter,Yes,1-2 days a week,0-2 hours,Public transportation,Overweight
+Male,25,178,No,No,Sometimes,1-2,Sometimes,Yes,1-2 liter,No,3-4 days a week,3-5 hours,Public transportation,Normal
+Male,25,182,No,Yes,Rarely,3,Rarely,Yes,>2 liter,No,6 or more days a week,3-5 hours,Public transportation,Overweight
+Male,25,185,Yes,No,Always,1-2,Sometimes,Yes,1-2 liter,Yes,3-4 days a week,3-5 hours,Public transportation,Overweight
+Male,25,190,No,Yes,Sometimes,3,Rarely,Yes,<1 liter,Yes,1-2 days a week,0-2 hours,Public transportation,Overweight
+Male,26,159,No,Yes,Always,3,Sometimes,Yes,>2 liter,Yes,6 or more days a week,0-2 hours,Public transportation,Overweight
+Male,26,165,No,Yes,Sometimes,1-2,Rarely,Yes,>2 liter,No,6 or more days a week,>5 hours,Public transportation,Normal
+Male,26,169,No,No,Always,1-2,Usually,Yes,1-2 liter,No,No Activity,0-2 hours,Public transportation,Normal
+Male,26,170,No,Yes,Always,3,Sometimes,Yes,>2 liter,Yes,6 or more days a week,>5 hours,Public transportation,Normal
+Male,26,170,No,No,Sometimes,1-2,Sometimes,No,>2 liter,No,1-2 days a week,3-5 hours,Public transportation,Normal
+Male,26,172,No,No,Always,1-2,Always,No,1-2 liter,No,No Activity,3-5 hours,Public transportation,Normal
+Male,26,175,No,No,Rarely,3,Sometimes,No,>2 liter,No,5-6 days a week,3-5 hours,Public transportation,Overweight
+Male,26,170,No,No,Sometimes,3,Rarely,No,<1 liter,No,5-6 days a week,>5 hours,Public transportation,Overweight
+Male,26,175,No,No,Sometimes,3,Usually,No,>2 liter,No,5-6 days a week,>5 hours,Motorbike,Normal
+Male,26,177,Yes,No,Always,1-2,Sometimes,Yes,<1 liter,No,3-4 days a week,>5 hours,Public transportation,Normal
+Male,26,181,No,No,Sometimes,3,Rarely,Yes,<1 liter,No,No Activity,3-5 hours,Public transportation,Normal
+Male,26,181,Yes,No,Rarely,1-2,Sometimes,Yes,>2 liter,Yes,1-2 days a week,3-5 hours,Public transportation,Overweight
+Male,26,183,No,No,Sometimes,3,Always,No,>2 liter,No,No Activity,3-5 hours,Walking,Overweight
+Male,27,170,No,Yes,Always,1-2,Rarely,Yes,<1 liter,No,5-6 days a week,3-5 hours,Public transportation,Normal
+Male,27,171,No,No,Sometimes,3,Sometimes,Yes,>2 liter,No,6 or more days a week,3-5 hours,Public transportation,Normal
+Male,27,173,No,No,Sometimes,1-2,Usually,No,>2 liter,No,3-4 days a week,3-5 hours,Public transportation,Normal
+Male,27,172,No,No,Sometimes,3,Sometimes,No,>2 liter,No,1-2 days a week,3-5 hours,Public transportation,Normal
+Male,27,171,No,No,Sometimes,3,Always,No,>2 liter,No,3-4 days a week,>5 hours,Public transportation,Overweight
+Male,27,172,No,No,Sometimes,1-2,Always,No,>2 liter,No,5-6 days a week,3-5 hours,Public transportation,Overweight
+Male,27,173,No,No,Sometimes,1-2,Rarely,No,1-2 liter,No,6 or more days a week,0-2 hours,Public transportation,Normal
+Male,27,175,No,No,Rarely,3,Sometimes,Yes,<1 liter,No,6 or more days a week,3-5 hours,Motorbike,Overweight
+Male,27,178,No,No,Sometimes,1-2,Always,No,>2 liter,No,No Activity,3-5 hours,Public transportation,Overweight
+Male,27,178,No,No,Rarely,3,Usually,No,>2 liter,No,6 or more days a week,>5 hours,Public transportation,Overweight
+Male,27,180,Yes,No,Rarely,1-2,Rarely,No,>2 liter,No,No Activity,3-5 hours,Public transportation,Normal
+Male,27,188,Yes,Yes,Always,1-2,Usually,No,>2 liter,No,6 or more days a week,>5 hours,Public transportation,Overweight
+Male,28,169,No,No,Sometimes,3,Sometimes,Yes,>2 liter,No,5-6 days a week,>5 hours,Public transportation,Normal
+Male,28,171,No,No,Always,1-2,Sometimes,No,>2 liter,No,6 or more days a week,0-2 hours,Motorbike,Normal
+Male,28,175,No,No,Always,1-2,Rarely,Yes,<1 liter,No,6 or more days a week,0-2 hours,Public transportation,Normal
+Male,28,172,No,No,Rarely,3,Sometimes,Yes,<1 liter,No,6 or more days a week,>5 hours,Walking,Overweight
+Male,28,175,No,No,Always,1-2,Rarely,No,>2 liter,No,1-2 days a week,>5 hours,Public transportation,Normal
+Male,28,176,No,No,Rarely,3,Usually,No,<1 liter,No,3-4 days a week,3-5 hours,Public transportation,Normal
+Male,28,177,No,No,Always,1-2,Sometimes,No,>2 liter,No,6 or more days a week,3-5 hours,Walking,Normal
+Male,28,177,No,No,Sometimes,1-2,Sometimes,No,<1 liter,No,5-6 days a week,3-5 hours,Public transportation,Overweight
+Male,28,178,No,No,Rarely,3,Sometimes,No,>2 liter,No,6 or more days a week,>5 hours,Public transportation,Overweight
+Male,29,163,No,No,Rarely,3,Always,Yes,>2 liter,No,3-4 days a week,3-5 hours,Walking,Overweight
+Male,29,171,Yes,No,Rarely,3,Usually,No,<1 liter,No,No Activity,3-5 hours,Public transportation,Normal
+Male,29,170,No,No,Always,1-2,Usually,No,1-2 liter,Yes,1-2 days a week,>5 hours,Walking,Overweight
+Male,29,173,No,No,Sometimes,3,Sometimes,Yes,<1 liter,No,6 or more days a week,3-5 hours,Public transportation,Normal
+Male,29,175,No,No,Always,3,Usually,Yes,>2 liter,No,6 or more days a week,3-5 hours,Public transportation,Normal
+Male,29,176,No,No,Sometimes,3,Sometimes,Yes,<1 liter,No,3-4 days a week,3-5 hours,Public transportation,Overweight
+Male,29,177,No,No,Sometimes,1-2,Usually,Yes,1-2 liter,No,5-6 days a week,3-5 hours,Public transportation,Overweight
+Male,29,180,Yes,No,Always,3,Rarely,Yes,>2 liter,No,1-2 days a week,3-5 hours,Public transportation,Overweight
+Male,29,182,No,No,Rarely,3,Rarely,No,1-2 liter,No,No Activity,3-5 hours,Walking,Normal
+Male,29,183,No,No,Always,1-2,Always,No,<1 liter,No,6 or more days a week,3-5 hours,Public transportation,Normal
+Male,29,181,No,No,Sometimes,1-2,Rarely,Yes,>2 liter,No,3-4 days a week,3-5 hours,Public transportation,Overweight
+Male,30,168,No,Yes,Always,3,Always,No,1-2 liter,No,No Activity,3-5 hours,Public transportation,Overweight
+Male,30,171,No,No,Sometimes,1-2,Sometimes,No,>2 liter,Yes,1-2 days a week,0-2 hours,Public transportation,Normal
+Male,30,166,No,No,Sometimes,3,Sometimes,No,>2 liter,No,5-6 days a week,0-2 hours,Public transportation,Overweight
+Male,30,168,No,No,Sometimes,3,Usually,No,>2 liter,No,5-6 days a week,3-5 hours,Public transportation,Overweight
+Male,30,170,No,No,Sometimes,1-2,Usually,No,<1 liter,No,5-6 days a week,3-5 hours,Public transportation,Overweight
+Male,30,174,No,No,Sometimes,1-2,Rarely,No,>2 liter,No,3-4 days a week,3-5 hours,Motorbike,Normal
+Male,30,175,No,No,Sometimes,1-2,Sometimes,No,<1 liter,No,1-2 days a week,0-2 hours,Public transportation,Normal
+Male,30,175,No,No,Rarely,3,Rarely,Yes,>2 liter,No,6 or more days a week,0-2 hours,Walking,Overweight
+Male,30,174,No,No,Sometimes,3,Rarely,No,>2 liter,No,3-4 days a week,3-5 hours,Public transportation,Overweight
+Male,30,180,No,No,Sometimes,1-2,Usually,No,>2 liter,No,1-2 days a week,3-5 hours,Public transportation,Normal
+Male,30,179,No,No,Always,3,Sometimes,No,1-2 liter,No,3-4 days a week,3-5 hours,Automobile,Normal
+Male,30,180,No,No,Always,1-2,Usually,No,>2 liter,No,5-6 days a week,>5 hours,Public transportation,Normal
+Male,30,181,Yes,No,Rarely,3,Sometimes,Yes,1-2 liter,Yes,6 or more days a week,3-5 hours,Automobile,Normal
+Male,30,183,No,No,Rarely,3,Sometimes,No,>2 liter,No,3-4 days a week,0-2 hours,Automobile,Normal
+Male,31,169,Yes,No,Sometimes,3,Sometimes,No,<1 liter,Yes,3-4 days a week,0-2 hours,Motorbike,Obesity
+Male,31,170,No,No,Sometimes,3,Rarely,No,>2 liter,No,No Activity,3-5 hours,Automobile,Normal
+Male,31,173,No,No,Always,3,Always,No,>2 liter,No,1-2 days a week,3-5 hours,Public transportation,Overweight
+Male,31,175,No,No,Sometimes,3,Sometimes,No,>2 liter,No,3-4 days a week,>5 hours,Automobile,Overweight
+Male,31,174,No,No,Sometimes,3,Rarely,No,>2 liter,No,5-6 days a week,3-5 hours,Public transportation,Overweight
+Male,31,176,No,No,Always,1-2,Usually,No,<1 liter,No,No Activity,3-5 hours,Automobile,Normal
+Male,31,177,No,No,Always,1-2,Usually,Yes,1-2 liter,No,3-4 days a week,3-5 hours,Walking,Normal
+Male,31,176,No,No,Always,1-2,Usually,No,<1 liter,No,5-6 days a week,0-2 hours,Automobile,Normal
+Male,31,174,No,No,Rarely,3,Sometimes,Yes,>2 liter,No,5-6 days a week,3-5 hours,Public transportation,Normal
+Male,32,172,No,No,Sometimes,1-2,Always,No,<1 liter,No,3-4 days a week,3-5 hours,Public transportation,Overweight
+Male,32,176,No,No,Sometimes,1-2,Usually,Yes,>2 liter,No,No Activity,>5 hours,Automobile,Normal
+Male,32,176,No,No,Rarely,3,Rarely,No,1-2 liter,No,5-6 days a week,>5 hours,Walking,Normal
+Male,32,181,No,No,Sometimes,3,Rarely,No,>2 liter,Yes,3-4 days a week,3-5 hours,Automobile,Overweight
+Male,32,178,No,No,Always,1-2,Usually,No,<1 liter,No,1-2 days a week,3-5 hours,Automobile,Overweight
+Male,32,180,Yes,No,Sometimes,1-2,Sometimes,No,1-2 liter,No,1-2 days a week,3-5 hours,Public transportation,Overweight
+Male,32,181,No,No,Sometimes,3,Always,No,>2 liter,No,3-4 days a week,3-5 hours,Public transportation,Overweight
+Male,32,184,Yes,No,Always,3,Usually,No,<1 liter,No,6 or more days a week,3-5 hours,Automobile,Overweight
+Male,32,183,No,No,Sometimes,3,Sometimes,No,>2 liter,Yes,5-6 days a week,>5 hours,Motorbike,Overweight
+Male,32,186,No,Yes,Always,3,Sometimes,Yes,1-2 liter,No,No Activity,3-5 hours,Public transportation,Overweight
+Male,33,171,No,No,Sometimes,3,Always,No,1-2 liter,No,3-4 days a week,3-5 hours,Automobile,Overweight
+Male,33,175,No,No,Sometimes,3,Sometimes,No,>2 liter,No,6 or more days a week,>5 hours,Public transportation,Overweight
+Male,33,176,No,No,Sometimes,1-2,Always,No,>2 liter,No,1-2 days a week,0-2 hours,Automobile,Overweight
+Male,33,177,No,No,Always,3,Sometimes,No,<1 liter,No,3-4 days a week,3-5 hours,Automobile,Overweight
+Male,33,179,No,No,Sometimes,3,Sometimes,No,1-2 liter,No,6 or more days a week,3-5 hours,Public transportation,Overweight
+Male,33,176,No,No,Sometimes,3,Sometimes,No,>2 liter,No,1-2 days a week,3-5 hours,Automobile,Normal
+Male,33,176,No,Yes,Rarely,1-2,Rarely,Yes,<1 liter,No,6 or more days a week,3-5 hours,Motorbike,Overweight
+Male,33,182,No,No,Sometimes,3,Sometimes,No,<1 liter,No,5-6 days a week,3-5 hours,Automobile,Normal
+Male,33,166,No,No,Sometimes,3,Sometimes,No,>2 liter,No,3-4 days a week,0-2 hours,Automobile,Overweight
+Male,33,170,No,No,Sometimes,3,Rarely,Yes,>2 liter,No,6 or more days a week,3-5 hours,Walking,Overweight
+Male,33,170,No,Yes,Sometimes,3,Always,No,<1 liter,Yes,5-6 days a week,>5 hours,Automobile,Overweight
+Male,34,166,No,No,Rarely,3,Usually,No,<1 liter,No,1-2 days a week,3-5 hours,Motorbike,Overweight
+Male,34,169,No,No,Sometimes,3,Sometimes,No,1-2 liter,No,1-2 days a week,3-5 hours,Automobile,Overweight
+Male,34,168,No,No,Sometimes,3,Sometimes,No,1-2 liter,No,No Activity,3-5 hours,Public transportation,Overweight
+Male,34,170,No,No,Sometimes,3,Usually,No,1-2 liter,No,5-6 days a week,3-5 hours,Public transportation,Overweight
+Male,34,173,No,No,Sometimes,3,Sometimes,No,<1 liter,No,No Activity,0-2 hours,Automobile,Normal
+Male,34,174,No,No,Sometimes,3,Sometimes,No,>2 liter,No,1-2 days a week,3-5 hours,Walking,Normal
+Male,34,178,No,No,Always,1-2,Usually,Yes,>2 liter,No,1-2 days a week,>5 hours,Automobile,Overweight
+Male,34,181,No,No,Sometimes,1-2,Always,No,1-2 liter,No,5-6 days a week,3-5 hours,Motorbike,Overweight
+Male,35,169,No,No,Sometimes,3,Sometimes,No,>2 liter,No,1-2 days a week,3-5 hours,Automobile,Overweight
+Male,35,173,No,No,Sometimes,3,Always,No,1-2 liter,No,No Activity,0-2 hours,Public transportation,Overweight
+Male,35,172,No,No,Always,3,Usually,No,>2 liter,No,1-2 days a week,>5 hours,Automobile,Overweight
+Male,35,173,No,Yes,Sometimes,3,Sometimes,Yes,1-2 liter,No,1-2 days a week,3-5 hours,Public transportation,Overweight
+Male,35,176,No,No,Sometimes,3,Rarely,No,>2 liter,No,3-4 days a week,3-5 hours,Automobile,Overweight
+Male,35,180,No,No,Sometimes,3,Sometimes,No,1-2 liter,No,1-2 days a week,3-5 hours,Public transportation,Overweight
+Male,35,178,No,No,Sometimes,3,Usually,No,>2 liter,No,5-6 days a week,0-2 hours,Automobile,Overweight
+Male,35,160,No,No,Rarely,3,Sometimes,No,>2 liter,No,3-4 days a week,3-5 hours,Automobile,Overweight
+Male,35,182,No,No,Sometimes,3,Sometimes,No,1-2 liter,No,3-4 days a week,3-5 hours,Public transportation,Overweight
+Male,36,166,No,Yes,Rarely,3,Usually,Yes,<1 liter,Yes,6 or more days a week,>5 hours,Public transportation,Overweight
+Male,36,165,No,No,Sometimes,3,Rarely,No,<1 liter,No,5-6 days a week,3-5 hours,Automobile,Overweight
+Male,36,170,No,No,Sometimes,3,Usually,No,>2 liter,No,3-4 days a week,3-5 hours,Public transportation,Overweight
+Male,36,173,No,No,Sometimes,3,Usually,No,>2 liter,No,3-4 days a week,>5 hours,Public transportation,Overweight
+Male,36,176,No,No,Rarely,3,Always,No,>2 liter,No,1-2 days a week,3-5 hours,Automobile,Overweight
+Male,36,176,Yes,Yes,Rarely,3,Usually,Yes,1-2 liter,Yes,6 or more days a week,>5 hours,Public transportation,Obesity
+Male,36,182,Yes,Yes,Always,3,Usually,No,>2 liter,No,3-4 days a week,3-5 hours,Public transportation,Overweight
+Male,36,183,Yes,No,Sometimes,3,Sometimes,No,<1 liter,No,1-2 days a week,3-5 hours,Automobile,Overweight
+Male,37,170,No,No,Rarely,3,Sometimes,No,>2 liter,No,No Activity,3-5 hours,Walking,Normal
+Male,37,172,No,No,Sometimes,1-2,Rarely,No,1-2 liter,No,3-4 days a week,>5 hours,Automobile,Normal
+Male,37,173,No,Yes,Always,3,Always,No,>2 liter,No,6 or more days a week,3-5 hours,Automobile,Overweight
+Male,37,175,No,Yes,Rarely,3,Sometimes,No,<1 liter,No,5-6 days a week,>5 hours,Public transportation,Overweight
+Male,37,174,No,No,Sometimes,3,Usually,No,<1 liter,No,No Activity,3-5 hours,Automobile,Overweight
+Male,37,176,No,Yes,Rarely,3,Sometimes,Yes,<1 liter,Yes,5-6 days a week,>5 hours,Public transportation,Overweight
+Male,37,180,No,Yes,Rarely,3,Always,Yes,>2 liter,Yes,1-2 days a week,3-5 hours,Automobile,Overweight
+Male,37,183,No,No,Always,3,Sometimes,No,1-2 liter,No,3-4 days a week,>5 hours,Public transportation,Overweight
+Male,37,184,No,Yes,Always,3,Usually,Yes,>2 liter,No,6 or more days a week,3-5 hours,Public transportation,Overweight
+Male,37,169,No,Yes,Sometimes,3,Sometimes,No,<1 liter,No,6 or more days a week,>5 hours,Automobile,Overweight
+Male,37,174,No,No,Always,3,Usually,No,>2 liter,No,3-4 days a week,0-2 hours,Automobile,Overweight
+Male,38,167,No,Yes,Sometimes,3,Sometimes,No,>2 liter,No,6 or more days a week,3-5 hours,Automobile,Overweight
+Male,38,168,No,Yes,Sometimes,3,Usually,No,<1 liter,No,6 or more days a week,3-5 hours,Public transportation,Overweight
+Male,38,176,No,Yes,Sometimes,3,Usually,No,1-2 liter,No,3-4 days a week,3-5 hours,Automobile,Overweight
+Male,38,179,No,No,Sometimes,3,Sometimes,No,<1 liter,No,6 or more days a week,0-2 hours,Motorbike,Overweight
+Male,38,173,Yes,Yes,Sometimes,3,Sometimes,No,>2 liter,Yes,5-6 days a week,0-2 hours,Automobile,Overweight
+Male,38,163,No,Yes,Sometimes,3,Sometimes,Yes,<1 liter,No,6 or more days a week,>5 hours,Automobile,Overweight
+Male,38,170,Yes,Yes,Always,3,Usually,No,>2 liter,Yes,6 or more days a week,>5 hours,Public transportation,Overweight
+Male,38,177,No,No,Rarely,3,Rarely,No,<1 liter,No,6 or more days a week,3-5 hours,Public transportation,Normal
+Male,39,165,No,No,Rarely,3,Rarely,No,>2 liter,No,1-2 days a week,3-5 hours,Automobile,Normal
+Male,39,171,No,No,Always,3,Always,Yes,>2 liter,No,6 or more days a week,3-5 hours,Public transportation,Overweight
+Male,39,171,No,Yes,Sometimes,3,Sometimes,No,1-2 liter,No,6 or more days a week,0-2 hours,Public transportation,Overweight
+Male,39,172,No,Yes,Rarely,3,Usually,No,>2 liter,No,6 or more days a week,0-2 hours,Motorbike,Overweight
+Male,39,176,No,Yes,Always,3,Rarely,No,1-2 liter,No,6 or more days a week,3-5 hours,Automobile,Overweight
+Male,39,179,No,No,Sometimes,3,Sometimes,No,1-2 liter,No,5-6 days a week,0-2 hours,Public transportation,Overweight
+Male,39,180,No,Yes,Sometimes,3,Sometimes,No,1-2 liter,No,1-2 days a week,3-5 hours,Public transportation,Overweight
+Male,39,182,Yes,No,Rarely,3,Rarely,No,>2 liter,No,5-6 days a week,3-5 hours,Automobile,Overweight
+Male,39,187,No,Yes,Rarely,3,Sometimes,No,1-2 liter,No,5-6 days a week,3-5 hours,Public transportation,Overweight
+Male,39,178,No,No,Rarely,3,Always,No,>2 liter,No,3-4 days a week,>5 hours,Automobile,Overweight
+Male,40,170,No,Yes,Sometimes,3,Sometimes,No,>2 liter,No,1-2 days a week,3-5 hours,Motorbike,Overweight
+Male,40,175,Yes,Yes,Rarely,1-2,Always,No,<1 liter,No,6 or more days a week,>5 hours,Automobile,Overweight
+Male,40,175,No,No,Sometimes,3,Usually,No,>2 liter,No,3-4 days a week,3-5 hours,Public transportation,Overweight
+Male,40,177,No,No,Sometimes,3,Sometimes,No,>2 liter,No,5-6 days a week,>5 hours,Automobile,Overweight
+Male,40,176,Yes,No,Rarely,1-2,Usually,Yes,<1 liter,No,6 or more days a week,3-5 hours,Walking,Overweight
+Male,40,177,No,No,Rarely,3,Usually,Yes,<1 liter,No,5-6 days a week,3-5 hours,Automobile,Overweight
+Male,40,178,Yes,No,Always,1-2,Always,Yes,>2 liter,No,1-2 days a week,3-5 hours,Public transportation,Overweight
+Male,41,167,No,Yes,Sometimes,3,Rarely,No,>2 liter,No,5-6 days a week,>5 hours,Automobile,Overweight
+Male,41,169,No,No,Always,3,Always,No,>2 liter,No,No Activity,3-5 hours,Automobile,Normal
+Male,41,168,No,No,Sometimes,3,Sometimes,Yes,1-2 liter,No,3-4 days a week,3-5 hours,Automobile,Overweight
+Male,41,170,No,Yes,Always,3,Usually,Yes,1-2 liter,Yes,6 or more days a week,>5 hours,Motorbike,Overweight
+Male,41,172,No,No,Sometimes,3,Rarely,No,>2 liter,No,5-6 days a week,0-2 hours,Automobile,Overweight
+Male,41,175,No,Yes,Sometimes,3,Rarely,Yes,1-2 liter,No,6 or more days a week,>5 hours,Public transportation,Overweight
+Male,41,173,No,No,Sometimes,3,Always,No,>2 liter,No,3-4 days a week,3-5 hours,Automobile,Overweight
+Male,41,177,No,No,Sometimes,3,Rarely,No,>2 liter,No,1-2 days a week,0-2 hours,Public transportation,Overweight
+Male,42,161,No,Yes,Rarely,3,Sometimes,No,1-2 liter,Yes,3-4 days a week,3-5 hours,Automobile,Overweight
+Male,42,166,No,No,Sometimes,3,Rarely,No,>2 liter,No,3-4 days a week,0-2 hours,Public transportation,Overweight
+Male,42,168,No,No,Always,1-2,Usually,Yes,<1 liter,No,1-2 days a week,3-5 hours,Automobile,Normal
+Male,42,170,No,No,Sometimes,1-2,Usually,No,1-2 liter,No,3-4 days a week,>5 hours,Walking,Normal
+Male,42,171,Yes,No,Rarely,3,Usually,No,<1 liter,No,5-6 days a week,0-2 hours,Automobile,Normal
+Male,42,173,Yes,No,Always,1-2,Sometimes,Yes,>2 liter,No,No Activity,3-5 hours,Motorbike,Normal
+Male,42,172,No,No,Rarely,3,Usually,No,>2 liter,No,6 or more days a week,>5 hours,Motorbike,Overweight
+Male,42,173,No,No,Always,3,Always,No,1-2 liter,No,6 or more days a week,0-2 hours,Walking,Overweight
+Male,42,175,No,No,Rarely,3,Usually,No,<1 liter,No,3-4 days a week,3-5 hours,Public transportation,Overweight
+Male,43,163,No,No,Sometimes,3,Rarely,No,1-2 liter,No,1-2 days a week,3-5 hours,Public transportation,Overweight
+Male,43,180,No,No,Always,3,Sometimes,No,<1 liter,Yes,1-2 days a week,0-2 hours,Motorbike,Overweight
+Male,43,181,No,Yes,Sometimes,3,Usually,No,<1 liter,No,5-6 days a week,0-2 hours,Automobile,Overweight
+Male,43,179,No,Yes,Sometimes,3,Usually,No,>2 liter,Yes,6 or more days a week,3-5 hours,Automobile,Obesity
+Male,43,180,Yes,Yes,Rarely,3,Rarely,Yes,>2 liter,Yes,3-4 days a week,>5 hours,Automobile,Obesity
+Male,43,187,Yes,Yes,Rarely,3,Sometimes,No,1-2 liter,Yes,5-6 days a week,0-2 hours,Automobile,Overweight
+Male,43,185,No,Yes,Sometimes,3,Sometimes,No,1-2 liter,No,6 or more days a week,3-5 hours,Automobile,Overweight
+Male,43,182,No,Yes,Rarely,3,Sometimes,Yes,>2 liter,Yes,5-6 days a week,0-2 hours,Automobile,Overweight
+Male,44,170,No,No,Rarely,3,Rarely,No,>2 liter,No,1-2 days a week,3-5 hours,Automobile,Overweight
+Male,44,174,No,No,Sometimes,3,Sometimes,Yes,>2 liter,No,No Activity,0-2 hours,Automobile,Overweight
+Male,44,175,Yes,No,Rarely,1-2,Sometimes,No,1-2 liter,No,6 or more days a week,3-5 hours,Automobile,Overweight
+Male,44,175,No,No,Always,3,Usually,Yes,>2 liter,No,6 or more days a week,>5 hours,Automobile,Overweight
+Male,45,167,No,No,Rarely,3,Sometimes,No,1-2 liter,No,3-4 days a week,0-2 hours,Automobile,Overweight
+Male,45,168,No,Yes,Always,3,Rarely,No,<1 liter,No,6 or more days a week,3-5 hours,Automobile,Overweight
+Male,45,168,No,Yes,Rarely,3,Always,Yes,1-2 liter,No,6 or more days a week,0-2 hours,Automobile,Overweight
+Male,45,174,Yes,Yes,Rarely,3,Always,No,1-2 liter,No,5-6 days a week,0-2 hours,Automobile,Overweight
+Male,45,175,No,No,Sometimes,3,Rarely,No,>2 liter,No,1-2 days a week,3-5 hours,Motorbike,Overweight
+Male,45,179,No,Yes,Sometimes,3,Usually,Yes,<1 liter,No,3-4 days a week,3-5 hours,Automobile,Overweight
+Male,46,170,No,Yes,Always,3,Sometimes,No,<1 liter,No,5-6 days a week,0-2 hours,Automobile,Overweight
+Male,46,173,No,No,Sometimes,3,Always,Yes,>2 liter,No,3-4 days a week,3-5 hours,Automobile,Overweight
+Male,46,173,Yes,No,Always,1-2,Sometimes,No,1-2 liter,No,6 or more days a week,0-2 hours,Automobile,Overweight
+Male,46,176,No,No,Sometimes,3,Usually,No,>2 liter,No,1-2 days a week,0-2 hours,Automobile,Overweight
+Male,46,178,Yes,No,Rarely,3,Sometimes,No,<1 liter,No,6 or more days a week,3-5 hours,Automobile,Overweight
+Male,46,182,No,Yes,Rarely,3,Rarely,Yes,>2 liter,No,1-2 days a week,>5 hours,Automobile,Overweight
+Male,47,165,No,No,Sometimes,3,Rarely,No,1-2 liter,No,3-4 days a week,3-5 hours,Automobile,Overweight
+Male,47,170,No,Yes,Rarely,3,Sometimes,No,>2 liter,No,6 or more days a week,0-2 hours,Automobile,Overweight
+Male,47,172,No,Yes,Sometimes,3,Rarely,Yes,>2 liter,No,6 or more days a week,>5 hours,Automobile,Overweight
+Male,47,174,No,No,Rarely,3,Usually,Yes,>2 liter,No,5-6 days a week,3-5 hours,Automobile,Overweight
+Male,47,183,No,Yes,Sometimes,1-2,Rarely,Yes,1-2 liter,No,6 or more days a week,3-5 hours,Automobile,Overweight
+Male,48,171,No,No,Sometimes,3,Always,No,>2 liter,No,3-4 days a week,3-5 hours,Automobile,Overweight
+Male,48,175,No,No,Sometimes,1-2,Sometimes,No,<1 liter,No,6 or more days a week,3-5 hours,Automobile,Overweight
+Male,48,176,No,No,Sometimes,3,Sometimes,No,>2 liter,No,3-4 days a week,>5 hours,Automobile,Overweight
+Male,48,175,No,Yes,Always,3,Usually,Yes,<1 liter,Yes,6 or more days a week,>5 hours,Automobile,Overweight
+Male,48,164,No,No,Always,3,Always,No,1-2 liter,No,1-2 days a week,0-2 hours,Automobile,Overweight
+Male,49,170,Yes,Yes,Rarely,3,Usually,No,<1 liter,No,5-6 days a week,0-2 hours,Automobile,Overweight
+Male,49,171,No,No,Sometimes,3,Usually,No,>2 liter,No,3-4 days a week,0-2 hours,Automobile,Overweight
+Male,49,176,No,No,Sometimes,3,Always,No,>2 liter,No,5-6 days a week,>5 hours,Automobile,Overweight
+Male,49,180,Yes,Yes,Rarely,3,Sometimes,Yes,<1 liter,Yes,3-4 days a week,>5 hours,Automobile,Overweight
+Male,50,169,No,Yes,Always,3,Always,No,1-2 liter,No,5-6 days a week,3-5 hours,Automobile,Overweight
+Male,50,171,Yes,Yes,Sometimes,3,Rarely,Yes,1-2 liter,Yes,1-2 days a week,3-5 hours,Automobile,Overweight
+Male,50,169,No,Yes,Always,3,Sometimes,No,>2 liter,Yes,5-6 days a week,>5 hours,Automobile,Overweight
+Male,51,170,No,No,Sometimes,1-2,Rarely,No,>2 liter,No,6 or more days a week,0-2 hours,Automobile,Overweight
+Male,51,171,Yes,No,Rarely,3,Sometimes,Yes,<1 liter,No,5-6 days a week,3-5 hours,Automobile,Overweight
+Male,51,172,No,No,Rarely,3,Sometimes,Yes,>2 liter,No,5-6 days a week,3-5 hours,Automobile,Overweight
+Male,51,174,No,No,Sometimes,3,Sometimes,No,1-2 liter,No,5-6 days a week,3-5 hours,Automobile,Overweight
+Male,51,174,No,Yes,Always,3,Always,No,>2 liter,No,1-2 days a week,>5 hours,Automobile,Overweight
+Male,52,176,No,No,Sometimes,3,Sometimes,No,>2 liter,No,5-6 days a week,0-2 hours,Automobile,Overweight
+Male,52,178,Yes,Yes,Sometimes,3,Rarely,Yes,1-2 liter,No,6 or more days a week,0-2 hours,Automobile,Overweight
+Male,52,165,No,No,Sometimes,3,Rarely,No,>2 liter,No,5-6 days a week,0-2 hours,Automobile,Overweight
+Male,52,170,No,No,Sometimes,3,Sometimes,No,>2 liter,No,5-6 days a week,3-5 hours,Automobile,Overweight
+Male,53,171,No,No,Sometimes,3,Usually,Yes,<1 liter,No,6 or more days a week,0-2 hours,Automobile,Overweight
+Male,53,173,No,No,Sometimes,3,Usually,No,<1 liter,No,3-4 days a week,0-2 hours,Automobile,Overweight
+Male,54,170,No,No,Sometimes,3,Rarely,No,>2 liter,No,5-6 days a week,>5 hours,Automobile,Overweight
+Male,54,174,No,No,Always,1-2,Rarely,No,>2 liter,No,3-4 days a week,0-2 hours,Automobile,Overweight
+Male,54,176,No,No,Sometimes,3,Usually,Yes,<1 liter,No,5-6 days a week,>5 hours,Automobile,Overweight
+Male,19,164,No,Yes,Sometimes,3,Sometimes,Yes,1-2 liter,No,3-4 days a week,3-5 hours,Public transportation,Obesity
+Male,21,172,Yes,Yes,Rarely,>3,Usually,Yes,<1 liter,No,5-6 days a week,3-5 hours,Motorbike,Obesity
+Male,21,171,Yes,No,Sometimes,3,Usually,Yes,1-2 liter,No,1-2 days a week,>5 hours,Public transportation,Obesity
+Male,24,168,No,Yes,Sometimes,>3,Rarely,Yes,<1 liter,No,5-6 days a week,3-5 hours,Motorbike,Overweight
+Male,25,175,Yes,Yes,Rarely,>3,Sometimes,Yes,1-2 liter,Yes,No Activity,0-2 hours,Public transportation,Obesity
+Male,26,179,No,No,Sometimes,>3,Rarely,No,1-2 liter,No,5-6 days a week,0-2 hours,Motorbike,Obesity
+Male,26,175,Yes,Yes,Rarely,>3,Sometimes,Yes,<1 liter,Yes,3-4 days a week,3-5 hours,Public transportation,Obesity
+Male,28,179,Yes,Yes,Sometimes,3,Sometimes,No,>2 liter,Yes,6 or more days a week,0-2 hours,Public transportation,Obesity
+Male,29,174,Yes,Yes,Rarely,3,Sometimes,Yes,<1 liter,No,5-6 days a week,3-5 hours,Public transportation,Obesity
+Male,30,177,No,No,Sometimes,>3,Rarely,Yes,1-2 liter,Yes,6 or more days a week,0-2 hours,Public transportation,Obesity
+Male,30,179,No,Yes,Rarely,>3,Rarely,Yes,<1 liter,No,5-6 days a week,3-5 hours,Public transportation,Obesity
+Male,32,167,No,Yes,Rarely,3,Always,Yes,1-2 liter,No,6 or more days a week,3-5 hours,Public transportation,Obesity
+Male,32,175,No,No,Sometimes,3,Usually,Yes,1-2 liter,No,3-4 days a week,>5 hours,Public transportation,Obesity
+Male,32,185,Yes,Yes,Rarely,>3,Sometimes,No,<1 liter,Yes,6 or more days a week,0-2 hours,Walking,Obesity
+Male,33,173,Yes,Yes,Rarely,>3,Sometimes,Yes,>2 liter,Yes,6 or more days a week,3-5 hours,Walking,Obesity
+Male,33,161,Yes,No,Sometimes,3,Sometimes,Yes,>2 liter,Yes,1-2 days a week,0-2 hours,Walking,Obesity
+Male,33,170,No,Yes,Rarely,>3,Sometimes,No,<1 liter,No,3-4 days a week,3-5 hours,Public transportation,Obesity
+Male,33,175,No,Yes,Rarely,3,Always,Yes,<1 liter,No,3-4 days a week,0-2 hours,Public transportation,Obesity
+Male,34,174,Yes,Yes,Rarely,>3,Always,Yes,1-2 liter,Yes,No Activity,>5 hours,Public transportation,Obesity
+Male,34,177,No,Yes,Sometimes,3,Sometimes,Yes,1-2 liter,No,5-6 days a week,3-5 hours,Public transportation,Obesity
+Male,35,168,No,Yes,Rarely,>3,Rarely,Yes,<1 liter,No,5-6 days a week,3-5 hours,Public transportation,Obesity
+Male,35,166,No,Yes,Rarely,3,Sometimes,No,>2 liter,No,3-4 days a week,0-2 hours,Public transportation,Obesity
+Male,35,172,Yes,No,Rarely,3,Usually,No,<1 liter,No,3-4 days a week,3-5 hours,Public transportation,Obesity
+Male,35,181,No,Yes,Rarely,>3,Rarely,No,<1 liter,Yes,6 or more days a week,>5 hours,Public transportation,Obesity
+Male,36,178,No,Yes,Sometimes,3,Rarely,Yes,1-2 liter,Yes,6 or more days a week,>5 hours,Public transportation,Obesity
+Male,36,185,Yes,Yes,Sometimes,3,Usually,Yes,<1 liter,Yes,6 or more days a week,>5 hours,Public transportation,Obesity
+Male,37,164,No,No,Rarely,>3,Always,Yes,>2 liter,Yes,6 or more days a week,3-5 hours,Public transportation,Obesity
+Male,37,184,Yes,Yes,Rarely,3,Usually,Yes,1-2 liter,Yes,5-6 days a week,0-2 hours,Automobile,Obesity
+Male,38,166,No,No,Sometimes,3,Usually,Yes,<1 liter,No,6 or more days a week,0-2 hours,Automobile,Obesity
+Male,38,179,No,No,Rarely,>3,Sometimes,No,<1 liter,No,1-2 days a week,>5 hours,Automobile,Obesity
+Male,38,181,Yes,Yes,Rarely,3,Always,Yes,1-2 liter,No,6 or more days a week,0-2 hours,Automobile,Obesity
+Male,39,176,Yes,Yes,Sometimes,3,Usually,No,1-2 liter,Yes,6 or more days a week,3-5 hours,Automobile,Obesity
+Male,39,175,No,No,Sometimes,>3,Usually,Yes,>2 liter,No,3-4 days a week,>5 hours,Automobile,Obesity
+Male,39,193,Yes,Yes,Rarely,>3,Rarely,Yes,<1 liter,No,3-4 days a week,0-2 hours,Automobile,Obesity
+Male,39,165,No,Yes,Sometimes,3,Usually,Yes,1-2 liter,No,6 or more days a week,>5 hours,Automobile,Obesity
+Male,40,169,No,No,Rarely,>3,Rarely,No,1-2 liter,No,6 or more days a week,3-5 hours,Automobile,Obesity
+Male,40,173,No,No,Rarely,>3,Sometimes,Yes,>2 liter,No,3-4 days a week,3-5 hours,Automobile,Obesity
+Male,41,175,No,No,Rarely,>3,Sometimes,No,>2 liter,No,6 or more days a week,>5 hours,Automobile,Obesity
+Male,41,176,Yes,Yes,Sometimes,>3,Sometimes,Yes,<1 liter,No,6 or more days a week,3-5 hours,Automobile,Obesity
+Male,41,181,Yes,Yes,Rarely,>3,Always,Yes,<1 liter,Yes,3-4 days a week,0-2 hours,Automobile,Obesity
+Male,42,174,No,Yes,Rarely,>3,Always,Yes,>2 liter,Yes,6 or more days a week,>5 hours,Automobile,Obesity
+Male,42,172,No,No,Sometimes,3,Usually,Yes,1-2 liter,No,5-6 days a week,0-2 hours,Automobile,Obesity
+Male,42,176,No,Yes,Rarely,>3,Sometimes,No,<1 liter,No,5-6 days a week,3-5 hours,Automobile,Obesity
+Male,43,166,No,Yes,Rarely,3,Usually,No,<1 liter,No,5-6 days a week,0-2 hours,Automobile,Obesity
+Male,43,186,Yes,No,Sometimes,3,Usually,Yes,1-2 liter,No,1-2 days a week,>5 hours,Automobile,Obesity
+Male,43,186,Yes,Yes,Rarely,3,Usually,No,>2 liter,No,6 or more days a week,3-5 hours,Automobile,Obesity
+Male,44,171,No,No,Rarely,>3,Sometimes,Yes,<1 liter,No,5-6 days a week,3-5 hours,Automobile,Obesity
+Male,44,170,Yes,No,Sometimes,3,Rarely,Yes,>2 liter,Yes,6 or more days a week,0-2 hours,Automobile,Obesity
+Male,45,164,No,No,Sometimes,3,Sometimes,No,<1 liter,No,3-4 days a week,>5 hours,Automobile,Obesity
+Male,45,166,No,Yes,Rarely,>3,Sometimes,Yes,<1 liter,No,6 or more days a week,3-5 hours,Automobile,Obesity
+Male,45,171,No,Yes,Sometimes,3,Always,No,<1 liter,No,5-6 days a week,0-2 hours,Automobile,Obesity
+Male,45,180,Yes,No,Sometimes,3,Sometimes,Yes,1-2 liter,No,5-6 days a week,3-5 hours,Automobile,Obesity
+Male,45,182,No,Yes,Rarely,>3,Sometimes,Yes,>2 liter,No,3-4 days a week,>5 hours,Automobile,Obesity
+Male,46,166,No,Yes,Sometimes,3,Rarely,No,>2 liter,No,6 or more days a week,3-5 hours,Automobile,Overweight
+Male,46,170,No,No,Rarely,3,Usually,Yes,1-2 liter,No,5-6 days a week,3-5 hours,Automobile,Obesity
+Male,46,175,No,No,Sometimes,3,Rarely,No,1-2 liter,No,1-2 days a week,>5 hours,Automobile,Obesity
+Male,47,180,Yes,Yes,Rarely,>3,Rarely,No,1-2 liter,Yes,6 or more days a week,3-5 hours,Automobile,Obesity
+Male,47,184,Yes,No,Sometimes,3,Sometimes,Yes,<1 liter,Yes,6 or more days a week,3-5 hours,Automobile,Obesity
+Male,48,166,No,No,Rarely,>3,Always,Yes,1-2 liter,No,6 or more days a week,>5 hours,Automobile,Obesity
+Male,48,182,Yes,No,Sometimes,3,Rarely,Yes,<1 liter,Yes,3-4 days a week,0-2 hours,Automobile,Obesity
+Male,49,180,No,No,Sometimes,3,Sometimes,Yes,1-2 liter,Yes,5-6 days a week,>5 hours,Automobile,Obesity
+Male,50,174,No,No,Rarely,3,Always,Yes,<1 liter,No,3-4 days a week,3-5 hours,Automobile,Obesity
+Male,50,181,No,Yes,Rarely,>3,Always,No,<1 liter,Yes,6 or more days a week,0-2 hours,Automobile,Obesity
+Male,51,167,No,No,Sometimes,3,Sometimes,No,<1 liter,No,1-2 days a week,>5 hours,Automobile,Obesity
+Male,51,173,No,No,Rarely,3,Always,No,<1 liter,No,1-2 days a week,0-2 hours,Automobile,Obesity
+Male,52,174,No,No,Rarely,3,Usually,Yes,>2 liter,No,5-6 days a week,>5 hours,Automobile,Obesity
+Male,52,179,No,No,Rarely,3,Always,Yes,1-2 liter,Yes,6 or more days a week,3-5 hours,Automobile,Obesity
+Male,52,180,Yes,Yes,Rarely,>3,Rarely,Yes,<1 liter,No,6 or more days a week,3-5 hours,Automobile,Obesity
+Male,53,172,No,No,Rarely,3,Usually,No,1-2 liter,No,3-4 days a week,>5 hours,Automobile,Obesity
+Male,53,175,Yes,Yes,Sometimes,3,Always,Yes,<1 liter,Yes,6 or more days a week,3-5 hours,Automobile,Obesity
+Male,54,173,No,No,Rarely,>3,Usually,Yes,1-2 liter,No,1-2 days a week,>5 hours,Public transportation,Obesity
+Male,54,172,No,Yes,Rarely,3,Rarely,No,>2 liter,No,5-6 days a week,3-5 hours,Motorbike,Obesity
+Male,54,177,No,No,Sometimes,3,Usually,Yes,>2 liter,No,3-4 days a week,>5 hours,Public transportation,Obesity
+Male,19,170,No,No,Rarely,1-2,Sometimes,No,<1 liter,No,5-6 days a week,0-2 hours,Walking,Underweight
+Male,21,171,No,Yes,Rarely,>3,Sometimes,Yes,>2 liter,No,1-2 days a week,3-5 hours,Motorbike,Underweight
+Male,23,176,No,No,Always,1-2,Always,Yes,<1 liter,No,No Activity,3-5 hours,Walking,Underweight
+Male,24,165,No,No,Always,1-2,Sometimes,Yes,<1 liter,No,No Activity,3-5 hours,Motorbike,Underweight
+Male,25,176,No,No,Always,1-2,Sometimes,Yes,<1 liter,No,No Activity,0-2 hours,Walking,Underweight
+Male,29,174,Yes,No,Sometimes,1-2,Sometimes,No,<1 liter,No,No Activity,3-5 hours,Bicycle,Underweight
+Male,36,168,No,No,Always,3,Always,No,>2 liter,No,No Activity,0-2 hours,Public transportation,Underweight
+Female,18,159,No,No,Always,1-2,Sometimes,Yes,>2 liter,No,No Activity,3-5 hours,Motorbike,Underweight
+Female,18,158,Yes,No,Always,1-2,Rarely,No,<1 liter,No,No Activity,3-5 hours,Public transportation,Underweight
+Female,18,163,No,No,Sometimes,1-2,Always,Yes,<1 liter,No,1-2 days a week,3-5 hours,Motorbike,Underweight
+Female,19,169,No,No,Always,1-2,Sometimes,Yes,<1 liter,No,No Activity,0-2 hours,Public transportation,Underweight
+Female,20,159,Yes,No,Always,1-2,Usually,Yes,1-2 liter,No,No Activity,0-2 hours,Public transportation,Underweight
+Female,21,158,No,No,Sometimes,3,Rarely,No,<1 liter,No,1-2 days a week,3-5 hours,Public transportation,Underweight
+Female,21,161,No,No,Always,1-2,Sometimes,Yes,>2 liter,No,No Activity,>5 hours,Public transportation,Underweight
+Female,21,156,No,No,Always,1-2,Sometimes,No,<1 liter,No,No Activity,3-5 hours,Motorbike,Underweight
+Female,22,163,No,Yes,Sometimes,3,Usually,Yes,<1 liter,No,No Activity,3-5 hours,Bicycle,Underweight
+Female,22,158,No,No,Always,1-2,Usually,Yes,>2 liter,No,No Activity,3-5 hours,Public transportation,Underweight
+Female,23,163,No,No,Always,3,Rarely,Yes,<1 liter,No,No Activity,>5 hours,Public transportation,Underweight
+Female,23,157,No,No,Sometimes,1-2,Usually,Yes,<1 liter,No,3-4 days a week,3-5 hours,Public transportation,Underweight
+Female,23,168,No,No,Always,3,Rarely,No,<1 liter,No,No Activity,>5 hours,Walking,Underweight
+Female,23,170,No,No,Sometimes,3,Always,Yes,>2 liter,No,1-2 days a week,3-5 hours,Walking,Underweight
+Female,24,163,No,Yes,Always,1-2,Always,Yes,<1 liter,No,No Activity,3-5 hours,Walking,Underweight
+Female,24,166,No,No,Sometimes,3,Sometimes,No,1-2 liter,No,3-4 days a week,3-5 hours,Public transportation,Underweight
+Female,25,170,No,No,Always,1-2,Usually,No,<1 liter,No,No Activity,3-5 hours,Public transportation,Underweight
+Female,27,159,No,Yes,Sometimes,3,Rarely,Yes,>2 liter,No,No Activity,3-5 hours,Public transportation,Underweight
+Female,27,164,No,No,Always,1-2,Rarely,No,<1 liter,No,No Activity,0-2 hours,Walking,Underweight
+Female,28,166,No,No,Sometimes,3,Usually,Yes,1-2 liter,No,No Activity,3-5 hours,Public transportation,Underweight
+Female,29,158,No,No,Always,3,Always,Yes,1-2 liter,No,1-2 days a week,3-5 hours,Bicycle,Underweight
+Female,31,162,No,No,Sometimes,1-2,Rarely,No,<1 liter,No,1-2 days a week,>5 hours,Public transportation,Underweight
+Female,32,166,No,No,Always,3,Usually,No,<1 liter,No,No Activity,>5 hours,Public transportation,Underweight
+Female,32,165,No,No,Sometimes,1-2,Rarely,No,1-2 liter,No,No Activity,3-5 hours,Public transportation,Underweight
+Female,34,151,No,No,Always,3,Usually,Yes,<1 liter,No,No Activity,3-5 hours,Public transportation,Underweight
+Female,36,165,No,No,Sometimes,3,Sometimes,Yes,<1 liter,No,No Activity,0-2 hours,Public transportation,Underweight
+Female,39,159,No,No,Sometimes,1-2,Sometimes,Yes,1-2 liter,No,No Activity,>5 hours,Automobile,Underweight
+Female,41,156,No,No,Always,1-2,Usually,Yes,<1 liter,No,No Activity,3-5 hours,Automobile,Underweight
+Female,44,155,No,No,Rarely,1-2,Rarely,No,<1 liter,No,1-2 days a week,3-5 hours,Automobile,Underweight
+Female,19,157,No,Yes,Rarely,>3,Always,Yes,>2 liter,No,6 or more days a week,3-5 hours,Walking,Obesity
+Female,22,161,Yes,Yes,Rarely,>3,Rarely,No,<1 liter,Yes,1-2 days a week,3-5 hours,Walking,Obesity
+Female,22,163,No,No,Rarely,>3,Always,Yes,<1 liter,No,3-4 days a week,3-5 hours,Motorbike,Obesity
+Female,23,164,No,No,Rarely,3,Always,No,1-2 liter,No,6 or more days a week,3-5 hours,Public transportation,Obesity
+Female,26,160,Yes,Yes,Rarely,3,Rarely,Yes,<1 liter,No,6 or more days a week,3-5 hours,Walking,Obesity
+Female,26,165,No,Yes,Rarely,>3,Always,Yes,>2 liter,No,3-4 days a week,>5 hours,Bicycle,Obesity
+Female,27,168,No,Yes,Sometimes,3,Usually,Yes,<1 liter,Yes,1-2 days a week,3-5 hours,Walking,Obesity
+Female,29,157,Yes,Yes,Rarely,>3,Always,No,1-2 liter,No,6 or more days a week,>5 hours,Public transportation,Obesity
+Female,30,162,No,Yes,Sometimes,>3,Always,No,>2 liter,Yes,6 or more days a week,3-5 hours,Public transportation,Obesity
+Female,30,163,No,No,Rarely,>3,Sometimes,No,1-2 liter,No,5-6 days a week,>5 hours,Walking,Obesity
+Female,31,168,Yes,No,Sometimes,1-2,Sometimes,Yes,<1 liter,No,6 or more days a week,3-5 hours,Walking,Obesity
+Female,34,170,No,Yes,Rarely,3,Usually,Yes,>2 liter,Yes,6 or more days a week,3-5 hours,Walking,Obesity
+Female,35,155,No,Yes,Rarely,>3,Always,No,>2 liter,Yes,5-6 days a week,>5 hours,Public transportation,Obesity
+Female,35,159,Yes,No,Rarely,>3,Usually,No,>2 liter,No,6 or more days a week,>5 hours,Walking,Obesity
+Female,35,171,Yes,Yes,Sometimes,1-2,Sometimes,Yes,<1 liter,No,1-2 days a week,3-5 hours,Public transportation,Obesity
+Female,36,164,Yes,No,Rarely,>3,Sometimes,No,<1 liter,Yes,5-6 days a week,3-5 hours,Public transportation,Obesity
+Female,37,162,No,Yes,Sometimes,>3,Sometimes,Yes,>2 liter,No,5-6 days a week,3-5 hours,Motorbike,Obesity
+Female,37,163,No,Yes,Sometimes,>3,Usually,Yes,<1 liter,Yes,1-2 days a week,>5 hours,Public transportation,Obesity
+Female,38,155,Yes,Yes,Rarely,>3,Sometimes,No,>2 liter,Yes,6 or more days a week,0-2 hours,Public transportation,Obesity
+Female,38,169,Yes,No,Rarely,3,Rarely,No,>2 liter,No,6 or more days a week,0-2 hours,Public transportation,Obesity
+Female,39,155,No,No,Sometimes,3,Usually,No,1-2 liter,Yes,5-6 days a week,>5 hours,Public transportation,Obesity
+Female,39,156,No,Yes,Rarely,>3,Usually,Yes,>2 liter,Yes,1-2 days a week,>5 hours,Public transportation,Obesity
+Female,39,158,No,No,Rarely,>3,Usually,Yes,>2 liter,No,5-6 days a week,3-5 hours,Public transportation,Obesity
+Female,39,164,Yes,No,Sometimes,3,Usually,Yes,>2 liter,No,6 or more days a week,0-2 hours,Automobile,Obesity
+Female,40,157,No,No,Sometimes,1-2,Rarely,Yes,<1 liter,Yes,6 or more days a week,0-2 hours,Automobile,Obesity
+Female,40,159,No,No,Sometimes,3,Always,No,1-2 liter,Yes,1-2 days a week,3-5 hours,Automobile,Obesity
+Female,40,165,Yes,Yes,Rarely,3,Sometimes,No,1-2 liter,Yes,6 or more days a week,>5 hours,Automobile,Obesity
+Female,41,156,No,No,Sometimes,3,Usually,Yes,>2 liter,No,6 or more days a week,3-5 hours,Automobile,Obesity
+Female,41,159,No,No,Sometimes,>3,Usually,Yes,>2 liter,No,3-4 days a week,0-2 hours,Automobile,Obesity
+Female,41,175,No,No,Rarely,>3,Usually,No,<1 liter,No,5-6 days a week,3-5 hours,Automobile,Obesity
+Female,42,158,Yes,Yes,Rarely,>3,Rarely,No,<1 liter,No,6 or more days a week,>5 hours,Automobile,Obesity
+Female,42,162,No,No,Rarely,1-2,Sometimes,Yes,<1 liter,No,1-2 days a week,3-5 hours,Automobile,Obesity
+Female,42,170,Yes,No,Sometimes,3,Usually,Yes,1-2 liter,No,1-2 days a week,0-2 hours,Automobile,Obesity
+Female,43,159,Yes,Yes,Rarely,>3,Always,No,1-2 liter,No,5-6 days a week,0-2 hours,Automobile,Obesity
+Female,44,160,No,No,Rarely,>3,Sometimes,Yes,>2 liter,No,5-6 days a week,0-2 hours,Automobile,Obesity
+Female,44,164,No,No,Rarely,>3,Sometimes,Yes,1-2 liter,No,1-2 days a week,3-5 hours,Automobile,Obesity
+Female,45,166,No,No,Rarely,3,Sometimes,No,>2 liter,No,5-6 days a week,>5 hours,Automobile,Obesity
+Female,46,164,No,No,Sometimes,3,Rarely,Yes,<1 liter,No,5-6 days a week,0-2 hours,Automobile,Obesity
+Female,47,162,Yes,No,Rarely,>3,Always,Yes,<1 liter,Yes,6 or more days a week,0-2 hours,Automobile,Obesity
+Female,47,160,No,Yes,Rarely,3,Rarely,No,>2 liter,Yes,6 or more days a week,3-5 hours,Automobile,Obesity
+Female,47,167,No,Yes,Rarely,>3,Rarely,Yes,1-2 liter,Yes,3-4 days a week,0-2 hours,Automobile,Obesity
+Female,48,169,Yes,No,Sometimes,3,Rarely,No,<1 liter,Yes,5-6 days a week,>5 hours,Automobile,Obesity
+Female,49,173,Yes,Yes,Rarely,>3,Rarely,Yes,1-2 liter,No,1-2 days a week,3-5 hours,Automobile,Obesity
+Female,50,178,Yes,Yes,Rarely,3,Sometimes,Yes,>2 liter,No,6 or more days a week,0-2 hours,Automobile,Obesity
+Female,51,165,No,Yes,Rarely,>3,Always,Yes,>2 liter,Yes,3-4 days a week,0-2 hours,Automobile,Obesity
+Female,51,163,No,Yes,Sometimes,3,Always,No,1-2 liter,No,6 or more days a week,0-2 hours,Automobile,Obesity
+Female,52,162,Yes,No,Rarely,>3,Always,Yes,>2 liter,Yes,5-6 days a week,0-2 hours,Automobile,Obesity
+Female,53,168,No,Yes,Rarely,>3,Always,Yes,1-2 liter,No,1-2 days a week,0-2 hours,Automobile,Obesity
+Female,54,170,Yes,Yes,Rarely,>3,Always,Yes,>2 liter,No,5-6 days a week,>5 hours,Automobile,Obesity
