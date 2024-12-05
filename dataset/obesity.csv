@@ -1,4 +1,4 @@
-sex,age,height,overweight_obese_family,consumption_of_fast_food,frequency_of_consuming_vegetables,number_of_main_meals_daily,food_intake_between_meals,smoking,liquid_intake_daily,calculation_of_calorie_intake,physical_excercise,schedule_dedicated_to_technology,type_of_transportation_used,class
+sex,age,height,overweight_obese_family,consumption_of_fast_food,frequency_of_consuming_vegetables,number_of_main_meals_daily,food_intake_between_meals,smoking,liquid_intake_daily,calculation_of_calorie_intake,physical_exercise,schedule_dedicated_to_technology,type_of_transportation_used,class
 Female,18,155,No,No,Always,1-2,Usually,No,<1 liter,No,3-4 days a week,>5 hours,Public transportation,Normal
 Female,18,158,No,No,Always,1-2,Rarely,No,<1 liter,No,No Activity,>5 hours,Bicycle,Normal
 Female,18,159,No,No,Sometimes,1-2,Usually,No,>2 liter,No,1-2 days a week,>5 hours,Public transportation,Normal

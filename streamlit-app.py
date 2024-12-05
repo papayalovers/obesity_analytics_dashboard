@@ -1,27 +1,41 @@
 import streamlit as st
-import numpy as np
-import base64
-import logging
 from streamlit_option_menu import option_menu
+from pages import clf, Dashboard, hist
 
-########################
-#   SIDEBAR SETUP        #
-########################
-st.set_page_config(page_title='Obesity Dashboard', page_icon=':bar_chart:', layout='wide')
+# Membaca halaman-halaman yang ada
+def load_page(page_name):
+    if page_name == "Dashboard":
+        # Halaman dashboard
+        Dashboard.main()
+    elif page_name == "Klasifikasi":
+        # Halaman klasifikasi
+        clf.main()  # Menjalankan fungsi utama di clf.py
 
-if "logged_in" not in st.session_state:
-    st.session_state.logged_in = True
+def main():
+    st.set_page_config(page_title='Obesity Classification Dashboard', page_icon=':bar_chart:', layout='wide')
 
-dashboard = st.Page('pages/Dashboard.py', title='Dashboard', icon=':material/dashboard:')
-clf = st.Page('pages/clf.py', title='Classification', icon=':material/search:')
+    # Menambahkan CSS untuk memberikan padding-top pada sidebar
+    st.markdown("""
+    <style>
+    .css-1d391kg {
+        padding-top: 100px !important;
+    }
 
-if st.session_state.logged_in:
-    pg = st.navigation(
-        {
-            "Menu": [dashboard, clf],
-        }
-    )
-    
-    
+    .css-1r9o0kd {
+        padding-top: 100px !important;
+    }
 
-pg.run()
+    .sidebar .sidebar-content {
+        padding-top: 100px !important;
+    }
+    </style>
+    """, unsafe_allow_html=True)
+
+    # Sidebar menu
+    with st.sidebar:
+        page = option_menu("Main Menu", ["Dashboard", "Klasifikasi"], icons=["house", "search"], menu_icon="cast", default_index=0)
+
+    load_page(page)
+
+if __name__ == "__main__":
+    main()

@@ -1,3 +1,3 @@
-# from .pages import 
-# from .clf import 
-# from .hist import 
+from .Dashboard import *
+from .clf import *
+from .hist import *
