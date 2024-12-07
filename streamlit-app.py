@@ -1,41 +1,73 @@
 import streamlit as st
-from streamlit_option_menu import option_menu
-from pages import clf, Dashboard, hist
-
-# Membaca halaman-halaman yang ada
+from session import Clf, Dashboard, Hist
+import base64
+# Fungsi untuk memuat halaman
 def load_page(page_name):
     if page_name == "Dashboard":
-        # Halaman dashboard
         Dashboard.main()
     elif page_name == "Klasifikasi":
-        # Halaman klasifikasi
-        clf.main()  # Menjalankan fungsi utama di clf.py
+        st.write("Coming Soon")
+    elif page_name == "History":
+        st.write("Coming Soon")
+
+# konfigurasi halaman
+st.set_page_config(
+    page_title="Obesity Classification Dashboard", 
+    page_icon=":bar_chart:", 
+    layout="wide"
+)
+
+# Fungsi untuk mengonversi gambar lokal ke base64
+def img_to_base64(image_path):
+    with open(image_path, "rb") as image_file:
+        return base64.b64encode(image_file.read()).decode()
+
+image_path = 'img/bg.jpg'  
+
+# konversi gambar ke base64
+image_base64 = img_to_base64(image_path)
 
 def main():
-    st.set_page_config(page_title='Obesity Classification Dashboard', page_icon=':bar_chart:', layout='wide')
-
-    # Menambahkan CSS untuk memberikan padding-top pada sidebar
-    st.markdown("""
+    # background image
+    background_image = f"""
     <style>
-    .css-1d391kg {
-        padding-top: 100px !important;
-    }
+    /* Set Background Image untuk seluruh aplikasi */
+    .stApp {{
+        position: relative;
+        background-image: url('data:image/jpeg;base64,{image_base64}');
+        background-size: cover;
+        background-position: center center;
+        background-repeat: no-repeat;
+        height: 100vh;
+    }}
 
-    .css-1r9o0kd {
-        padding-top: 100px !important;
-    }
-
-    .sidebar .sidebar-content {
-        padding-top: 100px !important;
-    }
+    /* Tambahkan overlay gelap dengan transparansi */
+    .stApp::before {{
+        content: "";
+        position: absolute;
+        top: 0;
+        left: 0;
+        width: 100%;
+        height: 100%;
+        background-color: rgba(0, 0, 0, 0.7);  /* Ubah angka 0.7 untuk mengatur kegelapan overlay */
+        z-index: -1;
+    }}
     </style>
-    """, unsafe_allow_html=True)
+    """
 
-    # Sidebar menu
-    with st.sidebar:
-        page = option_menu("Main Menu", ["Dashboard", "Klasifikasi"], icons=["house", "search"], menu_icon="cast", default_index=0)
+    st.markdown(background_image, unsafe_allow_html=True)
 
-    load_page(page)
+    # tabs untuk navigasi
+    tab1, tab2, tab3 = st.tabs(["Dashboard", "Klasifikasi", "Model History"])
+
+    with tab1:
+        load_page("Dashboard")
+    
+    with tab2:
+        load_page("Klasifikasi")
+    
+    with tab3:
+        load_page("History")
 
 if __name__ == "__main__":
     main()
