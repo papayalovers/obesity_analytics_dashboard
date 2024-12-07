@@ -20,7 +20,6 @@ def plot_gauge(
                 "font": {
                     "size": 20,  # Ukuran font
                     "color": indicator_color,  # Warna font sesuai dengan warna indikator
-                    "weight" : "bold"
                 }
             },
             gauge={
