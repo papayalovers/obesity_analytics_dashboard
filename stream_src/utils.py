@@ -48,26 +48,33 @@ def plot_gauge(
 # DISPLOT         #
 ###################
 def distplot(hist_data, group_labels, title):
-    fig = ff.create_distplot(hist_data, group_labels,show_rug=False)
+    # Check if we are dealing with multiple groups or single data set
+    if len(hist_data) == 1:
+        # If only one group, just plot the data without any grouping
+        fig = ff.create_distplot(hist_data, group_labels, show_rug=False)
+    else:
+        # If multiple groups, create distplot with grouping
+        fig = ff.create_distplot(hist_data, group_labels, show_rug=False)
 
-    # add title
+    # Update layout for the figure
     fig.update_layout(
         legend=dict(
-            x=0.65,  # posisi x dalam grafik (0 - 1)
-            y=0.95,  # posisi y dalam grafik (0 - 1)
-            
+            x=0.65,  # Position of the legend (0 - 1)
+            y=0.95,  # Position of the legend (0 - 1)
         ),
         title={
-            'text': title,
-            'font' : {'size': 18},
-            'x' : 0.5,
-            'xanchor' : 'center',
+            'text': f'{title} by Class' if len(hist_data) > 1 else title,
+            'font': {'size': 18},
+            'x': 0.5,
+            'xanchor': 'center',
         },
         width=600, height=500,
         plot_bgcolor='rgba(0,0,0,0)',  
         paper_bgcolor='rgba(0,0,0,0)',
         xaxis_title=title.capitalize(),
     )
+    
+    # Render the chart using Streamlit
     st.plotly_chart(fig, use_container_width=True)
 ###################
 # BARPLOT         #

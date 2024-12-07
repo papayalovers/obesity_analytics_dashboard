@@ -1,12 +1,14 @@
 import streamlit as st
 from session import Clf, Dashboard, Hist
 import base64
+
+
 # Fungsi untuk memuat halaman
 def load_page(page_name):
     if page_name == "Dashboard":
         Dashboard.main()
     elif page_name == "Klasifikasi":
-        st.write("Coming Soon")
+        Clf.main()
     elif page_name == "History":
         st.write("Coming Soon")
 
@@ -16,6 +18,7 @@ st.set_page_config(
     page_icon=":bar_chart:", 
     layout="wide"
 )
+st.markdown('<center><h2>Obesity Analytics and Classification</h2></center>', unsafe_allow_html=True)
 
 # Fungsi untuk mengonversi gambar lokal ke base64
 def img_to_base64(image_path):

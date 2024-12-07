@@ -1,6 +1,6 @@
 import streamlit as st
 import pandas as pd
-from stream_src.utils import *  
+from stream_src.utils import *
 
 def main():
     df = pd.read_csv('dataset/obesity.csv')
@@ -36,9 +36,13 @@ def main():
         plot_gauge(val4, "#ff0000", "", "Obesity", total)
 
     st.divider()
-
+    
     ##################################################################################
     top_left_col, top_right_col = st.columns((2, 1))
+    group_by_class = st.checkbox('Group By Class', value=True)
+    # Checkbox for grouping by class
+    
+
     with top_left_col:
         cat_slected = st.selectbox(
             'Select Attribute Categorical to Preview',
@@ -49,12 +53,8 @@ def main():
         )
         x = cat_slected.lower().replace(' ', '_')
 
-        hue_option = st.checkbox('Use Hue (Class)', value=True)
-
-        if hue_option:
-            hue = 'class'
-        else:
-            hue = None
+        # Use hue option based on checkbox state
+        hue = 'class' if group_by_class else None
 
         # menampilkan barplot
         barplot(data=df, x=x, hue=hue, title=cat_slected)
@@ -65,21 +65,25 @@ def main():
             ('Age', 'Height'),
             index=0,
         )
-        st.divider()
 
-        grouped_data = []
-        group_labels = []
-        for group in df['class'].unique():
-            filtered_data = df[df['class'] == group][attribute_selected.lower()].to_list()
-            grouped_data.append(filtered_data)
-            group_labels.append(group)
+        # Process the distplot based on grouping checkbox
+        if group_by_class:
+            # Grouping data based on 'class' column
+            grouped_data = []
+            group_labels = []
+            for group in df['class'].unique():
+                filtered_data = df[df['class'] == group][attribute_selected.lower()].to_list()
+                grouped_data.append(filtered_data)
+                group_labels.append(group)
+            distplot(grouped_data, group_labels, title=attribute_selected)
+        else:
+            # Display without grouping
+            distplot([df[attribute_selected.lower()].to_list()], ['All Data'], title=attribute_selected)
 
-        distplot(grouped_data, group_labels, title=f"{attribute_selected} by Class")
-
+    ##################################################################################
     st.divider()
     st.markdown('<center><h3>Risk of Obesity</h3></center>', unsafe_allow_html=True)
     
-    ##################################################################################
     col_1, col_2, col_3, col_4 = st.columns(4)
 
     with col_1:
