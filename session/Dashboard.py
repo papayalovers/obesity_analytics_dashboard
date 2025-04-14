@@ -19,7 +19,7 @@ def main():
     st.markdown('<center><h3>Class Proportions Overview</h3></center>', unsafe_allow_html=True)
     st.divider()
 
-    ##################################################################################
+    ########################### DISTRIBUSI MASING MASING KELAS ##############################
     col_1, col_2, col_3, col_4 = st.columns(4)
     total = len(df)
     with col_1:
@@ -37,28 +37,37 @@ def main():
 
     st.divider()
     
-    ##################################################################################
+    ########################################################################################################
     top_left_col, top_right_col = st.columns((2, 1))
-    group_by_class = st.checkbox('Group By Class', value=True)
-    # Checkbox for grouping by class
-    
-
+    ########################## DISTRIBUSI ATRIBUT KATEGORIK HUE / NO HUE ####################################
+    # checkbox untuk grouping by class
+    group_by_class = st.checkbox('Group By Class', value=True)    
+    # view di kolom kiri
     with top_left_col:
         cat_slected = st.selectbox(
             'Select Attribute Categorical to Preview',
-            ('Sex', 'Overweight Obese Family', 'Consumption of Fast Food', 'Frequency of Consuming Vegetables',
-             'Number of Main Meals Daily', 'Food Intake Between Meals', 'Smoking', 'Liquid Intake Daily',
-             'Calculation of Calorie Intake', 'Physical Exercise', 'Schedule Dedicated to Technology', 'Type of Transportation Used'),
+            ('Sex', 
+             'Overweight Obese Family', 
+             'Consumption of Fast Food', 
+             'Frequency of Consuming Vegetables',
+             'Number of Main Meals Daily', 
+             'Food Intake Between Meals', 
+             'Smoking', 
+             'Liquid Intake Daily',
+             'Calculation of Calorie Intake', 
+             'Physical Exercise', 
+             'Schedule Dedicated to Technology', 
+             'Type of Transportation Used'),
             index=0,
         )
         x = cat_slected.lower().replace(' ', '_')
 
-        # Use hue option based on checkbox state
         hue = 'class' if group_by_class else None
 
         # menampilkan barplot
         barplot(data=df, x=x, hue=hue, title=cat_slected)
 
+    ########################## DISTRIBUSI ATRIBUT NUMERIK HUE / NO HUE ####################################
     with top_right_col:
         attribute_selected = st.selectbox(
             'Attribute to preview',
@@ -66,9 +75,8 @@ def main():
             index=0,
         )
 
-        # Process the distplot based on grouping checkbox
         if group_by_class:
-            # Grouping data based on 'class' column
+            # grouping data berdasarkan class
             grouped_data = []
             group_labels = []
             for group in df['class'].unique():
@@ -77,26 +85,37 @@ def main():
                 group_labels.append(group)
             distplot(grouped_data, group_labels, title=attribute_selected)
         else:
-            # Display without grouping
+            # tampilkan tanpa grouping
             distplot([df[attribute_selected.lower()].to_list()], ['All Data'], title=attribute_selected)
 
-    ##################################################################################
+    ###################### TRENDLINE KASUS OBESITAS BERDASARKAN USIA ################################
     st.divider()
-    st.markdown('<center><h3>Risk of Obesity</h3></center>', unsafe_allow_html=True)
-    
-    col_1, col_2, col_3, col_4 = st.columns(4)
+    plot_obesity_trend_by_age(df)
+    st.info('*Note: This chart shows the number of obesity cases by age—the higher the line, the more cases of obesity.*')
 
-    with col_1:
-        plot_gauge2(df, 'frequency_of_consuming_vegetables', 'Frekuensi Konsumsi Sayuran')
+    #############################################################################################
+    st.divider()
+    bottom_left_col, bottom_right_col = st.columns((2, 2))
+    ###################### PROPORSI ORANG  YANG TERKENA OBESITAS ################################
+    with bottom_left_col:
+        probability_barplot(df, 'Obesity')  
+    ###################### RISIKO SESEORANG TERKENA OBESITAS ####################################
+    with bottom_right_col:
+        probability_barplot(df, None)  
 
-    with col_2:
-        plot_gauge2(df, 'number_of_main_meals_daily', 'Jumlah Makan Utama Sehari')
+    ##################### HIGHLIGHT (NOT DONE YET) #####################################
+    ####################################################################################
+    st.divider()
 
-    with col_3:
-        plot_gauge2(df, 'physical_exercise', 'Aktivitas Latihan Fisik')
+    st.markdown('<center><h4>Lowest Obesity Risk Conditions</h3></center>', unsafe_allow_html=True)
+    cols = st.columns(3)
+    indicators = low_prob_indicator(df)
 
-    with col_4:
-        plot_gauge2(df, 'type_of_transportation_used', 'Jenis Transportasi')
-
+    for idx, (_,_,_, fig) in enumerate(indicators):
+        with cols[idx]:
+            st.plotly_chart(fig, use_container_width=True)
+            st.divider()
+    ####################################################################################
+    ####################################################################################
 if __name__ == "__main__":
     main()

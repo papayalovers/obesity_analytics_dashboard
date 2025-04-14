@@ -1,0 +1,26 @@
+{
+    "frequency_of_consuming_vegetables": {
+        "Always": 1.1269487750556793,
+        "Rarely": 2.327731092436975,
+        "Sometimes": 1.702954898911353
+    },
+    "number_of_main_meals_daily": {
+        "1-2": 1.1478696741854637,
+        "3": 1.7192353643966547,
+        ">3": 2.511737089201878
+    },
+    "physical_excercise": {
+        "1-2 days a week": 1.5384615384615385,
+        "3-4 days a week": 1.6077844311377245,
+        "5-6 days a week": 1.8512658227848102,
+        "6 or more days a week": 2.0699708454810497,
+        "No Activity": 0.9836065573770492
+    },
+    "type_of_transportation_used": {
+        "Automobile": 2.0935374149659864,
+        "Bicycle": 1.0471698113207548,
+        "Motorbike": 1.4883720930232558,
+        "Public transportation": 1.4238532110091744,
+        "Walking": 1.5
+    }
+}

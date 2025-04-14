@@ -1,67 +1,22 @@
 import streamlit as st
 from session import Clf, Dashboard, Hist
-import base64
-
-
-# Fungsi untuk memuat halaman
-def load_page(page_name):
-    if page_name == "Dashboard":
-        Dashboard.main()
-    elif page_name == "Klasifikasi":
-        Clf.main()
-    elif page_name == "History":
-        st.write("Coming Soon")
 
 # konfigurasi halaman
 st.set_page_config(
     page_title="Obesity Classification Dashboard", 
-    page_icon=":bar_chart:", 
+    page_icon="img/icon.png", 
     layout="wide"
 )
-st.markdown('<center><h2>Obesity Analytics and Classification</h2></center>', unsafe_allow_html=True)
 
-# Fungsi untuk mengonversi gambar lokal ke base64
-def img_to_base64(image_path):
-    with open(image_path, "rb") as image_file:
-        return base64.b64encode(image_file.read()).decode()
+# bikin status login pertama kali
+if 'agreed' not in st.session_state:
+    st.session_state.agreed = False
 
-image_path = 'img/bg.jpg'  
-
-# konversi gambar ke base64
-image_base64 = img_to_base64(image_path)
-
+# fungsi utama halaman dengan tabs
 def main():
-    # background image
-    background_image = f"""
-    <style>
-    /* Set Background Image untuk seluruh aplikasi */
-    .stApp {{
-        position: relative;
-        background-image: url('data:image/jpeg;base64,{image_base64}');
-        background-size: cover;
-        background-position: center center;
-        background-repeat: no-repeat;
-        height: 100vh;
-    }}
+    st.markdown('<center><h2>Obesity Analytics and Classification</h2></center>', unsafe_allow_html=True)
 
-    /* Tambahkan overlay gelap dengan transparansi */
-    .stApp::before {{
-        content: "";
-        position: absolute;
-        top: 0;
-        left: 0;
-        width: 100%;
-        height: 100%;
-        background-color: rgba(0, 0, 0, 0.7);  /* Ubah angka 0.7 untuk mengatur kegelapan overlay */
-        z-index: -1;
-    }}
-    </style>
-    """
-
-    st.markdown(background_image, unsafe_allow_html=True)
-
-    # tabs untuk navigasi
-    tab1, tab2, tab3 = st.tabs(["Dashboard", "Klasifikasi", "Model History"])
+    tab1, tab2, tab3 = st.tabs(["Dashboard", "Obesity Classification", "Model Training History"])
 
     with tab1:
         load_page("Dashboard")
@@ -72,5 +27,43 @@ def main():
     with tab3:
         load_page("History")
 
+# fungsi untuk memuat halaman
+def load_page(page_name):
+    if page_name == "Dashboard":
+        Dashboard.main()
+    elif page_name == "Klasifikasi":
+        Clf.main()
+    elif page_name == "History":
+        Hist.main()
+
+# Disclaimer
+def show_disclaimer():
+    st.markdown("""
+    <div style="border: 2px solid #d3d3d3; padding: 20px; border-radius: 10px; background-color: #000000; text-align: center;">
+        <h4 style="color:white;">📌 Disclaimer & Acknowledgement</h4>
+        <p style="font-size:16px; color:white;">
+            Please note that the results presented in this dashboard are derived based on the dataset used.<br>
+            <a href="https://www.kaggle.com/datasets/suleymansulak/obesity-dataset" target="_blank" style="color:#00ffff;">Click here to view the dataset</a>.<br><br>
+            These results are not intended to be generalized beyond the scope of the original data.<br>
+            Special thanks to <strong>Niğmet KÖKLÜ</strong><sup>1</sup> and <strong>Süleyman Alpaslan SULAK</strong><sup>2</sup> for providing the dataset used in this research.<br>
+            Read the original research by Niğmet KÖKLÜ <a href="https://doi.org/10.33484/sinopfbd.1445215" target="_blank" style="color:#00ffff;">(DOI: 10.33484/sinopfbd.1445215)</a>.
+        </p>
+    </div>
+    """, unsafe_allow_html=True)
+
+    st.markdown("<br>", unsafe_allow_html=True)  # spasi
+    
+    cols = st.columns(9)  
+    
+    with cols[4]: 
+        center_button = st.button("Continue to Dashboard")
+        if center_button:
+            st.session_state.agreed = True
+            st.rerun()
+
+# app logic
 if __name__ == "__main__":
-    main()
+    if not st.session_state.agreed:
+        show_disclaimer()
+    else:
+        main()
