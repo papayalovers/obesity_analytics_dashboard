@@ -3,3 +3,5 @@ plotly==5.18.0
 streamlit
 scipy
 joblib
+scikit-learn
+optuna-dashboard
