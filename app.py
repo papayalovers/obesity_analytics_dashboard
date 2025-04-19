@@ -36,7 +36,7 @@ def load_page(page_name):
     elif page_name == "History":
         Hist.main()
 
-# Disclaimer
+# disclaimer
 def show_disclaimer():
     st.markdown("""
     <div style="border: 2px solid #d3d3d3; padding: 20px; border-radius: 10px; background-color: #000000; text-align: center;">
